@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Fri, 10 Sep 2021 15:22:55 +0100</pubDate>
-        <lastBuildDate>Fri, 10 Sep 2021 15:22:55 +0100</lastBuildDate>
+        <pubDate>Sat, 11 Sep 2021 12:54:20 +0100</pubDate>
+        <lastBuildDate>Sat, 11 Sep 2021 12:54:20 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -1149,14 +1149,24 @@ Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbu
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title>LTP5 — Before you Fire the Shutter</title>
+            <title>LTP 5: Before you Fire the Shutter</title>
             <link>https://lets-talk.ie/ltp5</link>
-            <description><![CDATA[Joining Bart this month are Mark Pouley form the Twin Lakes Images, Antonio Rosario from Switch to Manual, and Stefaan Lesage from Tech45. There are four distinct phases in a photograph’s life, preparation, capture, editing, and publishing. We’ll be dedicating an episode to each of these topics throughout 2014. This month we’re focusing on the first of these phases, the work you can put in before you capture the image to help that image be the best it can.]]></description>
+            <description><![CDATA[<p>Joining Bart this month are Mark Pouley form the Twin Lakes Images, Antonio Rosario from Switch to Manual, and Stefaan Lesage from Tech45. There are four distinct phases in a photograph’s life, preparation, capture, editing, and publishing. We’ll be dedicating an episode to each of these topics throughout 2014. This month we’re focusing on the first of these phases, the work you can put in before you capture the image to help that image be the best it can.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp5</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
             <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp5.mp3" length="33602029" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP5-Prep.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>A panel discussing preparations before taking photos with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Stefaan Lesage</itunes:subtitle>
+            <itunes:summary>Joining Bart this month are Mark Pouley form the Twin Lakes Images, Antonio Rosario from Switch to Manual, and Stefaan Lesage from Tech45. There are four distinct phases in a photograph’s life, preparation, capture, editing, and publishing. We’ll be dedicating an episode to each of these topics throughout 2014. This month we’re focusing on the first of these phases, the work you can put in before you capture the image to help that image be the best it can.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp5.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4161</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1165,14 +1175,24 @@ Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbu
             <itunes:title>Before you Fire the Shutter</itunes:title>
         </item>
         <item>
-            <title>LTP 4 — Finding Inspiration</title>
+            <title>LTP 4: Finding Inspiration</title>
             <link>https://lets-talk.ie/ltp4</link>
-            <description><![CDATA[Bart is joined by Mark Pouley, Antonio Rosario and Stefaan Lesage to discuss ways of finding inspiration when we hit the inevitable dry patch.]]></description>
+            <description><![CDATA[<p>Bart is joined by Mark Pouley, Antonio Rosario and Stefaan Lesage to discuss ways of finding inspiration when we hit the inevitable dry patch.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp4</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
             <pubDate>Wed, 22 Jan 2014 02:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp4.mp3" length="32019840" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP4-FindingInspiration.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>A panel discussion on Finding Inspiration with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Stefaan Lesage</itunes:subtitle>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Stefaan Lesage</itunes:subtitle>
+            <itunes:summary>Bart is joined by Mark Pouley, Antonio Rosario and Stefaan Lesage to discuss ways of finding inspiration when we hit the inevitable dry patch.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp4.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3963</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1181,14 +1201,19 @@ Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbu
             <itunes:title>Finding Inspiration</itunes:title>
         </item>
         <item>
-            <title>LTP3 — Shooting After Sunset</title>
+            <title>LTP 3: Shooting After Sunset</title>
             <link>https://lets-talk.ie/ltp3</link>
-            <description><![CDATA[Bart is joined by Mark Pouley, Antonio Rosario and Kenny Lee to talk about some of the many photographic opportunities that present themselves after the sun sets.]]></description>
+            <description><![CDATA[<p>Bart is joined by Mark Pouley, Antonio Rosario and Kenny Lee to talk about some of the many photographic opportunities that present themselves after the sun sets.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp3</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
             <pubDate>Sat, 04 Jan 2014 02:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp3.mp3" length="41545119" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP3-AfterSunset.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>A panel discussion on Shooting After Sunset with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Kenny Lee</itunes:subtitle>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Kenny Lee</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>5154</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1197,14 +1222,24 @@ Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbu
             <itunes:title>Shooting After Sunset</itunes:title>
         </item>
         <item>
-            <title>LTP2 — Improving Your Photography</title>
+            <title>LTP 2: Improving Your Photography</title>
             <link>https://lets-talk.ie/ltp2</link>
-            <description><![CDATA[Bart is joined by Mark Pouley, Antonio Rosario and Allison Sheridan to share their strategies for improving their photography.]]></description>
+            <description><![CDATA[<p>Bart is joined by Mark Pouley, Antonio Rosario and Allison Sheridan to share their strategies for improving their photography.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp2</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
             <pubDate>Wed, 13 Nov 2013 02:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp2.mp3" length="30509899" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP2-Improving.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>A panel discussion on improving your photography with Bart Busshots, Mark Pouley, Antonio Rosario &amp; Allison Sheridan</itunes:subtitle>
+            <itunes:subtitle>A panel discussion with Bart Busshots, Mark Pouley, Antonio Rosario &amp; Allison Sheridan</itunes:subtitle>
+            <itunes:summary>Bart is joined by Mark Pouley, Antonio Rosario and Allison Sheridan to share their strategies for improving their photography.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp1.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3775</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1213,14 +1248,24 @@ Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbu
             <itunes:title>Improving Your Photography</itunes:title>
         </item>
         <item>
-            <title>LTP1 — Composition</title>
+            <title>LTP 1: Composition</title>
             <link>https://lets-talk.ie/ltp1</link>
-            <description><![CDATA[Bart is joined by Mark Pouley, Allister Jenks and Kenny Lee to talk about Composition.]]></description>
+            <description><![CDATA[<p>Bart talks about Composition with Mark Pouley, Allister Jenks and Kenny Lee.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp1</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
             <pubDate>Sat, 12 Oct 2013 21:00:00 +0100</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp1.mp3" length="30471882" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP1-Composition.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>A Panel discussion on Composition with Bart Busschots, Mark Pouley, Allister Jenks &amp; Kenny Lee</itunes:subtitle>
+            <itunes:subtitle>A Panel discussion with Bart Busschots, Mark Pouley, Allister Jenks &amp; Kenny Lee</itunes:subtitle>
+            <itunes:summary>Bart talks about Composition with Mark Pouley, Allister Jenks and Kenny Lee.
+
+Listen and subscribe at lets-talk.ie/ltp1.
+
+This show is ad-free and entirely listener supported. Please considering supporting the show on Patreon (https://patreon.com/ltpod)</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3770</itunes:duration>
             <itunes:season>0</itunes:season>
