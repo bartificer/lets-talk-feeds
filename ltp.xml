@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
-        <title>Let's Talk Photography BETA</title>
-        <link>http://www.lets-talk.ie</link>
+        <title>Let's Talk Photography</title>
+        <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
         <generator>Feeder 4.2.4(5674); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 11 Sep 2021 12:54:20 +0100</pubDate>
-        <lastBuildDate>Sat, 11 Sep 2021 12:54:20 +0100</lastBuildDate>
+        <pubDate>Sun, 12 Sep 2021 12:25:25 +0100</pubDate>
+        <lastBuildDate>Sun, 12 Sep 2021 12:25:25 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
-            <link>http://www.lets-talk.ie</link>
+            <link>http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg</link>
             <width>144</width>
             <height>144</height>
+            <description>The Let's Talk Photo Logo</description>
         </image>
-        <atom:link href="http://www.mymac.com/ltp.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.lets-talk.ie/ltp.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>Monthly Musings on the Art &amp; Craft of Photography</itunes:subtitle>
         <itunes:summary>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</itunes:summary>
@@ -34,111 +35,175 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>Let's Talk Photography 95 - The People who Support Us</title>
-            <link>https://lets-talk.ie/ltp94</link>
+            <title>LTP 95: The People who Support Us</title>
+            <link>https://lets-talk.ie/ltp95</link>
             <description><![CDATA[<p>In this solo show Bart takes some time to reflect on the people who support his photography, and encourages everyone to do the same.</p>
 
-<p>Show notes are available at https://lets-talk.ie/ltp95</p>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp95">lets-talk.ie/ltp95</a>.</p>
 
-<p>Reminder - you can submit questions for future Q & A shows at http://lets-talk.ie/photoq.</p>
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
 
-<p>Please consider supporting the show on Patreon: https://patreon.com/ltpod</p>
-
-<p>Links:</p>
-
-<p>Let's Talk Photography: http://www.lets-talk.ie/photo @LTPod http://www.flickr.com/groups/lets-talk-photo/</p>
-
-<p>Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbusschots/</p>
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
 ]]></description>
             <pubDate>Wed, 11 Aug 2021 20:00:41 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP95-People.mp3" length="13184744" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp95.mp3" length="13184744" type="audio/mpeg"/>
             <guid isPermaLink="false">64794605-3939-4B96-B575-76604D73133E</guid>
             <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart takes some time to reflect on the people who support his photography, and encourages everyone to do the same.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp95.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:duration>1609</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>95</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>The People who Support Us</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 94 - Photojournalism with Robert Lachman</title>
+            <title>LTP 94: Photojournalism with Robert Lachman</title>
             <link>https://lets-talk.ie/ltp94</link>
             <description><![CDATA[<p>This month Bart talks photojournalism and photo editing with retired LA Times photographer Robert Lachman.</p>
 
-<p>Show notes are available at https://lets-talk.ie/ltp94</p>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp94">lets-talk.ie/ltp94</a>.</p>
 
-<p>Reminder - you can submit questions for future Q & A shows at http://lets-talk.ie/photoq.</p>
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
 
-<p>Please consider supporting the show on Patreon: https://patreon.com/ltpod</p>
-
-<p>Links:
-<br />Let's Talk Photography: http://www.lets-talk.ie/photo @LTPod http://www.flickr.com/groups/lets-talk-photo/
-<br />Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbusschots/
-<br />Robert Lachman: https://robertlachman.com @photoandmac https://www.instagram.com/robert_lachman/</p>]]></description>
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 18 Jul 2021 00:01:13 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP94-Photojournalism.mp3" length="22555061" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp94.mp3" length="22555061" type="audio/mpeg"/>
             <guid isPermaLink="false">EAA54AA4-80EB-491D-A543-6D4D7AFDF105</guid>
             <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart interviews Roberb Lachman</itunes:subtitle>
+            <itunes:summary>This month Bart talks photojournalism and photo editing with retired LA Times photographer Robert Lachman.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp94.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:duration>2780</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>94</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Photojournalism with Robert Lachman</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 93 - Keep Learning</title>
+            <title>LTP 93: Keep Learning</title>
+            <link>https://lets-talk.ie/ltp93</link>
             <description><![CDATA[<p>In this solo show Bart shares eight ways in which he keep learning and improving his photography. We all learn in our own unique ways so Bart doesn't recommend a recipe for learning, but rather shares how he learns in the hope it helps or at least inspires others.</p>
 
-<p>Show notes are available at https://lets-talk.ie/ltp93</p>]]></description>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp93">lets-talk.ie/ltp93</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 20 Jun 2021 16:19:46 +0100</pubDate>
             <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP93-KeepLearning.mp3" length="14854780" type="audio/mpeg"/>
             <guid isPermaLink="false">87C04BE3-06AC-4986-9261-00F0AEB8DA82</guid>
             <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:summary>In this solo show Bart shares eight ways in which he keep learning and improving his photography. We all learn in our own unique ways so Bart doesn’t recommend a recipe for learning, but rather shares how he learns in the hope it helps or at least inspires others.
 
-Show notes are available at https://lets-talk.ie/ltp93
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp93.
 
-Reminder - you can submit questions for future Q &amp; A shows at http://lets-talk.ie/photoq.
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
 
-Please consider supporting the show on Patreon: https://patreon.com/ltpod
-
-Links:
-Let’s Talk Photography: http://www.lets-talk.ie/photo @LTPod http://www.flickr.com/groups/lets-talk-photo/
-Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbusschots/</itunes:summary>
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:duration>1818</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>93</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Keep Learning</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 92 - Railways not Trains</title>
-            <description><![CDATA[In this solo show, and very much inspired by last month's chat with Antonio Rosario about the railway photographer O. Winston Link, Bart digs a little deeper into the whys and the hows of railway photography. The first part of the show explores the differences between thinking about shooting railways as opposed to trains, with the hope of inspiring you to have a go. Following on from that, the second part gives some practical tips that might help you convert your inspiration into great images.Show notes are available at lets-talk.ie/ltp92Reminder - you can submit questions for future Q A shows at http://lets-talk.ie/photoq.Please consider supporting the show on Patreon: https://patreon.com/ltpod]]></description>
+            <title>LTP 92: Railways not Trains</title>
+            <link>https://lets-talk.ie/ltp92</link>
+            <description><![CDATA[<p>In this solo show, and very much inspired by last month's chat with Antonio Rosario about the railway photographer O. Winston Link, Bart digs a little deeper into the whys and the hows of railway photography. The first part of the show explores the differences between thinking about shooting railways as opposed to trains, with the hope of inspiring you to have a go. Following on from that, the second part gives some practical tips that might help you convert your inspiration into great images.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp92">lets-talk.ie/ltp92</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 23 May 2021 13:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP92-RailwaysNotTrains.mp3" length="18874404" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp92.mp3" length="18874404" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP92-RailwaysNotTrains.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 92 - Railways not Trains</itunes:subtitle>
-            <itunes:summary>In this solo show, and very much inspired by last month's chat with Antonio Rosario about the railway photographer O. Winston Link, Bart digs a little deeper into the whys and the hows of railway photography. The first part of the show explores the differences between thinking about shooting railways as opposed to trains, with the hope of inspiring you to have a go. Following on from that, the second part gives some practical tips that might help you convert your inspiration into great images.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show, and very much inspired by last month’s chat with Antonio Rosario about the railway photographer O. Winston Link, Bart digs a little deeper into the whys and the hows of railway photography. The first part of the show explores the differences between thinking about shooting railways as opposed to trains, with the hope of inspiring you to have a go. Following on from that, the second part gives some practical tips that might help you convert your inspiration into great images.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp92.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2320</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>92</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Railways not Trains</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 91 - Bart Busschots on O. Winston Link (with Antonio Rosario)</title>
-            <description><![CDATA[This month Antonio turns the tables on Bart, interviewing him about one if his favourite photographers, O. Winston Link. Link was a commercial professional commercial photographer by day, but a dedicated amateur railway photographer by night (literally!).Show notes are available at lets-talk.ie/ltp91Reminder - you can submit questions for future Q A shows at http://lets-talk.ie/photoq.Please consider supporting the show on Patreon: https://patreon.com/ltpod]]></description>
+            <title>LTP 91: Bart Busschots on O. Winston Link (with Antonio Rosario)</title>
+            <link>https://lets-talk.ie/ltp91</link>
+            <description><![CDATA[<p>This month Antonio turns the tables on Bart, interviewing him about one if his favourite photographers, O. Winston Link. Link was a professional commercial photographer by day, but a dedicated amateur railway photographer by night (literally!).</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp91">lets-talk.ie/ltp91</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 25 Apr 2021 20:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP91-OWinstonLink.mp3" length="35633855" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp91.mp3" length="35633855" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP91-OWinstonLink.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 91 - Bart Busschots on O. Winston Link (with Antonio Rosario)</itunes:subtitle>
+            <itunes:subtitle>Guest host Antonio Rosario interviews Bart</itunes:subtitle>
             <itunes:summary>This month Antonio turns the tables on Bart, interviewing him about one if his favourite photographers, O. Winston Link. Link was a commercial professional commercial photographer by day, but a dedicated amateur railway photographer by night (literally!).</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4415</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>91</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Bart Busschots on O. Winston Link (with Antonio Rosario)</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 90 - Shoot like a Videographer with Wally Cherwinski</title>
+            <title>LTP 90: Shoot like a Videographer with Wally Cherwinski</title>
+            <link>https://lets-talk.ie/ltp90</link>
+            <description><![CDATA[<p>This month Bart is joined by keen photographer and videographer Wally Cherwinsky. We all strive to come home with interesting photos, and Wally has an unusual suggestion to help you get there — think like a videographer.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp90">lets-talk.ie/ltp90</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Mon, 15 Mar 2021 11:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP90-shootLikeAVideographer.mp3" length="27210247" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp90.mp3" length="27210247" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP90-shootLikeAVideographer.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 90 - Shoot like a Videographer with Wally Cherwinsky</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by keen photographer and videographer Wally Cherwinsky. We all strive to come home with interesting photos, and Wally has an unusual suggestion to help you get there — think like a videographer. Show notes are available at https://lets-talk.ie/ltp90Reminder - you can submit questions for future Q A shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: https://patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Wally Cherwinsky</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by keen photographer and videographer Wally Cherwinsky. We all strive to come home with interesting photos, and Wally has an unusual suggestion to help you get there — think like a videographer.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp90.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3362</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>90</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Shoot like a Videographer with Wally Cherwinski</itunes:title>
         </item>
         <item>
             <title>Let's Talk Photography 89 - Go Wide!</title>
@@ -1153,20 +1218,24 @@ Bart Busschots: http://www.bartb.ie @bbusschots http://www.flickr.com/photos/bbu
             <link>https://lets-talk.ie/ltp5</link>
             <description><![CDATA[<p>Joining Bart this month are Mark Pouley form the Twin Lakes Images, Antonio Rosario from Switch to Manual, and Stefaan Lesage from Tech45. There are four distinct phases in a photograph’s life, preparation, capture, editing, and publishing. We’ll be dedicating an episode to each of these topics throughout 2014. This month we’re focusing on the first of these phases, the work you can put in before you capture the image to help that image be the best it can.</p>
 
-<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp5</a>.</p>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp5">lets-talk.ie/ltp5</a>.</p>
 
 <p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
 ]]></description>
             <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp5.mp3" length="33602029" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP5-Prep.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>A panel discussing preparations before taking photos with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Stefaan Lesage</itunes:subtitle>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Stefaan Lesage</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Mark Pouley form the Twin Lakes Images, Antonio Rosario from Switch to Manual, and Stefaan Lesage from Tech45. There are four distinct phases in a photograph’s life, preparation, capture, editing, and publishing. We’ll be dedicating an episode to each of these topics throughout 2014. This month we’re focusing on the first of these phases, the work you can put in before you capture the image to help that image be the best it can.
 
 Listen, subscribe, and get the show notes at lets-talk.ie/ltp5.
 
-This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4161</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1179,9 +1248,11 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <link>https://lets-talk.ie/ltp4</link>
             <description><![CDATA[<p>Bart is joined by Mark Pouley, Antonio Rosario and Stefaan Lesage to discuss ways of finding inspiration when we hit the inevitable dry patch.</p>
 
-<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp4</a>.</p>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp4">lets-talk.ie/ltp4</a>.</p>
 
 <p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
 ]]></description>
             <pubDate>Wed, 22 Jan 2014 02:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp4.mp3" length="32019840" type="audio/mpeg"/>
@@ -1192,7 +1263,9 @@ This show is ad-free because of the generosity of listeners like you. Please con
 
 Listen, subscribe, and get the show notes at lets-talk.ie/ltp4.
 
-This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3963</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1205,15 +1278,24 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <link>https://lets-talk.ie/ltp3</link>
             <description><![CDATA[<p>Bart is joined by Mark Pouley, Antonio Rosario and Kenny Lee to talk about some of the many photographic opportunities that present themselves after the sun sets.</p>
 
-<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp3</a>.</p>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp3">lets-talk.ie/ltp3</a>.</p>
 
 <p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
 ]]></description>
             <pubDate>Sat, 04 Jan 2014 02:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp3.mp3" length="41545119" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP3-AfterSunset.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>A panel discussion with Bart Busschots, Mark Pouley, Antonio Rosario &amp; Kenny Lee</itunes:subtitle>
+            <itunes:summary>Bart is joined by Mark Pouley, Antonio Rosario and Kenny Lee to talk about some of the many photographic opportunities that present themselves after the sun sets.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp3.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>5154</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1226,9 +1308,11 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <link>https://lets-talk.ie/ltp2</link>
             <description><![CDATA[<p>Bart is joined by Mark Pouley, Antonio Rosario and Allison Sheridan to share their strategies for improving their photography.</p>
 
-<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp2</a>.</p>
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp2">lets-talk.ie/ltp2</a>.</p>
 
 <p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
 ]]></description>
             <pubDate>Wed, 13 Nov 2013 02:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp2.mp3" length="30509899" type="audio/mpeg"/>
@@ -1237,9 +1321,11 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:subtitle>A panel discussion with Bart Busshots, Mark Pouley, Antonio Rosario &amp; Allison Sheridan</itunes:subtitle>
             <itunes:summary>Bart is joined by Mark Pouley, Antonio Rosario and Allison Sheridan to share their strategies for improving their photography.
 
-Listen, subscribe, and get the show notes at lets-talk.ie/ltp1.
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp2.
 
-This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3775</itunes:duration>
             <itunes:season>0</itunes:season>
@@ -1255,6 +1341,8 @@ This show is ad-free because of the generosity of listeners like you. Please con
 <p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp1">lets-talk.ie/ltp1</a>.</p>
 
 <p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
 ]]></description>
             <pubDate>Sat, 12 Oct 2013 21:00:00 +0100</pubDate>
             <enclosure url="https://media.lets-talk.ie/ltp/ltp1.mp3" length="30471882" type="audio/mpeg"/>
@@ -1263,9 +1351,11 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:subtitle>A Panel discussion with Bart Busschots, Mark Pouley, Allister Jenks &amp; Kenny Lee</itunes:subtitle>
             <itunes:summary>Bart talks about Composition with Mark Pouley, Allister Jenks and Kenny Lee.
 
-Listen and subscribe at lets-talk.ie/ltp1.
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp1.
 
-This show is ad-free and entirely listener supported. Please considering supporting the show on Patreon (https://patreon.com/ltpod)</itunes:summary>
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3770</itunes:duration>
             <itunes:season>0</itunes:season>
