@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 25 Sep 2021 15:22:41 +0100</pubDate>
-        <lastBuildDate>Sat, 25 Sep 2021 15:22:41 +0100</lastBuildDate>
+        <pubDate>Sun, 26 Sep 2021 15:28:36 +0100</pubDate>
+        <lastBuildDate>Sun, 26 Sep 2021 15:28:36 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -1003,64 +1003,147 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title>Let's Talk Photography 25 - Projects</title>
+            <title>LTP 25: Projects</title>
+            <link>https://lets-talk.ie/ltp25</link>
+            <description><![CDATA[<p>This month Bart is joined by Antonio Rosario from Switch to Manual, and GazMaz from the My Mac Podcast. It’s easy to run out of inspiration, so in this show the panel suggest some photo projects that might inspire people to get back out there shooting.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp25">lets-talk.ie/ltp25</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Wed, 21 Oct 2015 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP25-Projects.mp3" length="29319063" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp25.mp3" length="29319063" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP25-Projects.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography - Episode 25 Projects</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by Antonio Rosario from Switch to Manual. GazMaz from the My Mac Podcast. It's easy to run out of inspiration, so in this show the panel suggest some photo projects that might inspire people to get back out there shooting.</itunes:summary>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Antonio Rosario &amp; Gazmaz.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3626</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>25</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Projects</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 24 - Favourite Photographers 1</title>
+            <title>LTP 24: Favourite Photographers 1</title>
+            <link>https://lets-talk.ie/ltp24</link>
+            <description><![CDATA[<p>This month it’s just Bart and Antonio Rosario from Switch to Manual. In this show the panelists pick two photographers to talk about that they really like - one from history, and one contemporary. Antonio chose Irving Penn and Michael Kenna, and Bart chose Eadweard Muybridge and Flickr user C2.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp24">lets-talk.ie/ltp24</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sat, 26 Sep 2015 18:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP24-Photographers1.mp3" length="30860093" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp24.mp3" length="30860093" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP24-Photographers1.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography - Episode 24 - Favourite Photographers 1</itunes:subtitle>
-            <itunes:summary>This month it's just Bart and Antonio Rosario from Switch to Manual. In this show the panelists pick two photographers to talk about that they really like - one from history, and one contemporary. Antonio chose Irving Penn and Michael Kenna, and Bart chose Eadweard Muybridge and Flickr user C2...</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario.</itunes:subtitle>
+            <itunes:summary>This month it’s just Bart and Antonio Rosario from Switch to Manual. In this show the panelists pick two photographers to talk about that they really like - one from history, and one contemporary. Antonio chose Irving Penn and Michael Kenna, and Bart chose Eadweard Muybridge and Flickr user C2.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp24.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3818</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>24</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Favourite Photographers 1</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 23 - Vacations</title>
+            <title>LTP 23: Vacations</title>
+            <link>https://lets-talk.ie/ltp23</link>
+            <description><![CDATA[<p>This month Bart is joined by a bumper panel: Allister Jenks from the Sitting Duck podcast, Antonio Rosario from Switch to Manual, Konrad Dwojak, Mark Pouley, and Victor Cajiao from the Terra Tech podcast. The topic for this show is photographing while on vacation, both to try capture the event of the holiday, and the place being visited.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp23">lets-talk.ie/ltp23</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 23 Aug 2015 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP23-Vacations.mp3" length="34321618" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp23.mp3" length="34321618" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP23-Vacations.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography - Episode 23 (Vacations)</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by a bumper panel: Allister Jenks from the Sitting Duck podcast, Antonio Rosario from Switch to Manual, Konrad Dwojak, Mark Pouley, and Victor Cajiao from the Terra Tech podcast. The topic for this show is photographing while on vacation, both to try capture the event of the holiday, and the place being visited. Show notes available at http://lets-talk.ie/ltp23 Reminder - you can submit questions for future Q &amp; A shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Allister Jenks, Antonio Rosario, Konrad Dwojak, Mark Pouley &amp; Victor Cajiao.</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by a bumper panel: Allister Jenks from the Sitting Duck podcast, Antonio Rosario from Switch to Manual, Konrad Dwojak, Mark Pouley, and Victor Cajiao from the Terra Tech podcast. The topic for this show is photographing while on vacation, both to try capture the event of the holiday, and the place being visited.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp23.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4251</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>23</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Vacations</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 22 - Photo Talk 1</title>
+            <title>LTP 22: Photo Talk 1</title>
+            <link>https://lets-talk.ie/ltp22</link>
+            <description><![CDATA[<p>This month Bart is joined by Antonio Rosario from Switch to Manual, and Stefaan Lesage from the Tech 45 podcast. This show is a bit of an experiment, all three of the hosts brought along a photo by someone else they particularly like, and a photo of their own they particularly like, and talk about them.</p>
+
+<p>Listen, subscribe, and get the show notes, with links to the images discussed, at <a href="https://lets-talk.ie/ltp22">lets-talk.ie/ltp22</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Wed, 22 Jul 2015 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP22-PhotoTalk1.mp3" length="39428455" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp22.mp3" length="39428455" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP22-PhotoTalk1.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography - Episode 22 (Photo Talk 1)</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by Antonio Rosario from Switch to Manual, and Stefaan Lesage from the Tech 45 podcast. This show is a bit of an experiment, all three of the hosts brought along a photo by someone else they particularly like, and a photo of their own they particularly like, and talk about them. There are links to all the photos discussed in the show notes at http://lets-talk.ie/ltp22 Reminder - you can submit questions for future Q &amp; A shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Antonio Rosario &amp; Stefaan Lesage.</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Antonio Rosario from Switch to Manual, and Stefaan Lesage from the Tech 45 podcast. This show is a bit of an experiment, all three of the hosts brought along a photo by someone else they particularly like, and a photo of their own they particularly like, and talk about them.
+
+Listen, subscribe, and get the show notes, with links to the images discussed, at lets-talk.ie/ltp22.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4889</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>22</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Photo Talk 1</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 21 - Photographing People</title>
+            <title>LTP 21: Photographing People</title>
+            <link>https://lets-talk.ie/ltp21</link>
+            <description><![CDATA[<p>This month it’s just Bart and Antonio Rosario from Switch to Manual. This is a continuation of a discussion on photographing people started in the previous episode. In this instalment we discuss portraits of all forms, from environmental to traditional, with a particular focus on photographing relatives at family events.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp21">lets-talk.ie/ltp21</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Mon, 22 Jun 2015 01:15:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP21-People.mp3" length="40561131" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp21.mp3" length="40561131" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP21-People.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography - Episode 21 (Photographing People)</itunes:subtitle>
-            <itunes:summary>This month it's just Bart and Antonio Rosario from Switch to Manual. This is a continuation of a discussion on photographing people started in the previous episode. In this instalment we discuss portraits of all forms, from environmental to traditional, with a particular focus on photographing relatives at family events. Reminder - you can submit questions for future Q and A shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod Full Show notes at http://lets-talk.ie/ltp21</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario.</itunes:subtitle>
+            <itunes:summary>This month it’s just Bart and Antonio Rosario from Switch to Manual. This is a continuation of a discussion on photographing people started in the previous episode. In this instalment we discuss portraits of all forms, from environmental to traditional, with a particular focus on photographing relatives at family events.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp21.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>5031</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>21</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Photographing People</itunes:title>
         </item>
         <item>
             <title>LTP 20: Photographing People</title>
