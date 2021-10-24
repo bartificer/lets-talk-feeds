@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 26 Sep 2021 23:25:20 +0100</pubDate>
-        <lastBuildDate>Sun, 26 Sep 2021 23:25:20 +0100</lastBuildDate>
+        <pubDate>Sun, 24 Oct 2021 15:27:10 +0100</pubDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:27:10 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -34,6 +34,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 97: Nightscapades</title>
+            <link>https://lets-talk.ie/ltp97</link>
+            <description><![CDATA[<p>This month Bart chats with Australian photographer Doug Ingram, better known as Nightscapades, about the art and craft of shooting so-called 'nightscapes'. Depending on the shot and your point of view a nightscape can be described as a landscape that includes the night sky, or a nigh-sky shot that includes at least some of the landscape below.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp97">lets-talk.ie/ltp97</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 24 Oct 2021 15:27:03 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp97.mp3" length="23081721" type="audio/mpeg"/>
+            <guid isPermaLink="false">2CCF060A-CCE7-458D-B4FA-7AAFE3649A9B</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Doug Ingram.</itunes:subtitle>
+            <itunes:summary>This month Bart chats with Australian photographer Doug Ingram, better known as Nightscapades, about the art and craft of shooting so-called ‘nightscapes’. Depending on the shot and your point of view a nightscape can be described as a landscape that includes the night sky, or a nigh-sky shot that includes at least some of the landscape below.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp97.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2846</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>97</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Nightscapades</itunes:title>
+        </item>
         <item>
             <title>LTP 96: How Stephen Wilkes Plays with Time</title>
             <link>https://lets-talk.ie/ltp96</link>
