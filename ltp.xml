@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.2.5(5685); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.3.1(5710); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 24 Oct 2021 15:27:10 +0100</pubDate>
-        <lastBuildDate>Sun, 24 Oct 2021 15:27:10 +0100</lastBuildDate>
+        <pubDate>Sun, 21 Nov 2021 15:21:51 +0000</pubDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:21:51 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -852,64 +852,154 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title>Let's Talk Photography 40 - New Beginnings</title>
+            <title>LTP 40: New Beginnings</title>
+            <link>https://lets-talk.ie/ltp40</link>
+            <description><![CDATA[<p>This month Bart interviews three different guests on the topic of ‘new beginnings’. First, Bart chats with Steve Stanger about his plans to do more photo and video editing on iOS in 2017. Next, Bart talks to Antonio Rosario about his plans to get back to shooting on film in 2017. And finally, Bart chats with Gazmaz about his renewed enthusiasm for shooting the night sky.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp40">lets-talk.ie/ltp40</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Tue, 24 Jan 2017 23:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP40-NewBeginnings.mp3" length="27179184" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp40.mp3" length="27179184" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP40-NewBeginnings.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 40 - New Beginnings</itunes:subtitle>
-            <itunes:summary>This month Bart interviews three different guests on the topic of 'new beginnings'. First, Bart chats with Steve Stanger about his plans to do more photo and video editing on iOS in 2017. Next, Bart talks to Antonio Rosario about his plans to get back to shooting on film in 2017. And finally, Bart chats with Gazmaz about his renewed enthusiasm for shooting the night sky.</itunes:summary>
+            <itunes:subtitle>Bart separately chat with Steve Stanger, Antonio Rosario, and Gazmaz.</itunes:subtitle>
+            <itunes:summary>This month Bart interviews three different guests on the topic of ‘new beginnings’. First, Bart chats with Steve Stanger about his plans to do more photo and video editing on iOS in 2017. Next, Bart talks to Antonio Rosario about his plans to get back to shooting on film in 2017. And finally, Bart chats with Gazmaz about his renewed enthusiasm for shooting the night sky.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp40.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>5579</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>40</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>New Beginnings</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 39 - The Night Sky</title>
+            <title>LTP 39: The Night Sky</title>
+            <link>https://media.lets-talk.ie/ltp/ltp39.mp3</link>
+            <description><![CDATA[<p>This month it’s just Bart - no guest and no panel! Bart tries to inspire the listeners to have a go at photographing the night sky this holiday season.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp39">lets-talk.ie/ltp39</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Fri, 23 Dec 2016 21:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP39-TheNightSky.mp3" length="15692226" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp39.mp3" length="15692226" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP39-TheNightSky.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 39 - The Night Sky</itunes:subtitle>
-            <itunes:summary>This month it's just Bart - no guest and no panel! Bart tries to inspire the listeners to have a go at photographing the night sky this holiday season. Show notes available at http://lets-talk.ie/ltp39 Reminder - you can submit questions for future shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>This month it’s just Bart - no guest and no panel! Bart tries to inspire the listeners to have a go at photographing the night sky this holiday season.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp39.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2869</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>39</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>The Night Sky</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 38 - Photography Gifts</title>
+            <title>LTP 38: Photography Gifts</title>
+            <link>https://lets-talk.ie/ltp38</link>
+            <description><![CDATA[<p>This month Bart is joined by Antonio Rosario form the Switch to Manual Podcast, Allison Sheridan from the Nosillacast Podcast, and Clay Daly from the Cybrcast Podcast. As the season for giving approaches yet again, the panel discuss gifts of photography, and gifts for photographers, ranging in price from stocking fillers all the way up to the $1,000 mark!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp38">lets-talk.ie/ltp38</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sat, 19 Nov 2016 00:30:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP38-PhotographyGifts.mp3" length="22479371" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp38.mp3" length="22479371" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP38-PhotographyGifts.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 38 - Photography Gifts</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by Antonio Rosario form the Switch to Manual Podcast, Allison Sheridan from the Nosillacast Podcast, and Clay Daly from the Cybrcast Podcast. As the season for giving approaches yet again, the panel discuss gifts of photography, and gifts for photographers, ranging in price from stocking fillers all the way up to the $1,000 mark! Show notes available at http://lets-talk.ie/ltp38 Reminder - you can submit questions for future shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario, Allison Sheridan &amp; Clay Daly.</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Antonio Rosario form the Switch to Manual Podcast, Allison Sheridan from the Nosillacast Podcast, and Clay Daly from the Cybrcast Podcast. As the season for giving approaches yet again, the panel discuss gifts of photography, and gifts for photographers, ranging in price from stocking fillers all the way up to the $1,000 mark!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp38.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4525</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>38</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Photography Gifts</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 37 - Smartphone Photography</title>
+            <title>LTP 37: Smartphone Photography</title>
+            <link>https://lets-talk.ie/ltp37</link>
+            <description><![CDATA[<p>This month’s show is guest-hosted by Allison Sheridan from the NosillaCast Podcast, and she is joined by Antonio Rosario form the Switch to Manual Podcast, Mark Pouley from Twin Lake Images, and Victor Cajiao from the Terratech podcast for a conversation about smartphone photography.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp37">lets-talk.ie/ltp37</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Thu, 20 Oct 2016 01:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP37-SmartphonePhotography.mp3" length="21075976" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp37.mp3" length="21075976" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP37-SmartphonePhotography.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 37 - Smartphone Photography</itunes:subtitle>
-            <itunes:summary>This month's show is guest-hosted by Allison Sheridan from the NosillaCast Podcast, and she is joined by Antonio Rosario form the Switch to Manual Podcast, Mark Pouley from Twin Lake Images, and Victor Cajiao from the Terratech podcast for a conversation about smartphone photography. Show notes available at http://lets-talk.ie/ltp37 Reminder - you can submit questions for future shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>Guest-host Allison Sheridan in conversation with Antonio Rosario, Mark Pouley &amp; Victor Cajiao.</itunes:subtitle>
+            <itunes:summary>This month’s show is guest-hosted by Allison Sheridan from the NosillaCast Podcast, and she is joined by Antonio Rosario form the Switch to Manual Podcast, Mark Pouley from Twin Lake Images, and Victor Cajiao from the Terratech podcast for a conversation about smartphone photography.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp37.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4226</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>37</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Smartphone Photography</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 36 - Famous Photographers</title>
+            <title>LTP 36: Famous Photographers</title>
+            <link>https://lets-talk.ie/ltp36</link>
+            <description><![CDATA[<p>This month Bart is joined by Antonio Rosario form the Switch to Manual Podcast. As a follow-up to last month’s interview with Jeff Curto, Bart and Antonio each showcase two great photographers from history, one from a very long time ago (at least a century), and an other from a long time ago (about 50 years). Bart championed Julia Margaret Cameron (1815-1879) & Imogen Cunningham (1883-1976), and Antonio championed Alfred Stieglitz (1864-1946) & Danny Lyon (born 1942 and still working).</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp36">lets-talk.ie/ltp36</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Wed, 28 Sep 2016 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP36-FamousPhotographers.mp3" length="37662378" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp36.mp3" length="37662378" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP36-FamousPhotographers.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 36 - Famous Photographers</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by Antonio Rosario form the Switch to Manual Podcast. As a follow-up to last month's interview with Jeff Curto, Bart and Antonio each showcase two great photographers from history, one from a very long time ago (at least a century), and an other from a long time ago (about 50 years). Bart championed Julia Margaret Cameron (1815-1879) &amp; Imogen Cunningham (1883-1976), and Antonio championed Alfred Stieglitz (1864-1946) &amp; Danny Lyon (born 1942 and still working). Show notes available at http://lets-talk.ie/ltp36 Reminder - you can submit questions for future shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario.</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Antonio Rosario form the Switch to Manual Podcast. As a follow-up to last month’s interview with Jeff Curto, Bart and Antonio each showcase two great photographers from history, one from a very long time ago (at least a century), and an other from a long time ago (about 50 years). Bart championed Julia Margaret Cameron (1815-1879) &amp; Imogen Cunningham (1883-1976), and Antonio championed Alfred Stieglitz (1864-1946) &amp; Danny Lyon (born 1942 and still working).
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp36.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4669</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>36</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Famous Photographers</itunes:title>
         </item>
         <item>
             <title>LTP 35: Photo History with Jeff Curto</title>
