@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 21 Nov 2021 15:21:51 +0000</pubDate>
-        <lastBuildDate>Sun, 21 Nov 2021 15:21:51 +0000</lastBuildDate>
+        <pubDate>Sun, 21 Nov 2021 20:03:09 +0000</pubDate>
+        <lastBuildDate>Sun, 21 Nov 2021 20:03:09 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -34,6 +34,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 98: Photographing Buildings with Jeff Curto</title>
+            <link>https://lets-talk.ie/ltp98</link>
+            <description><![CDATA[<p>This month Bart chats with returning guest Jeff Curto about shooting engaging images of buildings.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp98">lets-talk.ie/ltp98</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 21 Nov 2021 20:00:21 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp98.mp3" length="29460197" type="audio/mpeg"/>
+            <guid isPermaLink="false">7C0043D9-E003-4790-AD11-3293B73A79C6</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Jeff Curto.</itunes:subtitle>
+            <itunes:summary>This month Bart chats with returning guest Jeff Curto about shooting engaging images of buildings.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp98.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>3643</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>98</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Photographing Buildings</itunes:title>
+        </item>
         <item>
             <title>LTP 97: Nightscapades</title>
             <link>https://lets-talk.ie/ltp97</link>
