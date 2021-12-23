@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Thu, 23 Dec 2021 11:40:57 +0000</pubDate>
-        <lastBuildDate>Thu, 23 Dec 2021 11:40:57 +0000</lastBuildDate>
+        <pubDate>Thu, 23 Dec 2021 15:17:56 +0000</pubDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:17:56 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -581,184 +581,412 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title>Let's Talk Photography 65 - White Balance</title>
+            <title>LTP 65: White Balance</title>
+            <link>https://lets-talk.ie/ltp65</link>
+            <description><![CDATA[<p>Continuing his jargon-busting series of shows, Bart explains ‘White Balance’. You’ll find the full set of ‘Jargon’ shows at <a href="https://www.lets-talk.ie/jargon">https://www.lets-talk.ie/jargon</a>.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp65">lets-talk.ie/ltp65</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 17 Feb 2019 20:30:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP65-WhiteBalance.mp3" length="18743844" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp65.mp3" length="18743844" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP65-WhiteBalance.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 65 - White Balance</itunes:subtitle>
-            <itunes:summary>Continuing his jargon-busting series of shows, Bart explains 'White Balance'. You'll find the full set of 'Jargon' shows at http://www.lets-talk.ie/jargon. Please consider supporting the show on Patreon: https://patreon.com/ltpod Shownotes at https://lets-talk.ie/ltp65</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Continuing his jargon-busting series of shows, Bart explains ‘White Balance’. You’ll find the full set of ‘Jargon’ shows at https://www.lets-talk.ie/jargon.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp65.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2304</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>65</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>White Balance</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 64 - The Art and Technology Dance with Jeff Curto</title>
+            <title>LTP 64: The Art and Technology Dance with Jeff Curto</title>
+            <link>https://lets-talk.ie/ltp64</link>
+            <description><![CDATA[<p>This month Bart follows up his ‘potted history of capturing light’ (<a href="https://lets-talk.ie/ltp62">Episode 62</a> from November 2018) with an interview with photographer and retired professor Jeff Curto on the complex interplay between technology and art throughout photography’s history.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp64">lets-talk.ie/ltp64</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 20 Jan 2019 16:10:54 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP64-JeffCurto.mp3" length="35889813" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp64.mp3" length="35889813" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP64-JeffCurto.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 64 - The Art and Technology Dance with Jeff Curto</itunes:subtitle>
-            <itunes:summary>This month Bart follows up his ‘potted history of capturing light’ (Episode 62 from November 2018) with an interview with photographer and retired professor Jeff Curto on the complex interplay between technology and art throughout photography’s history. Please consider supporting the show on Patreon: https://patreon.com/ltpod Shownotes at https://lets-talk.ie/ltp64</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Jeff Curto.</itunes:subtitle>
+            <itunes:summary>This month Bart follows up his ‘potted history of capturing light’ (https://lets-talk.ie/ltp62) with an interview with photographer and retired professor Jeff Curto on the complex interplay between technology and art throughout photography’s history.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp64.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4447</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>64</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>The Art and Technology Dance with Jeff Curto</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 63 - More Street Photography with Antonio Rosario</title>
+            <title>LTP 63: More Street Photography with Antonio Rosario</title>
+            <link>https://lets-talk.ie/ltp63</link>
+            <description><![CDATA[<p>This month Bart continues his conversation on Street Photography with Antonio Rosario from Switch to Manual and the Street Shots Podcast. You’ll find the first part of the conversation as <a href="https://lets-talk.ie/ltp61">Episode 61</a> from October 2018.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp63">lets-talk.ie/ltp63</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Thu, 27 Dec 2018 18:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP63-AntonioRosario.mp3" length="30137927" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp63.mp3" length="30137927" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP63-AntonioRosario.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 63 - More Street Photography with Antonio Rosario</itunes:subtitle>
-            <itunes:summary>This month Bart continues his conversation on Street Photography with Antonio Rosario from Switch to Manual and the Street Shots Podcast. You'll find the first part of the conversation as Episode 61 from October 2018. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod Shownotes at https://lets-talk.ie/ltp63</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario.</itunes:subtitle>
+            <itunes:summary>This month Bart continues his conversation on Street Photography with Antonio Rosario from Switch to Manual and the Street Shots Podcast. You’ll find the first part of the conversation as Episode 61 (https://lets-talk.ie/ltp61) from October 2018.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp63.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3728</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>63</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>More Street Photography with Antonio Rosario</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 62 - A Potted History of Recording Light</title>
+            <title>LTP 62: A Potted History of Recording Light</title>
+            <link>https://lets-talk.ie/ltp62</link>
+            <description><![CDATA[<p>In this solo show Bart takes you on a journey from photography’s pre-history right through to the digital age. Photography may have been announced to the world in 1839, but it took a lot of work by a lot of people to get to that point, and of course, a lot of work to get from there to our modern smartphone cameras!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp62">lets-talk.ie/ltp62</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Thu, 25 Oct 2018 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP62-PottedHistory.mp3" length="24146445" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp62.mp3" length="24146445" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP62-PottedHistory.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 62 - A Potted History of Recording Light</itunes:subtitle>
-            <itunes:summary>In this solo show Bart takes you on a journey from photography's pre-history right through to the digital age. Photography may have been announced to the world in 1839, but it took a lot of work by a lot of people to get to that point, and of course, a lot of work to get from there to our modern smartphone cameras! Please consider supporting the show on Patreon: http://www.patreon.com/ltpod Shownotes at https://lets-talk.ie/ltp62</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart takes you on a journey from photography’s pre-history right through to the digital age. Photography may have been announced to the world in 1839, but it took a lot of work by a lot of people to get to that point, and of course, a lot of work to get from there to our modern smartphone cameras!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp62.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2979</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>62</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>A Potted History of Recording Light</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 61 - Street Photography with Antonio Rosario</title>
+            <title>LTP 61: Street Photography with Antonio Rosario</title>
+            <link>https://lets-talk.ie/ltp61</link>
+            <description><![CDATA[<p>This month Bart chats with Antonio Rosario from Switch to Manual and the Street Shots Podcast about his street photography.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp61">lets-talk.ie/ltp61</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sat, 13 Oct 2018 17:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP61-AntonioRosario.mp3" length="37586203" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp61.mp3" length="37586203" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP61-AntonioRosario.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 61 - Street Photography with Antonio Rosario</itunes:subtitle>
-            <itunes:summary>This month Bart chats with Antonio Rosario from Switch to Manual and the Street Shots Podcast about his street photography. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod Shownotes at https://lets-talk.ie/ltp61</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario.</itunes:subtitle>
+            <itunes:summary>This month Bart chats with Antonio Rosario from Switch to Manual and the Street Shots Podcast about his street photography.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp61.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>4659</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>61</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Street Photography with Antonio Rosario</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 60 - What's Your Point of View?</title>
+            <title>LTP 60: What's Your Point of View?</title>
+            <link>https://lets-talk.ie/ltp60</link>
+            <description><![CDATA[<p>In this month’s solo show Bart ponders the question of our photographic point of view. He argues that whether we know it or not, we all have one. Should we take the time to reflect on ours? Does it matter?</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp60">lets-talk.ie/ltp60</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Thu, 27 Sep 2018 11:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP60-PointOfView.mp3" length="14668867" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp60.mp3" length="14668867" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP60-PointOfView.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 60 - What's Your Point of View?</itunes:subtitle>
-            <itunes:summary>In this month's solo show Bart ponders the question of our photographic point of view. He argues that whether we know it or not, we all have one. Should we take the time to reflect on ours? Does it it matter?Please consider supporting the show on Patreon: www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>1795</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>60</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>What's Your Point of View?</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 59 - Projects</title>
+            <title>LTP 59: Projects</title>
+            <link>https://lets-talk.ie/ltp59</link>
+            <description><![CDATA[<p>In this month’s solo show Bart gives a detailed answer to a question friend of the show Antonio Rosario posed on episode 209 of the Shutter Time podcast — do you shoot photographic projects? The short answer is ‘yes’, but there’s much more to it than that!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp59">lets-talk.ie/ltp59</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Wed, 29 Aug 2018 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP59-Projects.mp3" length="27266633" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp59.mp3" length="27266633" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP59-Projects.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 59 - Projects</itunes:subtitle>
-            <itunes:summary>In this month's solo show Bart gives a detailed answer to a question friend of the show Antonio Rosario posed on episode 209 of the Shutter Time podcast — do you shoot photographic projects? The short answer is 'yes', but there's much more to it than that!</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3369</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>59</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Projects</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 58 - Vacations by Phone Camera</title>
+            <title>LTP 58: Vacations by Phone Camera</title>
+            <link>https://lets-talk.ie/ltp58</link>
+            <description><![CDATA[<p>This month Bart chats with Jeff Carlson from the PhotoActive podcast about getting the most out of the cameras in our phones while on vacation.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp58">lets-talk.ie/ltp58</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 29 Jul 2018 19:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP58-VacationsByPhoneCamera.mp3" length="31637442" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp58.mp3" length="31637442" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP58-VacationsByPhoneCamera.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 58 - Vacation by Phone Camera</itunes:subtitle>
-            <itunes:summary>This month Bart chats with Jeff Carlson from the PhotoActive podcast about getting the most out of the cameras in our phones while on vacation.</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Jeff Carlson.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3916</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>58</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Vacations by Phone Camera</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 57 - Digital Sensors</title>
+            <title>LTP 57: Digital Sensors</title>
+            <link>https://lets-talk.ie/ltp57</link>
+            <description><![CDATA[<p>In this solo show Bart explores the workings of the digital sensors that are at the heart of our modern cameras. How do they work? How do they differ from each other? What’s the difference between CCD and CMOS? What difference does size make? What’s full frame and how is it different from Micro Four Thirds? What’s Backside Illumination? And much more.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp57">lets-talk.ie/ltp57</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sat, 23 Jun 2018 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP57-DigitalSensors.mp3" length="23665681" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp57.mp3" length="23665681" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP57-DigitalSensors.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 57 - Digital Sensors</itunes:subtitle>
-            <itunes:summary>In this solo show Bart explores the workings of the digital sensors that are at the heart of our modern cameras. How do they work? How do they differ from each other? What's the difference between CCD and CMOS? What difference does size make? What's full frame and how is it different from Micro Four Thirds? What's Backside Illumination? And much more.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart explores the workings of the digital sensors that are at the heart of our modern cameras. How do they work? How do they differ from each other? What’s the difference between CCD and CMOS? What difference does size make? What’s full frame and how is it different from Micro Four Thirds? What’s Backside Illumination? And much more.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp57.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2919</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>57</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Digital Sensors</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 56 - Inspiration</title>
+            <title>LTP 56: Inspiration</title>
+            <link>https://lets-talk.ie/ltp56</link>
+            <description><![CDATA[<p>In this month’s solo show Bart ponders inspiration, and particularly how things we disapprove of and dislike can none-the-less inspire us. Bart also ponders the really big question — does photography make a difference? This show was inspired by some great discussions on two recent Shutter Time episodes (193 & 195) with Antonio Rosario, Sid & Mac.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp56">lets-talk.ie/ltp56</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 27 May 2018 16:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP56-Inspiration.mp3" length="15464886" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp56.mp3" length="15464886" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP56-Inspiration.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 56 - Inspiration</itunes:subtitle>
-            <itunes:summary>In this month's solo show Bart ponders inspiration, and particularly how things we disapprove of and dislike can none-the-less inspire us. Bart also ponders the really big question — does photography make a difference? This show was inspired by some great discussions on two recent Shutter Time episodes (193 &amp; 195) with Antonio Rosario, Sid &amp; Mac.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this month’s solo show Bart ponders inspiration, and particularly how things we disapprove of and dislike can none-the-less inspire us. Bart also ponders the really big question — does photography make a difference? This show was inspired by some great discussions on two recent Shutter Time episodes (193 &amp; 195) with Antonio Rosario, Sid &amp; Mac.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp56.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>1894</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>56</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Inspiration</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 55 - Brightnmess</title>
+            <title>LTP 55: Brightness</title>
+            <link>https://lets-talk.ie/ltp55</link>
+            <description><![CDATA[<p>In this solo show Bart asks you to imagine a line, and then takes you and your line on an imaginary journey from historghrhams, to brightness sliders, to black and white point sliders, to contrast sliders, and finally on to curves and levels adjustments. These controls are ubiquitous, so understanding them should prove extremely useful!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp55">lets-talk.ie/ltp55</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 25 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP55-Brightness.mp3" length="21312747" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp55.mp3" length="21312747" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP55-Brightness.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 55 - Brightness</itunes:subtitle>
-            <itunes:summary>In this solo show Bart asks you to imagine a line, and then takes you and your line on an imaginary journey from historghrhams, to brightness sliders, to black and white point sliders, to contrast sliders, and finally on to curves and levels adjustments. These controls are ubiquitous, so understanding them should prove extremely useful!</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2625</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>55</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Brightness</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 54 - Ethics</title>
+            <title>LTP 54: Ethics</title>
+            <link>https://lets-talk.ie/ltp54</link>
+            <description><![CDATA[<p>This month’s show is a solo show where Bart shares his throughts on how he thinks about ethical and moral questions around photography. This episode was inspired by episode 184 of Shutter Time with Sid & Mac with special guest Antonio Rosario.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp54">lets-talk.ie/ltp54</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Mon, 19 Mar 2018 12:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP54-Ethics.mp3" length="18597478" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp54.mp3" length="18597478" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP54-Ethics.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 54 - Ethics</itunes:subtitle>
-            <itunes:summary>This month's show is a solo show where Bart shares his throughts on how he thinks about ethical and moral questions around photography. This episode was inspired by episode 184 of Shutter Time with Sid &amp; Mac with special guest Antonio Rosario.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2286</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>54</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Ethics</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 53 - Focus</title>
+            <title>LTP 53: Focus</title>
+            <link>https://lets-talk.ie/ltp53</link>
+            <description><![CDATA[<p>This month Bart continues his on-going series on photographic terms. This time it’s all about focus. Not focus in the art of arting sense, but in the physical optical sense.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp53">lets-talk.ie/ltp53</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 25 Feb 2018 12:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP53-Focus.mp3" length="15549487" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp53.mp3" length="15549487" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP53-Focus.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 53 - Focus</itunes:subtitle>
-            <itunes:summary>This month Bart continues his on-going series on photographic terms. This time it's all about focus. Not focus in the art of arting sense, but in the physical optical sense.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2823</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>53</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Focus</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 52 - Pondering Callings, Style AI</title>
+            <title>LTP 52: Pondering Callings, Style &amp; AI</title>
+            <link>https://lets-talk.ie/ltp52</link>
+            <description><![CDATA[<p>Bart tries something new this month and shares his thoughts, feelings, and opinions on three photographic topics raised on other podcasts. Recent episodes of Shutter Time with Sid & Mac have asked whether or not we are called to photograph, and whether or not we should actively work to develop a photographic style, while Antonio Rosario raised questions about the potential problems with AI on the Switch to Manual podcast.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp52">lets-talk.ie/ltp52</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP52-Ponderings1.mp3" length="14209289" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp52.mp3" length="14209289" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP52-Ponderings1.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 52 - Pondering Callings, Style AI</itunes:subtitle>
-            <itunes:summary>Bart tries something new this month and shares his thoughts, feelings, and opinions on three photographic topics raised on other podcasts. Recent episodes of Shutter Time with Sid &amp; Mac have asked whether or not we are called to photograph, and whether or not we should actively work to develop a photographic style, while Antonio Rosario raised questions about the potential problems with AI on the Switch to Manual podcast.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Bart tries something new this month and shares his thoughts, feelings, and opinions on three photographic topics raised on other podcasts. Recent episodes of Shutter Time with Sid &amp; Mac have asked whether or not we are called to photograph, and whether or not we should actively work to develop a photographic style, while Antonio Rosario raised questions about the potential problems with AI on the Switch to Manual podcast.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp52.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2675</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>52</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Pondering Callings, Style &amp; AI</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 51 - ISO</title>
+            <title>LTP 51: ISO</title>
+            <link>https://lets-talk.ie/ltp51</link>
+            <description><![CDATA[<p>Bart continues his series explaining photographic terms and phrases in this solo show all about ISO . This is the third and final part of a mini-series on the so-called ‘exposure triangle’.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp51">lets-talk.ie/ltp51</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Fri, 22 Dec 2017 18:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP51-ISO.mp3" length="9883657" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp51.mp3" length="9883657" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP51-ISO.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 51 - ISO</itunes:subtitle>
-            <itunes:summary>Bart continues his series explaining photographic terms and phrases in this solo show all about ISO . This is the third and final part of a mini-series on the so-called 'exposure triangle'.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Bart continues his series explaining photographic terms and phrases in this solo show all about ISO . This is the third and final part of a mini-series on the so-called ‘exposure triangle’.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp51.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>1762</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>51</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>ISO</itunes:title>
         </item>
         <item>
             <title>LTP 50: Aperture</title>
