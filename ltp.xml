@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 21 Nov 2021 20:03:09 +0000</pubDate>
-        <lastBuildDate>Sun, 21 Nov 2021 20:03:09 +0000</lastBuildDate>
+        <pubDate>Thu, 23 Dec 2021 11:40:57 +0000</pubDate>
+        <lastBuildDate>Thu, 23 Dec 2021 11:40:57 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -761,124 +761,277 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title>Let's Talk Photography 50 - Aperture</title>
+            <title>LTP 50: Aperture</title>
+            <link>https://lets-talk.ie/ltp50</link>
+            <description><![CDATA[<p>Bart continues his series explaining photographic terms and phrases in this solo show all about ‘Aperture’.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp50">lets-talk.ie/ltp50</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Mon, 27 Nov 2017 18:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP50-Aperture.mp3" length="10596384" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp50.mp3" length="10596384" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP50-Aperture.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 50 - Aperture</itunes:subtitle>
-            <itunes:summary>Bart continues his series explaining photographic terms and phrases in this solo show all about 'Aperture'.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>1946</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>50</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Aperture</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 49 - Family Photos</title>
+            <title>LTP 49: Family Photos</title>
+            <link>https://media.lets-talk.ie/ltp/ltp49.mp3</link>
+            <description><![CDATA[<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp49">lets-talk.ie/ltp49</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+
+<p>This month Bart is joined by special guests Sid Mac from the Shutter Time with Sid and Mac podcast for a conversation about creating great family photos — the kind that feel genuine and not staged.</p>
+]]></description>
             <pubDate>Sun, 15 Oct 2017 17:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP49-FamilyPhotos.mp3" length="13038187" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp49.mp3" length="13038187" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP49-FamilyPhotos.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 49 - Family Photos</itunes:subtitle>
-            <itunes:summary>This month Bart is joined by special guests Sid Mac from the Shutter Time with Sid and Mac podcast for a conversation about creating great family photos — the kind that feel genuine and not staged. Show notes available at http://lets-talk.ie/ltp49 Reminder - you can submit questions for future Q A shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Sud &amp; Mc from the Sutter Time podcast.</itunes:subtitle>
+            <itunes:summary>Listen, subscribe, and get the show notes at lets-talk.ie/ltp49.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.
+
+This month Bart is joined by special guests Sid Mac from the Shutter Time with Sid and Mac podcast for a conversation about creating great family photos — the kind that feel genuine and not staged.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2592</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>49</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Family Photos</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 48 - Exposure &amp; EV</title>
+            <title>LTP 48: Exposure &amp; EV</title>
+            <link>https://lets-talk.ie/ltp48</link>
+            <description><![CDATA[<p>It’s another solo show this month with Bart chatting directly with the audience. This is the second in what will be a sporadic but on-going series of episodes, each focusing on a different photographic term or concept. This show is all about the related concepts of ‘exposure’ and ‘exposure value’, or EV.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp48">lets-talk.ie/ltp48</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Thu, 28 Sep 2017 01:01:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP48-ExposureAndEV.mp3" length="7415111" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp48.mp3" length="7415111" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP48-ExposureAndEV.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 48 - Exposure &amp; EV</itunes:subtitle>
-            <itunes:summary>It's another solo show this month with Bart chatting directly with the audience. This is the second in what will be a sporadic but on-going series of episodes, each focusing on a different photographic term or concept. This show is all about the related concepts of 'exposure' and 'exposure value', or EV.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>It’s another solo show this month with Bart chatting directly with the audience. This is the second in what will be a sporadic but on-going series of episodes, each focusing on a different photographic term or concept. This show is all about the related concepts of ‘exposure’ and ‘exposure value’, or EV.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp48.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>1517</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>48</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Exposure &amp; EV</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 47 - Dynamic Range</title>
+            <title>LTP 47: Dynamic Range</title>
+            <link>https://lets-talk.ie/ltp47</link>
+            <description><![CDATA[<p>It’s a solo show this month with Bart chatting directly with the audience. This is the first in what will be a sporadic but on-going series of episodes, each focusing on a single photographic term. The shows will start with a technical description of what the chosen term means, and then move on to look at how it effects the art and craft of photography. This show is all about ‘Dynamic Range’.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp47">lets-talk.ie/ltp47</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 27 Aug 2017 12:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP47-DynamicRange.mp3" length="11072984" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp47.mp3" length="11072984" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP47-DynamicRange.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 47 - Dynamic Range</itunes:subtitle>
-            <itunes:summary>It's a solo show this month with Bart chatting directly with the audience. This is the first in what will be a sporadic but on-going series of episodes, each focusing on a single photographic term. The shows will start with a technical description of what the chosen term means, and then move on to look at how it effects the art and craft of photography. This show is all about 'Dynamic Range'.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>It’s a solo show this month with Bart chatting directly with the audience. This is the first in what will be a sporadic but on-going series of episodes, each focusing on a single photographic term. The shows will start with a technical description of what the chosen term means, and then move on to look at how it effects the art and craft of photography. This show is all about ‘Dynamic Range’.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2244</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>47</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Dynamic Range</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 46 - Selling your Work</title>
+            <title>LTP 46: Selling your Work</title>
+            <link>https://lets-talk.ie/ltp46</link>
+            <description><![CDATA[<p>This month Bart chats with Mark Pouley about making a start on selling some of your work. Not going pro, but selling enough to approach breaking even and having photography be a financially neutral hobby.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp46">lets-talk.ie/ltp46</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sat, 15 Jul 2017 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP46-SellingYourWork.mp3" length="20911122" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp46.mp3" length="20911122" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP46-SellingYourWork.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 46 - Selling your Work</itunes:subtitle>
-            <itunes:summary>This month Bart chats with Mark Pouley about making a start on selling some of your work. Not going pro, but selling enough to approach breaking even and having photography be a financially neutral hobby.</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Mark Pouley.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3921</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>46</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Selling your Work</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 45 - Thoughts on Software</title>
+            <title>LTP 45: Thoughts on Software</title>
+            <link>https://lets-talk.ie/ltp45</link>
+            <description><![CDATA[<p>Inspired by Episode 161 of the excellent Shuttertime with Sid & Mac podcast, Bart shares his thoughts on how to go about choosing the best photography software for you. Not the best by some sort of global metric, but the best for you. Bart argues strongly that it matters to you that the company behind the software you choose has a viable business model, and that their vision for the future aligns with yours.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp45">lets-talk.ie/ltp45</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Tue, 27 Jun 2017 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP45-ThoughtsOnSoftware.mp3" length="10702316" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp45.mp3" length="10702316" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP45-ThoughtsOnSoftware.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 45 - Thoughts on Software</itunes:subtitle>
-            <itunes:summary>Inspired by Episode 161 of the excellent Shuttertime with Sid &amp; Mac podcast, Bart shares his thoughts on how to go about choosing the best photography software for you. Not the best by some sort of global metric, but the best for you. Bart argues strongly that it matters to you that the company behind the software you choose has a viable business model, and that their vision for the future aligns with yours.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Inspired by Episode 161 of the excellent Shuttertime with Sid &amp; Mac podcast, Bart shares his thoughts on how to go about choosing the best photography software for you. Not the best by some sort of global metric, but the best for you. Bart argues strongly that it matters to you that the company behind the software you choose has a viable business model, and that their vision for the future aligns with yours.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp45.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2157</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>45</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Thoughts on Software</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 44 - Aviation Photography</title>
+            <title>LTP 44: Aviation Photography</title>
+            <link>https://lets-talk.ie/ltp44</link>
+            <description><![CDATA[<p>This month Bart chats with Let’s Talk regular Allister Jenks about aviation photography. Allister has been photographing airplanes for as long as he’s been photographing, while Bart is just starting to explore the subject.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp44">lets-talk.ie/ltp44</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 07 May 2017 01:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP44-AviationPhotography.mp3" length="28140155" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp44.mp3" length="28140155" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP44-AviationPhotography.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 44 - Aviation Photography</itunes:subtitle>
-            <itunes:summary>This month Bart chats with Let's Talk regular Allister Jenks about aviation photography. Allister has been photographing airplanes for as long as he's been photographing, while Bart is just starting to explore the subject.</itunes:summary>
+            <itunes:subtitle>Bart Busschots in conversation with Allister Jenks.</itunes:subtitle>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>5513</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>44</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Aviation Photography</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 43 - Asserting Contorl</title>
+            <title>LTP 43: Asserting Contorl</title>
+            <link>https://lets-talk.ie/ltp43</link>
+            <description><![CDATA[<p>This is the final part of a three-part solo series but Bart. In the first part, <a href="https://lets-talk.ie/ltp41">“How Cameras Work” (Episode 41)</a>, Bart describes the most general definition of a camera - a lens which focuses an image onto a plane which is in some way light-sensitive so it can record that image, and takes a quick tour through history to describe how we got to the modern digital camera. In the second part, <a href="https://lets-talk.ie/ltp42">“Understanding Auto” (Episode 42)</a>, Bart describes just what it is the little computer in a modern digital camera is doing - specifically, what sensors it uses to gather inputs, and what decisions it takes on our behalf. In this final part, Bart describes the spectrum of semi-automatic modes that exist between full auto and full manual, and why you might want to start asserting more control over your camera.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp43">lets-talk.ie/ltp43</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Mon, 17 Apr 2017 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP43-AssertingContorl.mp3" length="14215561" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp43.mp3" length="14215561" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP43-AssertingContorl.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 43 - Asserting Control</itunes:subtitle>
-            <itunes:summary>This is the final part of a three-part solo series but Bart. In the first part, "How Cameras Work" (Episode 41), Bart describes the most general definition of a camera - a lens which focuses an image onto a plane which is in some way light-sensitive so it can record that image, and takes a quick tour through history to describe how we got to the modern digital camera. In the second part, "Understanding Auto" (Episode 42), Bart describes just what it is the little computer in a modern digital camera is doing - specifically, what sensors it uses to gather inputs, and what decisions it takes on our behalf. In this final part, Bart describes the spectrum of semi-automatic modes that exist between full auto and full manual, and why you might want to start asserting more control over your camera.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>This is the final part of a three-part solo series but Bart. In the first part, “How Cameras Work” (Episode 41) (https://lets-talk.ie/ltp41), Bart describes the most general definition of a camera - a lens which focuses an image onto a plane which is in some way light-sensitive so it can record that image, and takes a quick tour through history to describe how we got to the modern digital camera. In the second part, “Understanding Auto” (Episode 42) (https://lets-talk.ie/ltp42), Bart describes just what it is the little computer in a modern digital camera is doing - specifically, what sensors it uses to gather inputs, and what decisions it takes on our behalf. In this final part, Bart describes the spectrum of semi-automatic modes that exist between full auto and full manual, and why you might want to start asserting more control over your camera.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp43.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2860</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>43</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Asserting Contorl</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 42 - Understanding Auto</title>
+            <title>LTP 42: Understanding Auto</title>
+            <link>https://lets-talk.ie/ltp42</link>
+            <description><![CDATA[<p>This month it’s another solo show. Following on from last month’s description of what a camera is and how it works, this month Bart explains the decisions a digital camera takes on your behalf when it’s operating in full automatic mode. Bart describes the settings being adjusted by the computer inside the camera, and the inputs that computer users to calculate the values for those settings.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp42">lets-talk.ie/ltp42</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Wed, 22 Mar 2017 23:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP42-UnderstandingAuto.mp3" length="14581956" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp42.mp3" length="14581956" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP42-UnderstandingAuto.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 42 - Understanding Auto</itunes:subtitle>
-            <itunes:summary>This month it's another solo show. Following on from last month's description of what a camera is and how it works, this month Bart explains the decisions a digital camera takes on your behalf when it's operating in full automatic mode. Bart describes the settings being adjusted by the computer inside the camera, and the inputs that computer users to calculate the values for those settings. Show notes available at http://lets-talk.ie/ltp42 Reminder - you can submit questions for future shows at http://lets-talk.ie/photoq. Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>This month it’s another solo show. Following on from last month’s description of what a camera is and how it works, this month Bart explains the decisions a digital camera takes on your behalf when it’s operating in full automatic mode. Bart describes the settings being adjusted by the computer inside the camera, and the inputs that computer users to calculate the values for those settings.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp42.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>2724</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>42</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Understanding Auto</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Photography 41 - How Cameras Work</title>
+            <title>LTP 41: How Cameras Work</title>
+            <link>https://lets-talk.ie/ltp41</link>
+            <description><![CDATA[<p>This month it’s another solo show. Bart does his best to explain, at a physical level, how cameras work. Before we can take control of our cameras, we need to understand what’s really going on inside our cameras, and that’s what this show is all about. How we got to now is also important, so there’s a liberal helping of history thrown in too.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp41">lets-talk.ie/ltp41</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Tue, 21 Feb 2017 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP41-HowCamerasWork.mp3" length="17088691" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp41.mp3" length="17088691" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/ltp/LetsTalkPhotographgy-EP41-HowCamerasWork.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Photography Episode 41 - How Cameras Work</itunes:subtitle>
-            <itunes:summary>This month it's another solo show. Bart does his best to explain, at a physical level, how cameras work. Before we can take control of our cameras, we need to understand what's really going on inside our cameras, and that's what this show is all about. How we got to now is also important, so there's a liberal helping of history thrown in too.</itunes:summary>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>This month it’s another solo show. Bart does his best to explain, at a physical level, how cameras work. Before we can take control of our cameras, we need to understand what’s really going on inside our cameras, and that’s what this show is all about. How we got to now is also important, so there’s a liberal helping of history thrown in too.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp41.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
             <itunes:duration>3544</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>41</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>How Cameras Work</itunes:title>
         </item>
         <item>
             <title>LTP 40: New Beginnings</title>
