@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 26 Dec 2021 12:32:11 +0000</pubDate>
-        <lastBuildDate>Sun, 26 Dec 2021 12:32:11 +0000</lastBuildDate>
+        <pubDate>Sun, 26 Dec 2021 21:19:21 +0000</pubDate>
+        <lastBuildDate>Sun, 26 Dec 2021 21:19:21 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -30,10 +30,40 @@
             <itunes:email>podcasting@bartificer.net</itunes:email>
         </itunes:owner>
         <itunes:keywords>photography,art,craft</itunes:keywords>
+        <itunes:new-feed-url>https://feeds.lets-talk.ie/ltp.xml</itunes:new-feed-url>
         <itunes:category text="Leisure">
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 99: A Time to Reflect</title>
+            <link>https://lets-talk.ie/ltp99</link>
+            <description><![CDATA[<p>In this solo show Bart evangelises the importance of taking time to take stock, looks back at his own Photographic 2021, and sets some goals for 2022.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp99">lets-talk.ie/ltp99</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 26 Dec 2021 21:19:11 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp99.mp3" length="13462501" type="audio/mpeg"/>
+            <guid isPermaLink="false">AC7C85CE-1143-4092-82EE-C4234DAAE91C</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart evangelises the importance of taking time to take stock, looks back at his own Photographic 2021, and sets some goals for 2022.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp99.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1644</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>99</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>A Time to Reflect</itunes:title>
+        </item>
         <item>
             <title>LTP 98: Photographing Buildings with Jeff Curto</title>
             <link>https://lets-talk.ie/ltp98</link>
