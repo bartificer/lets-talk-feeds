@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2021 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 27 Feb 2022 00:20:31 +0000</pubDate>
-        <lastBuildDate>Sun, 27 Feb 2022 00:20:31 +0000</lastBuildDate>
+        <pubDate>Sun, 27 Mar 2022 16:27:50 +0100</pubDate>
+        <lastBuildDate>Sun, 27 Mar 2022 16:27:50 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 102: Ward Rosin on Evelyn Hofer</title>
+            <link>https://lets-talk.ie/ltp102</link>
+            <description><![CDATA[<p>This month Ward Rosin joins Bart to evangelise the work of German-born photographer Evelyn Hofer. Hofer's work is varied and arresting, and includes some amazing colour street shots from the cities all around the world. She even turned her large-format lens on late 1960s Dublin!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp102">lets-talk.ie/ltp102</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 27 Mar 2022 16:20:13 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp102.mp3" length="20065056" type="audio/mpeg"/>
+            <guid isPermaLink="false">322A3D4E-8575-43C9-BA2C-FA28AA7C202A</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Ward Rosin</itunes:subtitle>
+            <itunes:summary>This month Ward Rosin joins Bart to evangelise the work of German-born photographer Evelyn Hofer. Hofer’s work is varied and arresting, and includes some amazing colour street shots from the cities all around the world. She even turned her large-format lens on late 1960s Dublin!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp102.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2469</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>102</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Ward Rosin on Evelyn Hofer</itunes:title>
+        </item>
         <item>
             <title>LTP 101: Shooting in Series</title>
             <link>https://lets-talk.ie/ltp101</link>
