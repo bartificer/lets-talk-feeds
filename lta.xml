@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Tue, 19 Apr 2022 16:01:27 +0100</pubDate>
-        <lastBuildDate>Tue, 19 Apr 2022 16:01:27 +0100</lastBuildDate>
+        <pubDate>Fri, 22 Apr 2022 17:28:41 +0100</pubDate>
+        <lastBuildDate>Fri, 22 Apr 2022 17:28:41 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -1922,66 +1922,91 @@ For more detailed show notes visit http://lets-talk.ie/lta11</itunes:summary>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2014</title>
+            <title>LTA 5: January 2014</title>
+            <link>https://lets-talk.ie/lta5</link>
+            <description><![CDATA[Joining Bart this month are Adam Christianson from the MacCast, Gazmaz from the MyMac Podcast, and Nick Rodriguez from the Mac Gist Podcast. The show stars with a quick rundown of some interesting numbers released in January, followed by a quick rundown of the month’s developments in some of the many court cases Apple are involved in. The main stories the show focuses on are Apple’s settlement with the FTC over in-app purchase, Apple’s release of more specific NSA numbers, the continued improvements to the Mac version of iWork, Apple’s 2014 Q1 earnings report, a few related Google stories, and the Mac’s 30th birthday. The show finishes with a few quick stories including Apple’s acknowledgement of the iOS crashes some users are experiencing, Apples’s pledge not to discriminate against the long-term unemployed, and some bad news for Microsoft.]]></description>
             <pubDate>Sun, 02 Feb 2014 00:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP5-Jan2014.mp3" length="38055599" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta5.mp3" length="38055599" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP5-Jan2014.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episide 5 (January 2014)</itunes:subtitle>
-            <itunes:summary>Joining Bart this month are Adam Christianson from the MacCast, Gazmaz from the MyMac Podcast, and Nick Rodriguez from the Mac Gist Podcast. The show stars with a quick rundown of some interesting numbers released in January, followed by a quick rundown of the month's developments in some of the many court cases Apple are involved in. The main stories the show focuses on are Apple's settlement with the FTC over in-app purchase, Apple's release of more specific NSA numbers, the continued improvements to the Mac version of iWork, Apple's 2014 Q1 earnings report, a few related Google stories, and the Mac's 30th birthday. The show finishes with a few quick stories including Apple's acknowledgement of the iOS crashes some users are experiencing, Apples's pledge not to discriminate against the long-term unemployed, and some bad news for Microsoft.
+            <itunes:subtitle>A panel discussion with Bart Busschots, Adam Christianson, Gazmaz &amp; Nick Rodriguez</itunes:subtitle>
+            <itunes:summary>Joining Bart this month are Adam Christianson from the MacCast, Gazmaz from the MyMac Podcast, and Nick Rodriguez from the Mac Gist Podcast. The show stars with a quick rundown of some interesting numbers released in January, followed by a quick rundown of the month’s developments in some of the many court cases Apple are involved in. The main stories the show focuses on are Apple’s settlement with the FTC over in-app purchase, Apple’s release of more specific NSA numbers, the continued improvements to the Mac version of iWork, Apple’s 2014 Q1 earnings report, a few related Google stories, and the Mac’s 30th birthday. The show finishes with a few quick stories including Apple’s acknowledgement of the iOS crashes some users are experiencing, Apples’s pledge not to discriminate against the long-term unemployed, and some bad news for Microsoft.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4721</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>5</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2014</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2013</title>
+            <title>LTA 4: December 2013</title>
+            <link>https://lets-talk.ie/lta4</link>
+            <description><![CDATA[Joining Bart this month are Allister Jenks, Nick Riley, and Guy Serle from the MyMac Podcast.]]></description>
             <pubDate>Mon, 06 Jan 2014 02:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP4-Dec2013.mp3" length="41647127" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta4.mp3" length="41647127" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP4-Dec2013.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episide 4 - December 2013</itunes:subtitle>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Allister Jenks, Nick Riley &amp; Guy Serle</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Allister Jenks, Nick Riley, and Guy Serle from the MyMac Podcast.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5170</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>4</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2013</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2013</title>
+            <title>LTA 3: November 2013</title>
+            <link>https://lets-talk.ie/lta3</link>
+            <description><![CDATA[Bart is joined by Allison Sheridan, Chuck Joiner and Gazmaz to talk about the patent war going ‘Nuclear’, Apple and Samsung’s Damages re-trial, Apple and Google’s transparency reports, Tim Cook’s pro-gay rights WSJ Op-ed, the death of the ‘stack rank’ at Microsoft, and more.]]></description>
             <pubDate>Fri, 29 Nov 2013 04:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP3-Nov2013.mp3" length="37788683" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta3.mp3" length="37788683" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP3-Nov2013.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episide 3 - November 2013</itunes:subtitle>
-            <itunes:summary>Bart is joined by Allison Sheridan, Chuck Joiner and Gazmaz to talk about the patent war going 'Nuclear', Apple and Samsung's Damages re-trial, Apple and Google's transparency reports, Tim Cook's pro-gay rights WSJ Op-ed, the death of the 'stack rank' at Microsoft, and more.
+            <itunes:subtitle>A panel discussion with Bart Busschots, Allison Sheridan, Chuck Joiner &amp; Gazmaz</itunes:subtitle>
+            <itunes:summary>Bart is joined by Allison Sheridan, Chuck Joiner and Gazmaz to talk about the patent war going ‘Nuclear’, Apple and Samsung’s Damages re-trial, Apple and Google’s transparency reports, Tim Cook’s pro-gay rights WSJ Op-ed, the death of the ‘stack rank’ at Microsoft, and more.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4688</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>3</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2013</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2013</title>
+            <title>LTA 2: October 2013</title>
+            <link>https://lets-talk.ie/lta21</link>
+            <description><![CDATA[Bart is joined by Nick Riley, Peter Upfold and Chuck Joiner to talk about so-called Patent Trolls, Some dirty tricks by Samsung, Apple’s October event, OS X Mavericks, and more]]></description>
             <pubDate>Mon, 28 Oct 2013 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP2-Oct2013.mp3" length="43978115" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta2.mp3" length="43978115" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP2-Oct2013.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episide 2 (October 2013)</itunes:subtitle>
-            <itunes:summary>Bart is joined by Nick Riley, Peter Upfold and Chuck Joiner to talk about so-called Patent Trolls, Some dirty tricks by Samsung, Apple's October event, OS X Mavericks, and more</itunes:summary>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Nick Riley, Peter Upfold &amp; Chuck Joiner</itunes:subtitle>
+            <itunes:summary>Bart is joined by Nick Riley, Peter Upfold and Chuck Joiner to talk about so-called Patent Trolls, Some dirty tricks by Samsung, Apple’s October event, OS X Mavericks, and more</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4398</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2013</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2013</title>
+            <title>LTA 1: September 2013</title>
+            <link>https://lets-talk.ie/lta1</link>
+            <description><![CDATA[Bart is joined by Adam Christianson, Gazmaz and Steve Stanger to talk about eBooks, iPhones, iOS 7, and more]]></description>
             <pubDate>Sun, 29 Sep 2013 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP1-Sep2013.mp3" length="39873672" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta1.mp3" length="39873672" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP1-Sep2013.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episide 1 (September 2013)</itunes:subtitle>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Adam Christianson, Gazmaz &amp; Steve Stanger</itunes:subtitle>
             <itunes:summary>Bart is joined by Adam Christianson, Gazmaz and Steve Stanger to talk about eBooks, iPhones, iOS 7, and more</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4949</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2013</itunes:title>
         </item>
     </channel>
 </rss>
