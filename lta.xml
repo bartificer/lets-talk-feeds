@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Mon, 02 May 2022 12:23:38 +0100</pubDate>
-        <lastBuildDate>Mon, 02 May 2022 12:23:38 +0100</lastBuildDate>
+        <pubDate>Mon, 02 May 2022 12:31:53 +0100</pubDate>
+        <lastBuildDate>Mon, 02 May 2022 12:31:53 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -21,6 +21,7 @@
             <itunes:email>podcasting@bartificer.net</itunes:email>
         </itunes:owner>
         <itunes:keywords>Apple,Mac,iPhone,iPad,News,AppleWatch,macOS,iOS</itunes:keywords>
+        <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
