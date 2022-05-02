@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sat, 23 Apr 2022 12:34:36 +0100</pubDate>
-        <lastBuildDate>Sat, 23 Apr 2022 12:34:36 +0100</lastBuildDate>
+        <pubDate>Mon, 02 May 2022 12:23:38 +0100</pubDate>
+        <lastBuildDate>Mon, 02 May 2022 12:23:38 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,107 +24,140 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>Let's Talk Apple - March 2022</title>
+            <title>LTA 103: March 2022</title>
+            <link>https://lets-talk.ie/lta103</link>
+            <description><![CDATA[<p>This month Bart is joined by Charlotte Henry from the Addition.</p>
+
+<p>The show starts with the usual followups and updates on long-running stories. That’s followed by one notable number, some some Apple-related legal news, a little Apple HR & acquisitions news, and some highlights from Apple’s services. The three main stories are the EU Digital Markets Act (DMA), a great night for Apple at the Oscars, and Apple’s ‘Peek Performance’ event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp103">lets-talk.ie/ltp103</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Fri, 08 Apr 2022 13:00:00 +0100</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta103.mp3" length="51772973" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta103.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episode 103 - March 2022</itunes:subtitle>
-            <itunes:summary>
-This month Bart is joined by Charlotte Henry from the Addition.
+            <itunes:subtitle>Bart Busschots in coversation with Charlotte Henry</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Charlotte Henry from the Addition.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by one notable number, some some Apple-related legal news, a little Apple HR &amp; acquisitions news, and some highlights from Apple's services. The three main stories are the EU Digital Markets Act (DMA), a great night for Apple at the Oscars, and Apple's 'Peek Performance' event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.
+The show starts with the usual followups and updates on long-running stories. That’s followed by one notable number, some some Apple-related legal news, a little Apple HR &amp; acquisitions news, and some highlights from Apple’s services. The three main stories are the EU Digital Markets Act (DMA), a great night for Apple at the Oscars, and Apple’s ‘Peek Performance’ event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.
 
-Detailed show notes are available at https://lets-talk.ie/lta103.
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp103.
 
-Please consider supporting the show on Patreon at https://patreon.com/ltpod.
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
 
-Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
-Bart Busschots: http://www.bartb.ie @bbusschots
-Charlotte Henry: https://theaddition.substack.com @charlotteahenry
-</itunes:summary>
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6436</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>103</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2022</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2022</title>
+            <title>LTA 102: February 2022</title>
+            <link>https://lets-talk.ie/lta102</link>
+            <description><![CDATA[<p>This month Bart is joined by Chuck Joiner from Mac Voices and Rod Simmons from the SMR podcast.</p>
+
+<p>The show starts with the usual followups and updates on long-running stories. That’s followed by one notable number, some some Apple-related legal news, a little Apple HR & acquisitions news, and some highlights from Apple’s original content and subscription services. The three main stories are updated safety protections for AirPods, the effects of Russia’s invasion of Ukraine on the Apple world, and a preview of Apple’s annual shareholder meeting. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp102">lets-talk.ie/ltp102</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Fri, 04 Mar 2022 17:00:01 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta102.mp3" length="53338525" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta102.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episode 102 - February 2022</itunes:subtitle>
-            <itunes:summary>
-This month Bart is joined by Chuck Joiner from Mac Voices and Rod Simmons from the SMR podcast.
+            <itunes:subtitle>A panel discussion with Bart Busschots, Chuck Joiner &amp; Rod Simmons</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Chuck Joiner from Mac Voices and Rod Simmons from the SMR podcast.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by one notable number, some some Apple-related legal news, a little Apple HR &amp; acquisitions news, and some highlights from Apple's original content and subscription services. The three main stories are updated safety protections for AirPods, the effects of Russia's invasion of Ukraine on the Apple world, and a preview of Apple's annual shareholder meeting. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.
+The show starts with the usual followups and updates on long-running stories. That’s followed by one notable number, some some Apple-related legal news, a little Apple HR &amp; acquisitions news, and some highlights from Apple’s original content and subscription services. The three main stories are updated safety protections for AirPods, the effects of Russia’s invasion of Ukraine on the Apple world, and a preview of Apple’s annual shareholder meeting. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.
 
-Detailed show notes are available at https://lets-talk.ie/lta102.
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp102.
 
-Please consider supporting the show on Patreon at https://patreon.com/ltpod.
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
 
-Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
-Bart Busschots: http://www.bartb.ie @bbusschots
-Chuck Joiner: http://www.macvoices.com @chuckjoiner
-Rod Simmons: https://smrpodcast.com @rodsimmons
-</itunes:summary>
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6631</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>102</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2022</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2022</title>
+            <title>LTA 101: January 2022</title>
+            <link>https://lets-talk.ie/lta101</link>
+            <description><![CDATA[<p>This month Bart is joined by Chuck Joiner from Mac Voices and Rosemary Orchard from various podcasts.</p>
+
+<p>The show starts with the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, a little Apple HR news, and some highlights from Apple’s original content and subscription services. The four main stories are Intel’s new I9 mobile processor, the controversy around AirTags, more AppStore issues, and Apple’s Q1 2022 earnings call. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp101">lets-talk.ie/ltp101</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Fri, 04 Feb 2022 00:00:01 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta101.mp3" length="42239081" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta101.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episode 101 - January 2022</itunes:subtitle>
-            <itunes:summary>
-This month Bart is joined by Chuck Joiner from Mac Voices and Rosemary Orchard from various podcasts.
+            <itunes:subtitle>A panel discussion with Bart Busschots, Chuck Joiner &amp; Rosemary Orchard</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Chuck Joiner from Mac Voices and Rosemary Orchard from various podcasts.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some some Apple-related legal news, a little Apple HR news, and some highlights from Apple's original content and subscription services. The four main stories are Intel's new I9 mobile processor, the controversy around AirTags, more AppStore issues, and Apple's Q1 2022 earnings call. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, a little Apple HR news, and some highlights from Apple’s original content and subscription services. The four main stories are Intel’s new I9 mobile processor, the controversy around AirTags, more AppStore issues, and Apple’s Q1 2022 earnings call. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.
 
-Detailed show notes are available at https://lets-talk.ie/lta101.
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp101.
 
-Please consider supporting the show on Patreon at https://patreon.com/ltpod.
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
 
-Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
-Bart Busschots: http://www.bartb.ie @bbusschots
-Chuck Joiner: http://www.macvoices.com @chuckjoiner
-Rosemary Orchard: https://rosemaryorchard.com @RosemaryOrchard
-</itunes:summary>
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5244</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>101</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2022</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2021</title>
+            <title>LTA 100: December 2021</title>
+            <link>https://lets-talk.ie/lta100</link>
+            <description><![CDATA[<p>This month Bart is joined by Allison Sheridan from the NosillaCast.</p>
+
+<p>The show starts with some reflections on making it to 100 shows. With the navel-gazing out of the way the show moves on to the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, quite a bit of Apple HR news, and some highlights from Apple’s original content and subscription services. The three main stories are Apple’s secret deal with China in 2016, the problems in Apple’s Indian factory, and the new features in Apple’s latest OS updates. The show ends with a quick rundown of some smaller Apple-related stories that made the news in December.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp100">lets-talk.ie/ltp100</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
             <pubDate>Sun, 02 Jan 2022 20:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta100.mp3" length="38686700" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta100.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
-            <itunes:subtitle>Let's Talk Apple - Episode 100 - December 2021</itunes:subtitle>
-            <itunes:summary>
-This month Bart is joined by Allison Sheridan from the NosillaCast.
+            <itunes:subtitle>Bart Busschots in conversation with Allison Sheridan</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Allison Sheridan from the NosillaCast.
 
-The show starts with some reflections on making it to 100 shows. With the navel-gazing out of the way the show moves on to the usual followups and updates on long-running stories. That's followed by some some Apple-related legal news, quite a bit of Apple HR news, and some highlights from Apple's original content and subscription services. The three main stories are Apple's secret deal with China in 2016, the problems in Apple's Indian factory, and the new features in Apple's latest OS updates. The show ends with a quick rundown of some smaller Apple-related stories that made the news in December.
+The show starts with some reflections on making it to 100 shows. With the navel-gazing out of the way the show moves on to the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, quite a bit of Apple HR news, and some highlights from Apple’s original content and subscription services. The three main stories are Apple’s secret deal with China in 2016, the problems in Apple’s Indian factory, and the new features in Apple’s latest OS updates. The show ends with a quick rundown of some smaller Apple-related stories that made the news in December.
 
-Detailed show notes are available at https://lets-talk.ie/lta100.
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp100.
 
-Please consider supporting the show on Patreon at https://patreon.com/ltpod.
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
 
-Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
-Bart Busschots: http://www.bartb.ie @bbusschots
-Allison Sheridan: http://www.podfeet.com @podfeet
-
-</itunes:summary>
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4800</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>100</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2021</itunes:title>
         </item>
         <item>
             <title>Let's Talk Apple - November 2021</title>
