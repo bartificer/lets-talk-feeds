@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.3.3(5742); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.3.4(5752); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Mon, 02 May 2022 12:31:53 +0100</pubDate>
-        <lastBuildDate>Mon, 02 May 2022 12:31:53 +0100</lastBuildDate>
+        <pubDate>Sun, 08 May 2022 12:55:15 +0100</pubDate>
+        <lastBuildDate>Sun, 08 May 2022 12:55:15 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,39 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 104: April 2022</title>
+            <link>https://lets-talk.ie/lta104</link>
+            <description><![CDATA[<p>This month Bart is joined by Elaine Giles from Mac Bites and Scott Willsey from the Friends with Beer podcast.</p>
+
+<p>The show starts with the usual followups and updates on long-running stories. That's followed by two short Apple-related legal stories, one Apple hire, and some highlights from Apple's services. The four main stories are continued crankiness in Apple's work force resulting in an open letter and three unionisation drives, some crankiness from video pros expressed in another open letter, Apple's Q2 2022 earnings call, and the limited launch of Apple's Self Service Repair program in the US. The show ends with a quick rundown of some other Apple-related stories that made the news in April.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp104">lets-talk.ie/ltp104</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 08 May 2022 12:55:12 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta104.mp3" length="47505379" type="audio/mpeg"/>
+            <guid isPermaLink="false">EF073CE3-47BC-443E-9FDD-FC9F4DC939E0</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Elain Giles &amp; Scott Willsey</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Elaine Giles from Mac Bites and Scott Willsey from the Friends with Beer podcast.
+
+The show starts with the usual followups and updates on long-running stories. That’s followed by two short Apple-related legal stories, one Apple hire, and some highlights from Apple’s services. The four main stories are continued crankiness in Apple’s work force resulting in an open letter and three unionisation drives, some crankiness from video pros expressed in another open letter, Apple’s Q2 2022 earnings call, and the limited launch of Apple’s Self Service Repair program in the US. The show ends with a quick rundown of some other Apple-related stories that made the news in April.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp104.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>5902</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>104</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2022</itunes:title>
+        </item>
         <item>
             <title>LTA 103: March 2022</title>
             <link>https://lets-talk.ie/lta103</link>
