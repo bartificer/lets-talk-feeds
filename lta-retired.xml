@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Let's Talk Apple — RETIRED FEED</title>
+        <link>https://www.lets-talk.ie/apple</link>
+        <description>MOVED — the show has moved to a new feed, details at https://lets-talk.ie/lta104a-feedMoved.</description>
+        <generator>Feeder 4.3.4(5752); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en-ie</language>
+        <copyright>2022 Bartificer Creations</copyright>
+        <managingEditor>podcasting@bartificer.net</managingEditor>
+        <pubDate>Sun, 08 May 2022 15:40:41 +0100</pubDate>
+        <lastBuildDate>Sun, 08 May 2022 15:40:41 +0100</lastBuildDate>
+        <image>
+            <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
+            <title>Let's Talk Apple</title>
+            <link>https://media.lets-talk.ie/lta-thumbnail.jpg</link>
+            <width>144</width>
+            <height>144</height>
+            <description>The Let's Talk Apple Logo</description>
+        </image>
+        <atom:link href="https://feeds.lets-talk.ie/lta-retired.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>Bart Busschots</itunes:author>
+        <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Let's Talk Podcasts</itunes:name>
+            <itunes:email>podcasting@bartificer.net</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology"/>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP104a: Feed Moved</title>
+            <link>https://lets-talk.ie/lta104a-feedMoved</link>
+            <description><![CDATA[The podcast has moved to a new feed, details here: <a href="https://lets-talk.ie/lta104a-feedMoved">https://lets-talk.ie/lta104a-feedMoved</a>]]></description>
+            <pubDate>Sat, 15 Jan 2022 16:13:41 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta104a-feedMoved.mp3" length="1171514" type="audio/mpeg"/>
+            <guid isPermaLink="false">AD93A2F4-0837-4D11-98E0-93D967994DEF</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A show announcement.</itunes:subtitle>
+            <itunes:summary>The podcast has moved to a new feed, details here: https://lets-talk.ie/lta104a-feedMoved</itunes:summary>
+            <itunes:duration>111</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>104</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Feed Moved</itunes:title>
+        </item>
+    </channel>
+</rss>
