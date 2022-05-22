@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.3.3(5742); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.3.5(5762); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Fri, 22 Apr 2022 01:03:08 +0100</pubDate>
-        <lastBuildDate>Fri, 22 Apr 2022 01:03:08 +0100</lastBuildDate>
+        <pubDate>Sun, 22 May 2022 16:57:45 +0100</pubDate>
+        <lastBuildDate>Sun, 22 May 2022 16:57:45 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 104: It's More than OK to Process!</title>
+            <link>https://lets-talk.ie/ltp104</link>
+            <description><![CDATA[<p>In this solo show Bart makes the argument that it's not just OK to process your photos, you probably should!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp104">lets-talk.ie/ltp104</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 22 May 2022 16:57:41 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp104.mp3" length="12191796" type="audio/mpeg"/>
+            <guid isPermaLink="false">98C7937C-EC43-46FF-B698-F1C76E852033</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart makes the argument that it’s not just OK to process your photos, you probably should!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp104.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1485</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>104</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>It's More than OK to Process!</itunes:title>
+        </item>
         <item>
             <title>LTP 103: iPhone Macro Fun with Jeff Gamet</title>
             <link>https://lets-talk.ie/ltp103</link>
