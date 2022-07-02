@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sat, 04 Jun 2022 16:18:59 +0100</pubDate>
-        <lastBuildDate>Sat, 04 Jun 2022 16:18:59 +0100</lastBuildDate>
+        <pubDate>Sun, 03 Jul 2022 00:40:09 +0100</pubDate>
+        <lastBuildDate>Sun, 03 Jul 2022 00:40:09 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,39 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 106: June 2022</title>
+            <link>https://lets-talk.ie/lta106</link>
+            <description><![CDATA[<p>This month Bart is joined by Allison Sheridan of the NosillaCast & Adam Christianson of the MacCast.</p>
+
+<p>The show starts with the usual followups and updates on long-running stories. That's followed by a notable number, a collection of Apple-related legal stories, one Apple HR story, and some highlights from Apple's services. The four main stories are four aspects of WWDC — the future of CarPlay, goodies for developers, goodies for users, and new hardware. The show ends with a quick rundown of some other Apple-related stories that made the news in June.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp106">lets-talk.ie/ltp106</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 03 Jul 2022 00:40:01 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta106.mp3" length="39185417" type="audio/mpeg"/>
+            <guid isPermaLink="false">07732FCC-5E49-46EA-AF5A-839F23AC1A8A</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Allison Sheridan &amp; Adam Christianson</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Allison Sheridan of the NosillaCast &amp; Adam Christianson of the MacCast.
+
+The show starts with the usual followups and updates on long-running stories. That’s followed by a notable number, a collection of Apple-related legal stories, one Apple HR story, and some highlights from Apple’s services. The four main stories are four aspects of WWDC — the future of CarPlay, goodies for developers, goodies for users, and new hardware. The show ends with a quick rundown of some other Apple-related stories that made the news in June.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp106.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>4862</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>106</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2022</itunes:title>
+        </item>
         <item>
             <title>LTA 105: May 2022</title>
             <link>https://lets-talk.ie/lta105</link>
