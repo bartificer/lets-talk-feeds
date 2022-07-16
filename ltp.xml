@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 16 Jul 2022 16:26:05 +0100</pubDate>
-        <lastBuildDate>Sat, 16 Jul 2022 16:26:05 +0100</lastBuildDate>
+        <pubDate>Sat, 16 Jul 2022 16:30:59 +0100</pubDate>
+        <lastBuildDate>Sat, 16 Jul 2022 16:30:59 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 106: the End of the SLR (and I Feel Fine)</title>
+            <link>https://lets-talk.ie/ltp106</link>
+            <description><![CDATA[<p>In this solo show Bart shares his thoughts on the slow-motion end of the SLR era. Triggered by recent reporting that Nikon has stopped DSLR development, and that Canon is doing the same, Bart explains why he's not concerned about the future of <em>'big boy cameras'</em> (to paraphrase friend of the show <a href="https://www.podfeet.com/">Allison Sheridan</a>).</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp106">lets-talk.ie/ltp106</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 16 Jul 2022 16:30:54 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp106.mp3" length="10557041" type="audio/mpeg"/>
+            <guid isPermaLink="false">449135C2-50BC-4150-A0A7-06FCA9C4E065</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his thoughts on the slow-motion end of the SLR era. Triggered by recent reporting that Nikon has stopped DSLR development, and that Canon is doing the same, Bart explains why he’s not concerned about the future of ‘big boy cameras’ (to paraphrase friend of the show Allison Sheridan (https://www.podfeet.com/)).
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp106.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1280</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>106</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>The End of the SLR (and I Feel Fine)</itunes:title>
+        </item>
         <item>
             <title>LTP 105: Remember Your Camera App Settings!</title>
             <link>https://lets-talk.ie/ltp105</link>
