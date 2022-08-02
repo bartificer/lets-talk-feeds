@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 03 Jul 2022 00:40:09 +0100</pubDate>
-        <lastBuildDate>Sun, 03 Jul 2022 00:40:09 +0100</lastBuildDate>
+        <pubDate>Wed, 03 Aug 2022 00:32:55 +0100</pubDate>
+        <lastBuildDate>Wed, 03 Aug 2022 00:32:55 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,39 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 107: July 2022</title>
+            <link>https://lets-talk.ie/lta107</link>
+            <description><![CDATA[<p>This month Bart is joined by Tech Rōnin Jeff Gamet and Chuck Joiner from MacVoices.</p>
+
+<p>The show starts with the usual followups and updates on long-running stories. That's followed by a few Apple-related legal stories, a few Apple HR stories, and some highlights from Apple's services. The four main stories are Apple's Q3 2022 earnings, the end of Jony Ive's relationship with Apple, 15 games leaving Apple Arcade, and Apple's new Lockdown Mode for iOS & macOS. The show ends with a quick rundown of some other Apple-related stories that made the news in July.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp107">lets-talk.ie/ltp107</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Wed, 03 Aug 2022 00:32:51 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta107.mp3" length="41058418" type="audio/mpeg"/>
+            <guid isPermaLink="false">FD0DB1BB-F50D-4DD8-AFD6-C5DBC65A0D96</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Jef Gamet &amp; Chuck Joiner</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Tech Rōnin Jeff Gamet and Chuck Joiner from MacVoices.
+
+The show starts with the usual followups and updates on long-running stories. That’s followed by a few Apple-related legal stories, a few Apple HR stories, and some highlights from Apple’s services. The four main stories are Apple’s Q3 2022 earnings, the end of Jony Ive’s relationship with Apple, 15 games leaving Apple Arcade, and Apple’s new Lockdown Mode for iOS &amp; macOS. The show ends with a quick rundown of some other Apple-related stories that made the news in July.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp107.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>5097</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>107</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2022</itunes:title>
+        </item>
         <item>
             <title>LTA 106: June 2022</title>
             <link>https://lets-talk.ie/lta106</link>
