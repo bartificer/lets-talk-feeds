@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 16 Jul 2022 16:30:59 +0100</pubDate>
-        <lastBuildDate>Sat, 16 Jul 2022 16:30:59 +0100</lastBuildDate>
+        <pubDate>Sun, 21 Aug 2022 15:52:02 +0100</pubDate>
+        <lastBuildDate>Sun, 21 Aug 2022 15:52:02 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 107: Allison Sheridan's Post-DSLR World</title>
+            <link>https://lets-talk.ie/ltp107</link>
+            <description><![CDATA[<p>In last month's solo show Bart shared his thoughts on the end of the SLR era, and why he thought the mirrorless future was nothing to worry abut. This month Bart chats with long-time friend of the show Allison Sheridan from <a href="http://www.podfeet.com/">the NosillaCast podcast</a> about her experiences living in that post-SLR world, and why she doesn't miss her old Nikon DSLRs.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp107">lets-talk.ie/ltp107</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 21 Aug 2022 15:46:23 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp107.mp3" length="20972051" type="audio/mpeg"/>
+            <guid isPermaLink="false">9E6F31F0-2010-4E4F-A148-E7F74DE4F238</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Allison Sheridan</itunes:subtitle>
+            <itunes:summary>In last month’s solo show Bart shared his thoughts on the end of the SLR era, and why he thought the mirrorless future was nothing to worry abut. This month Bart chats with long-time friend of the show Allison Sheridan from the NosillaCast podcast (www.podfeet.com/) about her experiences living in that post-SLR world, and why she doesn’t miss her old Nikon DSLRs.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp107.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2584</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>107</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Allison Sheridan's Post-DSLR World</itunes:title>
+        </item>
         <item>
             <title>LTP 106: the End of the SLR (and I Feel Fine)</title>
             <link>https://lets-talk.ie/ltp106</link>
