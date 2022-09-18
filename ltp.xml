@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.3.5(5762); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.3.7(5772); Mac OS X Version 10.14.6 (Build 18G9323) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 21 Aug 2022 15:52:02 +0100</pubDate>
-        <lastBuildDate>Sun, 21 Aug 2022 15:52:02 +0100</lastBuildDate>
+        <pubDate>Sun, 18 Sep 2022 15:11:38 +0100</pubDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:11:38 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 108: Cybersecurity for Photographers</title>
+            <link>https://lets-talk.ie/ltp108</link>
+            <description><![CDATA[<p>In this solo show Bart shares his cybersecurity advice for photographers. The first step is to understand the business models, the second to secure your accounts with strong unique passwords, 2FA & password recovery options, and the third to be sure you have a good backup strategy. Finally, be ware of overly broad terms of service sneaking away your rights to your own work!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp108">lets-talk.ie/ltp108</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 18 Sep 2022 15:11:34 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp108.mp3" length="14332469" type="audio/mpeg"/>
+            <guid isPermaLink="false">386E4C80-1B47-404C-BFB5-87A95169D595</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his cybersecurity advice for photographers. The first step is to understand the business models, the second to secure your accounts with strong unique passwords, 2FA &amp; password recovery options, and the third to be sure you have a good backup strategy. Finally, be ware of overly broad terms of service sneaking away your rights to your own work!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp108.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1756</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>108</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Cybersecurity for Photographers</itunes:title>
+        </item>
         <item>
             <title>LTP 107: Allison Sheridan's Post-DSLR World</title>
             <link>https://lets-talk.ie/ltp107</link>
