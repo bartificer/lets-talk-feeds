@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.3.11(5848); Mac OS X Version 12.6 (Build 21G115) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.4(5870); Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Wed, 19 Oct 2022 23:54:35 +0100</pubDate>
-        <lastBuildDate>Wed, 19 Oct 2022 23:54:35 +0100</lastBuildDate>
+        <pubDate>Sun, 20 Nov 2022 15:30:43 +0000</pubDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:30:43 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP110: iPhone RAW &amp; Autumn/Fall</title>
+            <link>https://lets-talk.ie/ltp110</link>
+            <description><![CDATA[<p>In this solo show Bart digs into two smaller topics that wouldn't quite be enough for a show by themselves. He starts with his thoughts on a shooting RAW on his iPhone 14 Pro for the paste few months, and moves on to reflect on his experiences capturing this year's autumn colours & mists. He shares some advice, and talks through his favourite four shots from this season (linked in the episode notes).</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp110">lets-talk.ie/ltp110</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 20 Nov 2022 15:30:39 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp110.mp3" length="14342300" type="audio/mpeg"/>
+            <guid isPermaLink="false">FD15958C-2EE1-44E7-8CE3-D35518FC6A39</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart digs into two smaller topics that wouldn’t quite be enough for a show by themselves. He starts with his thoughts on a shooting RAW on his iPhone 14 Pro for the paste few months, and moves on to reflect on his experiences capturing this year’s autumn colours &amp; mists. He shares some advice, and talks through his favourite four shots from this season (linked in the episode notes).
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp110.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1753</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>110</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>iPhone RAW &amp; Autumn/Fall</itunes:title>
+        </item>
         <item>
             <title>LTP109: Schrödinger's Camera</title>
             <link>https://lets-talk.ie/ltp109</link>
