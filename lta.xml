@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Mon, 07 Nov 2022 23:43:56 +0000</pubDate>
-        <lastBuildDate>Mon, 07 Nov 2022 23:43:56 +0000</lastBuildDate>
+        <pubDate>Sun, 04 Dec 2022 00:45:30 +0000</pubDate>
+        <lastBuildDate>Sun, 04 Dec 2022 00:45:30 +0000</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 111: November 2022</title>
+            <link>https://lets-talk.ie/lta111</link>
+            <description><![CDATA[<p>The show starts with some followups from previous shows, some regulatory and legal news, some HR news, and some news from Apple’s various services before moving on to the three main stores — China’s very bad COVID month, Elon Musk’s spat with Apple, and Apple delivering the promised iPhone satellite SOS feature and AppleWatch Ultra dive computer app. The show finishes with a quick rundown of some other Apple-related stories that made the news in November.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta111">lets-talk.ie/lta111</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 04 Dec 2022 00:45:23 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta111.mp3" length="33977024" type="audio/mpeg"/>
+            <guid isPermaLink="false">85A95AE0-D924-4E1E-ACD7-84DD052E62FA</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Scott Willsey</itunes:subtitle>
+            <itunes:summary>The show starts with some followups from previous shows, some regulatory and legal news, some HR news, and some news from Apple’s various services before moving on to the three main stores — China’s very bad COVID month, Elon Musk’s spat with Apple, and Apple delivering the promised iPhone satellite SOS feature and AppleWatch Ultra dive computer app. The show finishes with a quick rundown of some other Apple-related stories that made the news in November.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta111.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4211</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>111</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2022</itunes:title>
+        </item>
         <item>
             <title>LTA 110: October 2022</title>
             <link>https://lets-talk.ie/lta110</link>
