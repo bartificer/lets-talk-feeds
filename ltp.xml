@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.4(5870); Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.4.1(5892); Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 20 Nov 2022 15:30:43 +0000</pubDate>
-        <lastBuildDate>Sun, 20 Nov 2022 15:30:43 +0000</lastBuildDate>
+        <pubDate>Sat, 24 Dec 2022 15:46:24 +0000</pubDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:46:24 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP111: Why 35mm?</title>
+            <link>https://lets-talk.ie/ltp111</link>
+            <description><![CDATA[<p>In this solo show Bart answers friend of the show Allison Sheridan's deceptively simple listener question – 'why 35mm?'. This takes us on a journey from Thomas Edison and the Eastman Kodak company to Leica, Henri Cartier-Bression, Nikon, and eventually DSLRs, Micro Four-Thirds, and full frame sensors. Along the way we demystify some photographic jargon like 'crop factor' and EFL.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp111">lets-talk.ie/ltp111</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 24 Dec 2022 15:46:21 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp111.mp3" length="14248465" type="audio/mpeg"/>
+            <guid isPermaLink="false">DFCDFE25-79A1-450F-BD2E-3EEE6B66901C</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart answers friend of the show Allison Sheridan’s deceptively simple listener question – ‘why 35mm?’. This takes us on a journey from Thomas Edison and the Eastman Kodak company to Leica, Henri Cartier-Bression, Nikon, and eventually DSLRs, Micro Four-Thirds, and full frame sensors. Along the way we demystify some photographic jargon like ‘crop factor’ and EFL.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp111.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1741</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>111</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Why 35mm?</itunes:title>
+        </item>
         <item>
             <title>LTP110: iPhone RAW &amp; Autumn/Fall</title>
             <link>https://lets-talk.ie/ltp110</link>
