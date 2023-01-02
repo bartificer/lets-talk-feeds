@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.4(5870); Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.4.1(5892); Mac OS X Version 13.1 (Build 22C65) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 04 Dec 2022 00:45:30 +0000</pubDate>
-        <lastBuildDate>Sun, 04 Dec 2022 00:45:30 +0000</lastBuildDate>
+        <pubDate>Mon, 02 Jan 2023 21:07:52 +0000</pubDate>
+        <lastBuildDate>Mon, 02 Jan 2023 21:07:52 +0000</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 112: December 2022</title>
+            <link>https://lets-talk.ie/lta112</link>
+            <description><![CDATA[<p>This month Bart is joined by Adam Christianson from the Mac Cast, and Nick Riley & Simon Parnell from the Essential Apple podcast. The show starts with some followups from previous shows, some regulatory and legal news, and some news from Apple's various services before moving on to the four main stories — Apple's continuing efforts to diversify its supply chain, three iCloud security enhancements, some new OS features (Sing, Freeform & Stage Manager on external displays on iPadOS), and Apple's overhaul of App Store pricing. The show finishes with a quick rundown of some other Apple-related stories that made the news in December.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta112">lets-talk.ie/lta112</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 02 Jan 2023 21:07:49 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta112.mp3" length="50945864" type="audio/mpeg"/>
+            <guid isPermaLink="false">D08A70A8-B59A-474C-AA4D-314085F9A43B</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Adam Christianson, Nick Riley &amp; Simon Parnell</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Adam Christianson from the Mac Cast, and Nick Riley &amp; Simon Parnell from the Essential Apple podcast. The show starts with some followups from previous shows, some regulatory and legal news, and some news from Apple’s various services before moving on to the four main stories — Apple’s continuing efforts to diversify its supply chain, three iCloud security enhancements, some new OS features (Sing, Freeform &amp; Stage Manager on external displays on iPadOS), and Apple’s overhaul of App Store pricing. The show finishes with a quick rundown of some other Apple-related stories that made the news in December.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta112.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>6332</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>112</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2022</itunes:title>
+        </item>
         <item>
             <title>LTA 111: November 2022</title>
             <link>https://lets-talk.ie/lta111</link>
