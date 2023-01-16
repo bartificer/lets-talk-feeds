@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.4.1(5892); Mac OS X Version 12.6.1 (Build 21G217) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.4.2(5916); Mac OS X Version 13.1 (Build 22C65) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 24 Dec 2022 15:46:24 +0000</pubDate>
-        <lastBuildDate>Sat, 24 Dec 2022 15:46:24 +0000</lastBuildDate>
+        <pubDate>Mon, 16 Jan 2023 23:20:50 +0000</pubDate>
+        <lastBuildDate>Mon, 16 Jan 2023 23:20:50 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP112: AI Part 1 — What is it?</title>
+            <link>https://lets-talk.ie/ltp112</link>
+            <description><![CDATA[<p>In this solo show Bart starts what will be at least a two-part discussion on artificial intelligence, and what it means for photography and photographers. This first part starts with the easy bit — describing what AI is, and what it does with our images today. If you've ever wondered what the difference is between AI and machine learning, or what neural networks are, this is the show for you!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp112">lets-talk.ie/ltp112</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 15 Jan 2023 15:05:18 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp112.mp3" length="20635796" type="audio/mpeg"/>
+            <guid isPermaLink="false">F8525D6F-2AC2-4459-8BED-FF2166FAA144</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart starts what will be at least a two-part discussion on artificial intelligence, and what it means for photography and photographers. This first part starts with the easy bit — describing what AI is, and what it does with our images today. If you’ve ever wondered what the difference is between AI and machine learning, or what neural networks are, this is the show for you!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp112.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2540</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>112</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>AI Part 1 — What is it?</itunes:title>
+        </item>
         <item>
             <title>LTP111: Why 35mm?</title>
             <link>https://lets-talk.ie/ltp111</link>
