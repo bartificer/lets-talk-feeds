@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.4.2(5916); Mac OS X Version 13.1 (Build 22C65) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.4.5(5937); Mac OS X Version 13.1 (Build 22C65) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Mon, 16 Jan 2023 23:20:50 +0000</pubDate>
-        <lastBuildDate>Mon, 16 Jan 2023 23:20:50 +0000</lastBuildDate>
+        <pubDate>Sun, 26 Feb 2023 01:04:10 +0000</pubDate>
+        <lastBuildDate>Sun, 26 Feb 2023 01:04:10 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 113: AI Part 2 — Pros &amp; Cons with Antonio Rosario</title>
+            <link>https://lets-talk.ie/ltp113</link>
+            <description><![CDATA[<p>In part 1 Bart described AI's evolution from a photographer's point of view — first came classifiers (this is a photo of a dog and a tree), then came smart processing like computational photography on smart phones, auto edit buttons that actually work, and advanced editing tools like content-aware fill, and now, here comes Generative AI, the ability to generate images from scratch using some kind of prompt. Let me tell you what's in the shot, then let me tweak it for you, and now let me create it for you! In this second part, Bart is joined by Antonio Rosario to talk through the pros and cons of each of these kinds of AI for photographers. This then sets up a follow-on conversation on Antonio's Street Shots Podcast where Bart joins Antonio to talk through some of the artists, moral, and ethical implications of all this.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp113">lets-talk.ie/ltp113</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 26 Feb 2023 01:04:04 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp113.mp3" length="25457352" type="audio/mpeg"/>
+            <guid isPermaLink="false">3D70FF04-1A19-4E5A-96BD-3F8CA1D7D2F6</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Antonio Rosario.</itunes:subtitle>
+            <itunes:summary>In part 1 Bart described AI’s evolution from a photographer’s point of view — first came classifiers (this is a photo of a dog and a tree), then came smart processing like computational photography on smart phones, auto edit buttons that actually work, and advanced editing tools like content-aware fill, and now, here comes Generative AI, the ability to generate images from scratch using some kind of prompt. Let me tell you what’s in the shot, then let me tweak it for you, and now let me create it for you! In this second part, Bart is joined by Antonio Rosario to talk through the pros and cons of each of these kinds of AI for photographers. This then sets up a follow-on conversation on Antonio’s Street Shots Podcast where Bart joins Antonio to talk through some of the artists, moral, and ethical implications of all this.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp113.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>3142</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>113</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>AI Part 2 — Pros &amp; Cons with Antonio Rosario</itunes:title>
+        </item>
         <item>
             <title>LTP112: AI Part 1 — What is it?</title>
             <link>https://lets-talk.ie/ltp112</link>
