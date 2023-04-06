@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.4.5(5937); Mac OS X Version 13.1 (Build 22C65) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.4.5(5937); Mac OS X Version 13.2.1 (Build 22D68) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Fri, 03 Mar 2023 21:11:02 +0000</pubDate>
-        <lastBuildDate>Fri, 03 Mar 2023 21:11:02 +0000</lastBuildDate>
+        <pubDate>Fri, 07 Apr 2023 00:19:42 +0100</pubDate>
+        <lastBuildDate>Fri, 07 Apr 2023 00:19:42 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 115: March 2023</title>
+            <link>https://lets-talk.ie/lta115</link>
+            <description><![CDATA[<p>This month Bart is joined by Allison Sheridan from the NosillaCast Podcast. The show starts with a few followups from previous shows, one quick regulation story, two short legal stories, three Apple HR stories, and a partridge ... err ... and some highlights from Apple's services and original content divisions. The three main stories are Apple's complicated relationships with China & India, Apple Pay Later, and Apple Music Classical. The show finishes with a quick rundown of some other Apple-related stories that made the news in March.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta115">lets-talk.ie/lta115</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Fri, 07 Apr 2023 00:19:39 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta115.mp3" length="28777388" type="audio/mpeg"/>
+            <guid isPermaLink="false">EC2BEDE5-4891-46FF-91C6-E057EFB96D39</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Allison Sheridan</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Allison Sheridan from the NosillaCast Podcast. The show starts with a few followups from previous shows, one quick regulation story, two short legal stories, three Apple HR stories, and a partridge … err … and some highlights from Apple’s services and original content divisions. The three main stories are Apple’s complicated relationships with China &amp; India, Apple Pay Later, and Apple Music Classical. The show finishes with a quick rundown of some other Apple-related stories that made the news in March.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta115.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3561</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>115</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2023</itunes:title>
+        </item>
         <item>
             <title>LTA 114: February 2023</title>
             <link>https://lets-talk.ie/lta114</link>
