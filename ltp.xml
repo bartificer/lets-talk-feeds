@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 12 Mar 2023 19:11:32 +0000</pubDate>
-        <lastBuildDate>Sun, 12 Mar 2023 19:11:32 +0000</lastBuildDate>
+        <pubDate>Sun, 23 Apr 2023 16:17:28 +0100</pubDate>
+        <lastBuildDate>Sun, 23 Apr 2023 16:17:28 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 115: Is it Art? Is it Photography?</title>
+            <link>https://lets-talk.ie/ltp115</link>
+            <description><![CDATA[<p>In this solo show Bart opines on two very fundament questions — what is art? and what is Photography? The show was inspired by German artist Boris Eldagsen's recent rejection of a prise in the Sony World Photography Awards after he entered an images created with the use of generative AI to see what would happen. Eldagsen has also thrown his support behind a new term for these photo-like creations, 'promptography'.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp115">lets-talk.ie/ltp115</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 23 Apr 2023 16:17:25 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp115.mp3" length="9749104" type="audio/mpeg"/>
+            <guid isPermaLink="false">1B210DD8-7944-43B9-9C1D-99A4353F3F7C</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart opines on two very fundament questions — what is art? and what is Photography? The show was inspired by German artist Boris Eldagsen’s recent rejection of a prise in the Sony World Photography Awards after he entered an images created with the use of generative AI to see what would happen. Eldagsen has also thrown his support behind a new term for these photo-like creations, ‘promptography’.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp115.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1179</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>115</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Is it Art? Is it Photography?</itunes:title>
+        </item>
         <item>
             <title>LTP 114: Taking to the Skies with Wing Kearns</title>
             <link>https://lets-talk.ie/ltp114</link>
