@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.4.5(5937); Mac OS X Version 13.2.1 (Build 22D68) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5(6030); Mac OS X Version 13.3.1 (a) (Build 22E772610a) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 23 Apr 2023 16:17:28 +0100</pubDate>
-        <lastBuildDate>Sun, 23 Apr 2023 16:17:28 +0100</lastBuildDate>
+        <pubDate>Tue, 23 May 2023 00:41:54 +0100</pubDate>
+        <lastBuildDate>Tue, 23 May 2023 00:41:54 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 116: Flowera with Phones</title>
+            <link>https://lets-talk.ie/ltp116</link>
+            <description><![CDATA[<p>Spring has very much sprung in the northern hemisphere, and as nature starts to put on its annual show, Bart is finding himself shooting a lot more flowers again. In this solo show Bart shares some techniques he uses to capture compelling shots of flowers with his iPhone.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp116">lets-talk.ie/ltp116</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Tue, 23 May 2023 00:41:49 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp116.mp3" length="16563113" type="audio/mpeg"/>
+            <guid isPermaLink="false">9097E067-E950-4FFB-BE31-6DEEA6CF2573</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Spring has very much sprung in the northern hemisphere, and as nature starts to put on its annual show, Bart is finding himself shooting a lot more flowers again. In this solo show Bart shares some techniques he uses to capture compelling shots of flowers with his iPhone.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp116.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2031</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>116</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Flowers with Phones</itunes:title>
+        </item>
         <item>
             <title>LTP 115: Is it Art? Is it Photography?</title>
             <link>https://lets-talk.ie/ltp115</link>
