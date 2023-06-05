@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.4.5(5937); Mac OS X Version 13.3.1 (a) (Build 22E772610a) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5(6030); Mac OS X Version 13.4 (Build 22F66) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 07 May 2023 00:54:17 +0100</pubDate>
-        <lastBuildDate>Sun, 07 May 2023 00:54:17 +0100</lastBuildDate>
+        <pubDate>Mon, 05 Jun 2023 15:27:59 +0100</pubDate>
+        <lastBuildDate>Mon, 05 Jun 2023 15:27:59 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 117 — May 2023</title>
+            <link>https://lets-talk.ie/lta117</link>
+            <description><![CDATA[<p>In this solo show Bart starts by explaining some changes to the show, and then gets stuck into the usual apple news. First, some followups, a few notable numbers, a little regulatory and legal news, some HR news, some highlights from Apple's services an original content, and then the four main stories. First, it's still complicated for Apple in India, second, Google & Apple join forces to fight stalking, third, some up-coming accessibility features, and fourth, Apple's pro apps come to the iPad! Finally, the show finishes with some other quick Apple-related stories that made the news in May.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta117">lets-talk.ie/lta117</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/bartificer">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 05 Jun 2023 15:27:54 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta117.mp3" length="27842995" type="audio/mpeg"/>
+            <guid isPermaLink="false">37ABF32B-9257-4D2D-B410-534B82603BC8</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A rare solo show with just Bart!</itunes:subtitle>
+            <itunes:summary>In this solo show Bart starts by explaining some changes to the show, and then gets stuck into the usual apple news. First, some followups, a few notable numbers, a little regulatory and legal news, some HR news, some highlights from Apple’s services an original content, and then the four main stories. First, it’s still complicated for Apple in India, second, Google &amp; Apple join forces to fight stalking, third, some up-coming accessibility features, and fourth, Apple’s pro apps come to the iPad! Finally, the show finishes with some other quick Apple-related stories that made the news in May.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta117.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/bartificer).</itunes:summary>
+            <itunes:duration>3444</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>117</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2023</itunes:title>
+        </item>
         <item>
             <title>LTA 116: April 2023</title>
             <link>https://lets-talk.ie/lta116</link>
