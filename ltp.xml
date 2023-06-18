@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.5(6030); Mac OS X Version 13.3.1 (a) (Build 22E772610a) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5.1(6045); Mac OS X Version 13.4 (Build 22F66) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Tue, 23 May 2023 00:41:54 +0100</pubDate>
-        <lastBuildDate>Tue, 23 May 2023 00:41:54 +0100</lastBuildDate>
+        <pubDate>Sun, 18 Jun 2023 16:48:47 +0100</pubDate>
+        <lastBuildDate>Sun, 18 Jun 2023 16:48:47 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 117 — Tradeoffs all the way Down</title>
+            <link>https://lets-talk.ie/ltp117</link>
+            <description><![CDATA[<p>In this solo show Bart ponders the many many tradeoffs we're always making when shooting. You might thing money could buy your way out of having to make tradeoffs, but it can't.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp117">lets-talk.ie/ltp117</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 18 Jun 2023 16:48:41 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp117.mp3" length="15834821" type="audio/mpeg"/>
+            <guid isPermaLink="false">EDB4EAB4-D16D-427A-AB9F-77FA45D7DA46</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart ponders the many many tradeoffs we’re always making when shooting. You might thing money could buy your way out of having to make tradeoffs, but it can’t.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp117.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1940</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>117</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Tradeoffs all the way Down</itunes:title>
+        </item>
         <item>
             <title>LTP 116: Flowera with Phones</title>
             <link>https://lets-talk.ie/ltp116</link>
