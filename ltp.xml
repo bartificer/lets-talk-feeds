@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.5.1(6045); Mac OS X Version 13.4 (Build 22F66) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5.2(6054); Mac OS X Version 13.4 (Build 22F66) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 18 Jun 2023 16:48:47 +0100</pubDate>
-        <lastBuildDate>Sun, 18 Jun 2023 16:48:47 +0100</lastBuildDate>
+        <pubDate>Tue, 18 Jul 2023 16:47:02 +0100</pubDate>
+        <lastBuildDate>Tue, 18 Jul 2023 16:47:02 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,7 +36,36 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>LTP 117 — Tradeoffs all the way Down</title>
+            <title>LTP 118: Rethinking Sharing</title>
+            <link>https://lets-talk.ie/ltp118</link>
+            <description><![CDATA[<p>In this solo show Bart shares his experiences re-thinking his engagement with other photographs online. It's not about numbers anymore, but about meaningful engagement, and its as much about exploring the work of others than presenting your own work.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp118">lets-talk.ie/ltp118</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Tue, 18 Jul 2023 16:46:45 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp118.mp3" length="11416968" type="audio/mpeg"/>
+            <guid isPermaLink="false">02023AF2-7CD9-4AFF-B5CD-894EA6358AF6</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his experiences re-thinking his engagement with other photographs online. It’s not about numbers anymore, but about meaningful engagement, and its as much about exploring the work of others than presenting your own work.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp118.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1388</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>118</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Rethinking Sharing</itunes:title>
+        </item>
+        <item>
+            <title>LTP 117: Tradeoffs all the way Down</title>
             <link>https://lets-talk.ie/ltp117</link>
             <description><![CDATA[<p>In this solo show Bart ponders the many many tradeoffs we're always making when shooting. You might thing money could buy your way out of having to make tradeoffs, but it can't.</p>
 
