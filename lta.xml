@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.5.2(6054); Mac OS X Version 13.4 (Build 22F66) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5.4(6065); Mac OS X Version 13.5.2 (Build 22G91) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 06 Aug 2023 18:09:26 +0100</pubDate>
-        <lastBuildDate>Sun, 06 Aug 2023 18:09:26 +0100</lastBuildDate>
+        <pubDate>Sun, 10 Sep 2023 18:14:02 +0100</pubDate>
+        <lastBuildDate>Sun, 10 Sep 2023 18:14:02 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 120 — August 2023</title>
+            <link>https://lets-talk.ie/lta120</link>
+            <description><![CDATA[<p>Bart's throat is still not up to a full-length show, so it's another solo episode. The show starts with a few followups, one notable number, some regulatory and legal news, a little HR news, and the highlights from Apple's services an original content. The three main stories are Apple's support of a Right to Repair bill, the EU officially name Apple a 'Gate Keeper', and a mysterious Chinese iPhone ban that may not be real. Finally, the show finishes with some other quick Apple-related stories that made the news in August.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta120">lets-talk.ie/lta120</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 10 Sep 2023 18:13:57 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta120.mp3" length="23534990" type="audio/mpeg"/>
+            <guid isPermaLink="false">5FC78F9C-62CF-4F32-8C61-FED907E9C81E</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart this month</itunes:subtitle>
+            <itunes:summary>Bart’s throat is still not up to a full-length show, so it’s another solo episode. The show starts with a few followups, one notable number, some regulatory and legal news, a little HR news, and the highlights from Apple’s services an original content. The three main stories are Apple’s support of a Right to Repair bill, the EU officially name Apple a ‘Gate Keeper’, and a mysterious Chinese iPhone ban that may not be real. Finally, the show finishes with some other quick Apple-related stories that made the news in August.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta120.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>2906</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>120</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2023</itunes:title>
+        </item>
         <item>
             <title>LTA 119 — July 2023</title>
             <link>https://lets-talk.ie/lta119</link>
