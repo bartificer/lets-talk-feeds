@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.5.3(6060); Mac OS X Version 13.4 (Build 22F66) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5.4(6065); Mac OS X Version 13.5.2 (Build 22G91) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 20 Aug 2023 17:06:42 +0100</pubDate>
-        <lastBuildDate>Sun, 20 Aug 2023 17:06:42 +0100</lastBuildDate>
+        <pubDate>Sun, 24 Sep 2023 17:38:19 +0100</pubDate>
+        <lastBuildDate>Sun, 24 Sep 2023 17:38:19 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,7 +36,36 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>LTP 118: Rethinking AI Training</title>
+            <title>LTP 120: Periscopes, Tetraprisms &amp; Hofer in Dublin</title>
+            <link>https://lets-talk.ie/ltp120</link>
+            <description><![CDATA[<p>This solo show is a bit of a potpourri — Bart starts by demystifying the jargon around the recent advances in smartphone zoom lenses, then gives a quick review of the photo book 'Evelyn Hofer Dublin' which he pre-ordered after recording episode 102 'Ward Rosin on Evelyn Hofer'.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp120">lets-talk.ie/ltp120</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 24 Sep 2023 17:38:03 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp120.mp3" length="12567672" type="audio/mpeg"/>
+            <guid isPermaLink="false">0A2874CE-8330-4134-A19A-3B2194DCAC55</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>This solo show is a bit of a potpourri — Bart starts by demystifying the jargon around the recent advances in smartphone zoom lenses, then gives a quick review of the photo book ‘Evelyn Hofer Dublin’ which he pre-ordered after recording episode 102 ‘Ward Rosin on Evelyn Hofer’.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp120.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1531</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>120</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Periscopes, Tetraprisms &amp; Hofer in Dublin</itunes:title>
+        </item>
+        <item>
+            <title>LTP 119: Rethinking AI Training</title>
             <link>https://lets-talk.ie/ltp119</link>
             <description><![CDATA[<p>In this solo show Bart shares his new thinking on the ethical and legal questions around AI training — since chatting with Antonio about AI a few months ago Bart has realised he was at least half-wrong in his original take!</p>
 
