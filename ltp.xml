@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 24 Sep 2023 17:38:19 +0100</pubDate>
-        <lastBuildDate>Sun, 24 Sep 2023 17:38:19 +0100</lastBuildDate>
+        <pubDate>Sun, 15 Oct 2023 20:22:30 +0100</pubDate>
+        <lastBuildDate>Sun, 15 Oct 2023 20:22:30 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 121 — Truth in Photography?</title>
+            <link>https://lets-talk.ie/ltp121</link>
+            <description><![CDATA[<p>In this solo show Bart shares his thoughts on truth in photography, and why all the current hand-wringing about modern AI developments bringing some kind of truth-pocalypse doesn't make sense to him. Not only does modern technology not change any fundamental truths about trust, it even has the potential to empower us to more confidently judge the trustworthiness of the images we encounter online.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp121">lets-talk.ie/ltp121</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 15 Oct 2023 20:22:23 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp121.mp3" length="13115738" type="audio/mpeg"/>
+            <guid isPermaLink="false">E7152BE0-F4A1-4479-8F4F-AB1F1B971C53</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his thoughts on truth in photography, and why all the current hand-wringing about modern AI developments bringing some kind of truth-pocalypse doesn’t make sense to him. Not only does modern technology not change any fundamental truths about trust, it even has the potential to empower us to more confidently judge the trustworthiness of the images we encounter online.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp121.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1600</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>121</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Truth in Photography?</itunes:title>
+        </item>
         <item>
             <title>LTP 120: Periscopes, Tetraprisms &amp; Hofer in Dublin</title>
             <link>https://lets-talk.ie/ltp120</link>
