@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 15 Oct 2023 20:22:30 +0100</pubDate>
-        <lastBuildDate>Sun, 15 Oct 2023 20:22:30 +0100</lastBuildDate>
+        <pubDate>Sun, 19 Nov 2023 15:39:23 +0000</pubDate>
+        <lastBuildDate>Sun, 19 Nov 2023 15:39:23 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -35,6 +35,35 @@
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTP 122: Is 5x Telephoto Useful on a Phone?</title>
+            <link>https://lets-talk.ie/ltp122</link>
+            <description><![CDATA[<p>In this solo show Bart shares his experiences with the iPhone 15 Pro Max's 5x telephoto lens, and considers the usefulness of similar lenses on smartphones in general.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp122">lets-talk.ie/ltp122</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 19 Nov 2023 15:39:19 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp122.mp3" length="10779071" type="audio/mpeg"/>
+            <guid isPermaLink="false">416ADEEA-4818-4C00-B684-C68CCA29765E</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his experiences with the iPhone 15 Pro Max’s 5x telephoto lens, and considers the usefulness of similar lenses on smartphones in general.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp122.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1308</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>122</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Is 5x Telephoto Useful on a Phone?</itunes:title>
+        </item>
         <item>
             <title>LTP 121 — Truth in Photography?</title>
             <link>https://lets-talk.ie/ltp121</link>
