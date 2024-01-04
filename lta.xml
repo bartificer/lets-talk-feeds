@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.5.4(6065); Mac OS X Version 13.5.2 (Build 22G91) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.5.5(6072); Mac OS X Version 13.5.2 (Build 22G91) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 03 Dec 2023 19:44:01 +0000</pubDate>
-        <lastBuildDate>Sun, 03 Dec 2023 19:44:01 +0000</lastBuildDate>
+        <pubDate>Thu, 04 Jan 2024 00:39:45 +0000</pubDate>
+        <lastBuildDate>Thu, 04 Jan 2024 00:39:45 +0000</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 124 — December 2023</title>
+            <link>https://lets-talk.ie/lta124</link>
+            <description><![CDATA[<p>This solo show starts with a few followups, some regulatory and legal news, a little HR news, and the highlights from Apple's services and original content. The four main stories are Push Notification spying, the Beeper Mini saga, the US import ban on Apple Watches, and the Operation Triangulation iPhone hacks. Finally, the show finishes with some other quick Apple-related stories that made the news in December.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta124">lets-talk.ie/lta124</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Thu, 04 Jan 2024 00:39:42 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta124.mp3" length="26781763" type="audio/mpeg"/>
+            <guid isPermaLink="false">EA0F0948-B85D-4EA3-9E43-DB4B74EF1CC9</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>This solo show starts with a few followups, some regulatory and legal news, a little HR news, and the highlights from Apple’s services and original content. The four main stories are Push Notification spying, the Beeper Mini saga, the US import ban on Apple Watches, and the Operation Triangulation iPhone hacks. Finally, the show finishes with some other quick Apple-related stories that made the news in December.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta124.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3311</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>124</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2023</itunes:title>
+        </item>
         <item>
             <title>LTA 123 — November 2023</title>
             <link>https://lets-talk.ie/lta123</link>
