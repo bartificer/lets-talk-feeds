@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Thu, 04 Jan 2024 00:39:45 +0000</pubDate>
-        <lastBuildDate>Thu, 04 Jan 2024 00:39:45 +0000</lastBuildDate>
+        <pubDate>Mon, 05 Feb 2024 20:03:23 +0000</pubDate>
+        <lastBuildDate>Mon, 05 Feb 2024 20:03:23 +0000</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -24,6 +24,31 @@
         <itunes:new-feed-url>https://feeds.lets-talk.ie/lta.xml</itunes:new-feed-url>
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>LTA 125 — January 2024</title>
+            <link>https://lets-talk.ie/lta125</link>
+            <description><![CDATA[<p>This marathon solo show starts with a few followups, some regulatory and legal news, some HR news, and the highlights from Apple's services and original content. The four main stories are Apple's Q1 2024 earnings, Apple's Cantankerous Compliance in the US & EU, the Mac at 40, and the launch of the Vision Pro in the US. Finally, this epic show finishes with some other quick Apple-related stories that made the news in January.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta125">lets-talk.ie/lta125</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 05 Feb 2024 20:03:20 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta125.mp3" length="40892068" type="audio/mpeg"/>
+            <guid isPermaLink="false">CB98D2E9-65CD-4D04-B9CF-493D2C3C0D05</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A marathon solo show with just Bart!</itunes:subtitle>
+            <itunes:summary>This marathon solo show starts with a few followups, some regulatory and legal news, some HR news, and the highlights from Apple’s services and original content. The four main stories are Apple’s Q1 2024 earnings, Apple’s Cantankerous Compliance in the US &amp; EU, the Mac at 40, and the launch of the Vision Pro in the US. Finally, this epic show finishes with some other quick Apple-related stories that made the news in January.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta125.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>5075</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>125</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2024</itunes:title>
+        </item>
         <item>
             <title>LTA 124 — December 2023</title>
             <link>https://lets-talk.ie/lta124</link>
