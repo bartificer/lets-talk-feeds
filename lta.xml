@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.6.1(6138); Mac OS X Version 13.5.2 (Build 22G91) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.2(6148); Mac OS X Version 14.4.1 (Build 23E224) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 10 Mar 2024 12:08:38 +0000</pubDate>
-        <lastBuildDate>Sun, 10 Mar 2024 12:08:38 +0000</lastBuildDate>
+        <pubDate>Mon, 08 Apr 2024 19:34:04 +0100</pubDate>
+        <lastBuildDate>Mon, 08 Apr 2024 19:34:04 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -26,7 +26,32 @@
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
         <item>
-            <title>LTA 126: February 2024</title>
+            <title>LTA 127 — March 2024</title>
+            <link>https://lets-talk.ie/lta127</link>
+            <description><![CDATA[<p>This solo show starts with some followups from last month before diving into just a few regulatory and legal stories, some HR and acquisitions news, and a few highlights from Apple's services and original content. The three main stories are the Digital Markets Act (again), the US DOJ's Anti-Trust case against Apple, and some VisionPro Developments. The show finishes with a rundown of some other quick Apple-related stories that made the news in March.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta127">lets-talk.ie/lta127</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 08 Apr 2024 19:33:50 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta127.mp3" length="25610162" type="audio/mpeg"/>
+            <guid isPermaLink="false">BA88E4CF-AC4D-43D3-A5DB-EAFFC172DDF4</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>This solo show starts with some followups from last month before diving into just a few regulatory and legal stories, some HR and acquisitions news, and a few highlights from Apple’s services and original content. The three main stories are the Digital Markets Act (again), the US DOJ’s Anti-Trust case against Apple, and some VisionPro Developments. The show finishes with a rundown of some other quick Apple-related stories that made the news in March.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta127.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3165</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>127</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2024</itunes:title>
+        </item>
+        <item>
+            <title>LTA 126 — February 2024</title>
             <link>https://lets-talk.ie/lta126</link>
             <description><![CDATA[<p>This marathon solo show starts with a lot followups, including Apple Vision Pro & DMA developments. Next we have some legal stories, just two HR stories, and a few highlights from Apple's services and original content. The four main stories are a €1.8Bn fine from the European Commission, the end of Apple's car project, Apple's new Sports app, and a big encryption upgrade for iMessage. Finally, the show finishes with a rundown of some other quick Apple-related stories that made the news in February including an M3 MacBook Air and updates to Apple's Windows apps.</p>
 
