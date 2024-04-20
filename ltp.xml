@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.6.1(6138); Mac OS X Version 14.4 (Build 23E214) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.2(6148); Mac OS X Version 14.4.1 (Build 23E224) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 24 Mar 2024 18:05:13 +0000</pubDate>
-        <lastBuildDate>Sun, 24 Mar 2024 18:05:13 +0000</lastBuildDate>
+        <pubDate>Sat, 20 Apr 2024 17:00:45 +0100</pubDate>
+        <lastBuildDate>Sat, 20 Apr 2024 17:00:45 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>127: Love April Showers</title>
+            <link>https://lets-talk.ie/ltp127</link>
+            <description><![CDATA[<p>In this solo show Bart starts by sharing his practical advice for staying comfortable and keeping your gear safe in the kind of chaotic weather that typifies April in Europe, before trying to inspire everyone to get out there to capitalise on the photographic opportunities the weather brings.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp127">lets-talk.ie/ltp127</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 20 Apr 2024 17:00:41 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp127.mp3" length="20027822" type="audio/mpeg"/>
+            <guid isPermaLink="false">9A8B8C03-B2D2-42CA-9876-936215373931</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart starts by sharing his practical advice for staying comfortable and keeping your gear safe in the kind of chaotic weather that typifies April in Europe, before trying to inspire everyone to get out there to capitalise on the photographic opportunities the weather brings.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp127.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2464</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>127</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Love April Showers</itunes:title>
+        </item>
         <item>
             <title>126: Rainbows</title>
             <link>https://lets-talk.ie/ltp126</link>
