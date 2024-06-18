@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.6.3(6156); Mac OS X Version 14.4.1 (Build 23E224) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.4(6162); Mac OS X Version 14.5 (Build 23F79) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 19 May 2024 17:06:28 +0100</pubDate>
-        <lastBuildDate>Sun, 19 May 2024 17:06:28 +0100</lastBuildDate>
+        <pubDate>Tue, 18 Jun 2024 14:47:32 +0100</pubDate>
+        <lastBuildDate>Tue, 18 Jun 2024 14:47:32 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>Aurorae</title>
+            <link>https://lets-talk.ie/ltp129</link>
+            <description><![CDATA[<p>In this solo show Bart explains what the northern light are, how they work, how to see then, and how to photograph them. But most importantly, since we're entering the peak of the 11 year cycle they follow, Bart gives some advice on preparing to make the most of any aurorae visible in your neck of the woods!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp129">lets-talk.ie/ltp129</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Tue, 18 Jun 2024 14:46:02 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp129.mp3" length="22294038" type="audio/mpeg"/>
+            <guid isPermaLink="false">9AFFC1A7-8318-4F4C-B860-3CE1941A4814</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart explains what the northern light are, how they work, how to see then, and how to photograph them. But most importantly, since we’re entering the peak of the 11 year cycle they follow, Bart gives some advice on preparing to make the most of any aurorae visible in your neck of the woods!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp129.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2747</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>129</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>LTP 129: Aurorae</itunes:title>
+        </item>
         <item>
             <title>LTP 128: Buzz Blossom &amp; Squeak with Jill from the North Woods</title>
             <link>https://lets-talk.ie/ltp128</link>
