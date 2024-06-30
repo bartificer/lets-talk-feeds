@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.6.3(6156); Mac OS X Version 14.5 (Build 23F79) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.5(6180); Mac OS X Version 14.5 (Build 23F79) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 02 Jun 2024 18:13:05 +0100</pubDate>
-        <lastBuildDate>Sun, 02 Jun 2024 18:13:05 +0100</lastBuildDate>
+        <pubDate>Sun, 30 Jun 2024 15:20:07 +0100</pubDate>
+        <lastBuildDate>Sun, 30 Jun 2024 15:20:07 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +25,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>June 2024</title>
+            <link>https://lets-talk.ie/lta130</link>
+            <description><![CDATA[<p>This jumbo solo show starts with a few followups from last month before diving into just a few regulatory legal stories, some HR news, and a few highlights from Apple's services and original content. The five main stories are a big-picture overview of WWDC, a look at the software announcement from WWDC, the Apple Intelligence announcement at WWDC, the preliminary finding that Apple is in breach of the DMA, and Apple's "Longevity by Design" initiative. The show finishes with a rundown of two other quick Apple-related stories that made the news in June.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta130">lets-talk.ie/lta130</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 30 Jun 2024 15:20:02 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta130.mp3" length="45652186" type="audio/mpeg"/>
+            <guid isPermaLink="false">5BB31503-6A90-428A-8361-E6E25CA2BB85</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>This jumbo solo show starts with a few followups from last month before diving into just a few regulatory legal stories, some HR news, and a few highlights from Apple’s services and original content. The five main stories are a big-picture overview of WWDC, a look at the software announcement from WWDC, the Apple Intelligence announcement at WWDC, the preliminary finding that Apple is in breach of the DMA, and Apple’s “Longevity by Design” initiative. The show finishes with a rundown of two other quick Apple-related stories that made the news in June.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta130.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>5670</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>130</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>LTA 130: June 2024</itunes:title>
+        </item>
         <item>
             <title>May 2024</title>
             <link>https://lets-talk.ie/lta129</link>
