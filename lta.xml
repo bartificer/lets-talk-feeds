@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sat, 03 Aug 2024 18:12:59 +0100</pubDate>
-        <lastBuildDate>Sat, 03 Aug 2024 18:12:59 +0100</lastBuildDate>
+        <pubDate>Sun, 01 Sep 2024 17:24:49 +0100</pubDate>
+        <lastBuildDate>Sun, 01 Sep 2024 17:24:49 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +25,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 132: August 2024</title>
+            <link>https://lets-talk.ie/lta132</link>
+            <description><![CDATA[<p>This solo show starts with a quick followup from recent months before diving into just a few regulatory stories, one quick legal story, quite a bit of HR news, and some highlights from Apple's services and original content. The four main stories are the impact of Google being judge an illegal search monopoly on Apple, Apple's assault on Patreon, Apple's continuing journey towards DMA compliance, and the continuing rollout of Apple Intelligence. The show finishes with a rundown of a few other quick Apple-related stories that made the news in August.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta132">lets-talk.ie/lta132</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 01 Sep 2024 17:24:46 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta132.mp3" length="31296771" type="audio/mpeg"/>
+            <guid isPermaLink="false">4E642853-4F24-46DA-99FC-D2C52F75658C</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>This solo show starts with a quick followup from recent months before diving into just a few regulatory stories, one quick legal story, quite a bit of HR news, and some highlights from Apple’s services and original content. The four main stories are the impact of Google being judge an illegal search monopoly on Apple, Apple’s assault on Patreon, Apple’s continuing journey towards DMA compliance, and the continuing rollout of Apple Intelligence. The show finishes with a rundown of a few other quick Apple-related stories that made the news in August.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta132.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3876</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>132</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2024</itunes:title>
+        </item>
         <item>
             <title>LTA 131 — July 2024</title>
             <link>https://lets-talk.ie/lta131</link>
@@ -51,7 +76,7 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:title>July 2024</itunes:title>
         </item>
         <item>
-            <title>June 2024</title>
+            <title>LTA 130: June 2024</title>
             <link>https://lets-talk.ie/lta130</link>
             <description><![CDATA[<p>This jumbo solo show starts with a few followups from last month before diving into just a few regulatory legal stories, some HR news, and a few highlights from Apple's services and original content. The five main stories are a big-picture overview of WWDC, a look at the software announcement from WWDC, the Apple Intelligence announcement at WWDC, the preliminary finding that Apple is in breach of the DMA, and Apple's "Longevity by Design" initiative. The show finishes with a rundown of two other quick Apple-related stories that made the news in June.</p>
 
@@ -73,10 +98,10 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:season>0</itunes:season>
             <itunes:episode>130</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>LTA 130: June 2024</itunes:title>
+            <itunes:title>June 2024</itunes:title>
         </item>
         <item>
-            <title>May 2024</title>
+            <title>LTA 129: May 2024</title>
             <link>https://lets-talk.ie/lta129</link>
             <description><![CDATA[<p>This solo show starts with some followups from last month before diving into just a few regulatory and legal stories, some HR and acquisitions news, and a few highlights from Apple's services and original content. The three main stories are some impressive up-coming accessibility features, Apple's "Let Loose" iPad event, and Microsoft's new Copilot+ PCs. The show finishes with a rundown of a few other quick Apple-related stories that made the news in May.</p>
 
@@ -98,7 +123,7 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:season>0</itunes:season>
             <itunes:episode>129</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>LTA 129: May 2024</itunes:title>
+            <itunes:title>May 2024</itunes:title>
         </item>
         <item>
             <title>LTA 128 — April 2024</title>
