@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.5 (Build 23F79) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.6.1 (Build 23G93) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 18 Aug 2024 16:10:35 +0100</pubDate>
-        <lastBuildDate>Sun, 18 Aug 2024 16:10:35 +0100</lastBuildDate>
+        <pubDate>Sun, 08 Sep 2024 16:52:54 +0100</pubDate>
+        <lastBuildDate>Sun, 08 Sep 2024 16:52:54 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 132 — Phone Camera Wishlist</title>
+            <link>https://lets-talk.ie/ltp132</link>
+            <description><![CDATA[<p>In this solo show Bart shares his thoughts on where he would like to see the cameras in our phones continue to the evolve over the next few years. The cameras in phones have come a long way in the last decade, so what pain points remain? What opportunities are there for improvement?</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp132">lets-talk.ie/ltp132</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 08 Sep 2024 16:52:51 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp132.mp3" length="24174388" type="audio/mpeg"/>
+            <guid isPermaLink="false">5E7C63CC-B4D0-4C2F-A26A-59A5F2B67DEB</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his thoughts on where he would like to see the cameras in our phones continue to the evolve over the next few years. The cameras in phones have come a long way in the last decade, so what pain points remain? What opportunities are there for improvement?
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp132.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2982</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>132</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Phone Camera Wishlist</itunes:title>
+        </item>
         <item>
             <title>LTP 131: Rethinking Monochrome</title>
             <link>https://lets-talk.ie/ltp131</link>
