@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 08 Sep 2024 16:52:54 +0100</pubDate>
-        <lastBuildDate>Sun, 08 Sep 2024 16:52:54 +0100</lastBuildDate>
+        <pubDate>Sun, 08 Sep 2024 16:59:52 +0100</pubDate>
+        <lastBuildDate>Sun, 08 Sep 2024 16:59:52 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -37,7 +37,7 @@
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
         <item>
-            <title>LTP 132 — Phone Camera Wishlist</title>
+            <title>LTP 132: Phone Camera Wishlist</title>
             <link>https://lets-talk.ie/ltp132</link>
             <description><![CDATA[<p>In this solo show Bart shares his thoughts on where he would like to see the cameras in our phones continue to the evolve over the next few years. The cameras in phones have come a long way in the last decade, so what pain points remain? What opportunities are there for improvement?</p>
 
@@ -124,7 +124,7 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:title>AI, Taking Stock</itunes:title>
         </item>
         <item>
-            <title>Aurorae</title>
+            <title>LTP 129: Aurorae</title>
             <link>https://lets-talk.ie/ltp129</link>
             <description><![CDATA[<p>In this solo show Bart explains what the northern light are, how they work, how to see then, and how to photograph them. But most importantly, since we're entering the peak of the 11 year cycle they follow, Bart gives some advice on preparing to make the most of any aurorae visible in your neck of the woods!</p>
 
@@ -150,7 +150,7 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:season>0</itunes:season>
             <itunes:episode>129</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>LTP 129: Aurorae</itunes:title>
+            <itunes:title>Aurorae</itunes:title>
         </item>
         <item>
             <title>LTP 128: Buzz Blossom &amp; Squeak with Jill from the North Woods</title>
