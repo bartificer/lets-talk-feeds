@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.5 (Build 23F79) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.7 (Build 23H124) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 01 Sep 2024 17:24:49 +0100</pubDate>
-        <lastBuildDate>Sun, 01 Sep 2024 17:24:49 +0100</lastBuildDate>
+        <pubDate>Mon, 07 Oct 2024 10:12:39 +0100</pubDate>
+        <lastBuildDate>Mon, 07 Oct 2024 10:12:39 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +25,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 133 — September 2024</title>
+            <link>https://lets-talk.ie/lta133</link>
+            <description><![CDATA[<p>The show starts with some quick followup on a few long-running stories covered in recent months before diving into some regulatory stories, a few legal stories, a little HR news, and some highlights from Apple's services and original content. The three main stories are Apple's "It's Glow Time" event, the release of the latest OSes, and repairability. The show finishes with a rundown of a few other quick Apple-related stories that made the news in September.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta133">lets-talk.ie/lta133</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 07 Oct 2024 10:12:34 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta133.mp3" length="30771810" type="audio/mpeg"/>
+            <guid isPermaLink="false">7FDBAD34-E9DD-4889-98AD-6E9FDCE6659D</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with some quick followup on a few long-running stories covered in recent months before diving into some regulatory stories, a few legal stories, a little HR news, and some highlights from Apple’s services and original content. The three main stories are Apple’s “It’s Glow Time” event, the release of the latest OSes, and repairability. The show finishes with a rundown of a few other quick Apple-related stories that made the news in September.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta133.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3810</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>133</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2024</itunes:title>
+        </item>
         <item>
             <title>LTA 132: August 2024</title>
             <link>https://lets-talk.ie/lta132</link>
