@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.6.1 (Build 23G93) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.6(6190); Mac OS X Version 14.7 (Build 23H124) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 08 Sep 2024 16:59:52 +0100</pubDate>
-        <lastBuildDate>Sun, 08 Sep 2024 16:59:52 +0100</lastBuildDate>
+        <pubDate>Sun, 20 Oct 2024 00:35:47 +0100</pubDate>
+        <lastBuildDate>Sun, 20 Oct 2024 00:35:47 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 133: Better than Your Eyes!</title>
+            <link>https://lets-talk.ie/ltp133</link>
+            <description><![CDATA[<p>This month Bart is joined by Allison Sheridan from the NosillaCast podcast for a wide-ranging conversation revolving around photographing recent astronomical events in modern ways. We start with the observation that the cameras in our phones can now see in the dark better than we can, before moving on to a cool new take on the concept of a telescope that takes the technology powering our phone cameras to a whole other level, before finally circling back to some software tips to help figure out where in the night sky to point our phones to capture the things we can't actually see!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp133">lets-talk.ie/ltp133</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 20 Oct 2024 00:35:45 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp133.mp3" length="12386522" type="audio/mpeg"/>
+            <guid isPermaLink="false">25001FB1-9700-412A-A54D-B2C7BBC3ED3D</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart Busschots in conversation with Allison Sheridan</itunes:subtitle>
+            <itunes:summary>This month Bart is joined by Allison Sheridan from the NosillaCast podcast for a wide-ranging conversation revolving around photographing recent astronomical events in modern ways. We start with the observation that the cameras in our phones can now see in the dark better than we can, before moving on to a cool new take on the concept of a telescope that takes the technology powering our phone cameras to a whole other level, before finally circling back to some software tips to help figure out where in the night sky to point our phones to capture the things we can’t actually see!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp133.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1509</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>133</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Better than Your Eyes!</itunes:title>
+        </item>
         <item>
             <title>LTP 132: Phone Camera Wishlist</title>
             <link>https://lets-talk.ie/ltp132</link>
