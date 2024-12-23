@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.6.6(6190); Mac OS X Version 15.1 (Build 24B83) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.6.6(6190); Mac OS X Version 15.2 (Build 24C101) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 17 Nov 2024 17:10:44 +0000</pubDate>
-        <lastBuildDate>Sun, 17 Nov 2024 17:10:44 +0000</lastBuildDate>
+        <pubDate>Mon, 23 Dec 2024 17:54:07 +0000</pubDate>
+        <lastBuildDate>Mon, 23 Dec 2024 17:54:07 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -37,7 +37,7 @@
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
         <item>
-            <title>Photography's AI Spectrum</title>
+            <title>LTP 134: Photography's AI Spectrum</title>
             <link>https://lets-talk.ie/ltp134</link>
             <description><![CDATA[<p>In this solo show Bart explains why we can't have a single unified opinion on <em>'AI in photography'</em> — there are a whole spectrum of different AI-powered tools that interact with photography in different ways, and they all have their own subjective pros and cons.</p>
 
@@ -63,7 +63,7 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:season>0</itunes:season>
             <itunes:episode>134</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>LTP 134: Photography's AI Spectrum</itunes:title>
+            <itunes:title>Photography's AI Spectrum</itunes:title>
         </item>
         <item>
             <title>LTP 133: Better than Your Eyes!</title>
