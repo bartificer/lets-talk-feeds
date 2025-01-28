@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.6.6(6190); Mac OS X Version 15.2 (Build 24C101) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.7(6224); Mac OS X Version 15.2 (Build 24C101) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Mon, 23 Dec 2024 17:56:18 +0000</pubDate>
-        <lastBuildDate>Mon, 23 Dec 2024 17:56:18 +0000</lastBuildDate>
+        <pubDate>Tue, 28 Jan 2025 01:50:37 +0000</pubDate>
+        <lastBuildDate>Tue, 28 Jan 2025 01:50:37 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 136: New Year's Challenges</title>
+            <link>https://lets-talk.ie/ltp136</link>
+            <description><![CDATA[<p>In this solo show Bart shares his idea of setting himself "New Year's Challenges" instead of stereotypical New Year's resolutions, looks back on his 2024 challenge to try shoot more monochromes, and forward to his 2025 challenge to try find shots where the colours themselves are the primary subject.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp136">lets-talk.ie/ltp136</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Tue, 28 Jan 2025 01:50:32 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp136.mp3" length="20115966" type="audio/mpeg"/>
+            <guid isPermaLink="false">C5BEA9BE-9AA6-46D7-8308-99E0B4D27F8B</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his idea of setting himself “New Year’s Challenges” instead of stereotypical New Year’s resolutions, looks back on his 2024 challenge to try shoot more monochromes, and forward to his 2025 challenge to try find shots where the colours themselves are the primary subject.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp136.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2475</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>136</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>New Year's Challenges</itunes:title>
+        </item>
         <item>
             <title>LTP 135: HSL, the Channel Mixer &amp; Selective Colour Adjustments</title>
             <link>https://lets-talk.ie/ltp135</link>
