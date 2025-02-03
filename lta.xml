@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.6.6(6190); Mac OS X Version 15.2 (Build 24C101) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.7(6224); Mac OS X Version 15.3 (Build 24D60) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 05 Jan 2025 18:03:43 +0000</pubDate>
-        <lastBuildDate>Sun, 05 Jan 2025 18:03:43 +0000</lastBuildDate>
+        <pubDate>Mon, 03 Feb 2025 16:09:18 +0000</pubDate>
+        <lastBuildDate>Mon, 03 Feb 2025 16:09:18 +0000</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +25,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 136 — January 2025</title>
+            <link>https://lets-talk.ie/lta137</link>
+            <description><![CDATA[<p>The show starts with some quick followup on a few recently covered and long-running stories before diving into the regulatory and legal stories, a little HR news, and some highlights from Apple's services and original content. The three main stories are President Trump's impact on Apple, the latest OS point-releases, and Apple's Q1 2025 earnings call. The show finishes with a rundown of a few other quick Apple-related stories that made the news in January.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta137">lets-talk.ie/lta137</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 03 Feb 2025 16:09:14 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta137.mp3" length="39405980" type="audio/mpeg"/>
+            <guid isPermaLink="false">33344CB2-61E8-4150-9898-614F15DC9A88</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with some quick followup on a few recently covered and long-running stories before diving into the regulatory and legal stories, a little HR news, and some highlights from Apple’s services and original content. The three main stories are President Trump’s impact on Apple, the latest OS point-releases, and Apple’s Q1 2025 earnings call. The show finishes with a rundown of a few other quick Apple-related stories that made the news in January.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta137.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4890</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>137</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2025</itunes:title>
+        </item>
         <item>
             <title>LTA 136 — December 2024</title>
             <link>https://lets-talk.ie/lta136</link>
