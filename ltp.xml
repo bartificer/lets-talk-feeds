@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.7(6224); Mac OS X Version 15.3.1 (Build 24D70) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.7.1(6236); Mac OS X Version 15.3.2 (Build 24D81) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Tue, 25 Feb 2025 01:13:36 +0000</pubDate>
-        <lastBuildDate>Tue, 25 Feb 2025 01:13:36 +0000</lastBuildDate>
+        <pubDate>Sat, 22 Mar 2025 17:22:49 +0000</pubDate>
+        <lastBuildDate>Sat, 22 Mar 2025 17:22:49 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 138 — Seeking Symmetry</title>
+            <link>https://lets-talk.ie/ltp138</link>
+            <description><![CDATA[<p>In this solo show Bart shares his expanded understanding of the many kinds of symmetry all around us, how it was triggered by a simple photographic challenge, and how it led to his new-found appreciation of art of designing car wheels!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp138">lets-talk.ie/ltp138</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 22 Mar 2025 17:22:45 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp138.mp3" length="18085595" type="audio/mpeg"/>
+            <guid isPermaLink="false">0FF70988-FA9B-4647-85F2-A81A651B91C6</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares his expanded understanding of the many kinds of symmetry all around us, how it was triggered by a simple photographic challenge, and how it led to his new-found appreciation of art of designing car wheels!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp138.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2221</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>138</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Seeking Symmetry</itunes:title>
+        </item>
         <item>
             <title>LTP 137: Copilots not Replacements</title>
             <link>https://lets-talk.ie/ltp137</link>
