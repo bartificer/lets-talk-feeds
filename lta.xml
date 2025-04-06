@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.7(6224); Mac OS X Version 15.3.1 (Build 24D70) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.7.1(6236); Mac OS X Version 15.3.2 (Build 24D81) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 09 Mar 2025 17:40:05 +0000</pubDate>
-        <lastBuildDate>Sun, 09 Mar 2025 17:40:05 +0000</lastBuildDate>
+        <pubDate>Sun, 06 Apr 2025 17:22:05 +0100</pubDate>
+        <lastBuildDate>Sun, 06 Apr 2025 17:22:05 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -26,7 +26,32 @@
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
         <item>
-            <title>February 2025</title>
+            <title>LTA 139 — March 2025</title>
+            <link>https://lets-talk.ie/lta139</link>
+            <description><![CDATA[<p>The show starts with some quick followup on a few recently covered and long-running stories before diving into the regulatory and legal stories, a little Apple HR news, and some highlights from Apple's services and original content. The three main stories are President Trump's (not-)reciprocal tariffs, a big shakeup in the Apple Intelligence and Siri teams, and the release of this OS cycle's fourth round of feature updates. The show finishes with a rundown of a few other quick Apple-related stories that made the news in March.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta139">lets-talk.ie/lta139</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 06 Apr 2025 17:21:59 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta139.mp3" length="37080121" type="audio/mpeg"/>
+            <guid isPermaLink="false">2DD45922-E190-4002-8CD7-810483EF2A11</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with some quick followup on a few recently covered and long-running stories before diving into the regulatory and legal stories, a little Apple HR news, and some highlights from Apple’s services and original content. The three main stories are President Trump’s (not-)reciprocal tariffs, a big shakeup in the Apple Intelligence and Siri teams, and the release of this OS cycle’s fourth round of feature updates. The show finishes with a rundown of a few other quick Apple-related stories that made the news in March.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta139.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4599</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>139</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2025</itunes:title>
+        </item>
+        <item>
+            <title>LTA 138 — February 2025</title>
             <link>https://lets-talk.ie/lta138</link>
             <description><![CDATA[<p>The show starts with some quick followup on a few recently covered and long-running stories before diving into the regulatory and legal stories, and some highlights from Apple's services and original content. The four main stories are Apple's first full month under President Trump's second tenure, the UK's attempt to secretly back-door iCloud, loads of new and updated Apple devices, and a re-vamp of Apple's child safety features. The show finishes with a rundown of a few other quick Apple-related stories that made the news in February.</p>
 
@@ -48,7 +73,7 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:season>0</itunes:season>
             <itunes:episode>138</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>LTA 138 — February 2025</itunes:title>
+            <itunes:title>February 2025</itunes:title>
         </item>
         <item>
             <title>LTA 136 — January 2025</title>
