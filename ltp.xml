@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.7.1(6236); Mac OS X Version 15.3.2 (Build 24D81) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.7.1(6236); Mac OS X Version 15.4.1 (Build 24E263) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 13 Apr 2025 16:52:39 +0100</pubDate>
-        <lastBuildDate>Sun, 13 Apr 2025 16:52:39 +0100</lastBuildDate>
+        <pubDate>Sun, 18 May 2025 16:58:31 +0100</pubDate>
+        <lastBuildDate>Sun, 18 May 2025 16:58:31 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 140: Luck</title>
+            <link>https://lets-talk.ie/ltp140</link>
+            <description><![CDATA[<p>In this solo show Bart pontificates on just one word — Luck. It's essential, but not sufficient, and understanding it's role will transform it from your nemesis into an opportunity.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp140">lets-talk.ie/ltp140</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 18 May 2025 16:58:24 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp140.mp3" length="12347366" type="audio/mpeg"/>
+            <guid isPermaLink="false">C9DDAFEA-DF06-47BB-84F6-FA408FC1A1C9</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart pontificates on just one word — Luck. It’s essential, but not sufficient, and understanding it’s role will transform it from your nemesis into an opportunity.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp140.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1504</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>140</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Luck</itunes:title>
+        </item>
         <item>
             <title>LTP 139: From Pet Peeve and Snark to Evangelism</title>
             <link>https://lets-talk.ie/ltp139</link>
