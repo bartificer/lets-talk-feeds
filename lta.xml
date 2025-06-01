@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.7.1(6236); Mac OS X Version 15.4.1 (Build 24E263) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.7.3(6258); Mac OS X Version 15.5 (Build 24F74) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 04 May 2025 17:32:10 +0100</pubDate>
-        <lastBuildDate>Sun, 04 May 2025 17:32:10 +0100</lastBuildDate>
+        <pubDate>Sun, 01 Jun 2025 17:59:16 +0100</pubDate>
+        <lastBuildDate>Sun, 01 Jun 2025 17:59:16 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +25,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 141 — May 2025</title>
+            <link>https://lets-talk.ie/lta141</link>
+            <description><![CDATA[<p>This solo show starts with just a few quick followups on long-running stories we're keeping an eye on before exploring just one new regulation and some news Apple indirectly made in a Google court case before moving on to a quick rundown of some stories related to Apple's services and original content. The four main stories are the on-going US tariff omni-shambles, the ongoing regulatory and legal attacks on the App Store's anti-steering rules on both sides of the Atlantic, an impressive set of accessibility enhancements coming later in the year, and the launch of CarPlay Ultra. The show finishes with just a handful of other quick stories that made the news in May.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta141">lets-talk.ie/lta141</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 01 Jun 2025 17:57:32 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta141.mp3" length="40261951" type="audio/mpeg"/>
+            <guid isPermaLink="false">B7A0CAFF-75A8-4203-99AF-2EC32DDA3345</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>a solo show with just Bart</itunes:subtitle>
+            <itunes:summary>This solo show starts with just a few quick followups on long-running stories we’re keeping an eye on before exploring just one new regulation and some news Apple indirectly made in a Google court case before moving on to a quick rundown of some stories related to Apple’s services and original content. The four main stories are the on-going US tariff omni-shambles, the ongoing regulatory and legal attacks on the App Store’s anti-steering rules on both sides of the Atlantic, an impressive set of accessibility enhancements coming later in the year, and the launch of CarPlay Ultra. The show finishes with just a handful of other quick stories that made the news in May.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta141.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4999</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>141</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2025</itunes:title>
+        </item>
         <item>
             <title>LTA 140 — April 2025</title>
             <link>https://lets-talk.ie/lta140</link>
