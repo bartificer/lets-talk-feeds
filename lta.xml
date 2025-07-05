@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 01 Jun 2025 17:59:16 +0100</pubDate>
-        <lastBuildDate>Sun, 01 Jun 2025 17:59:16 +0100</lastBuildDate>
+        <pubDate>Sat, 05 Jul 2025 17:34:43 +0100</pubDate>
+        <lastBuildDate>Sat, 05 Jul 2025 17:34:43 +0100</lastBuildDate>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +25,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 142: June 2025</title>
+            <link>https://lets-talk.ie/lta142</link>
+            <description><![CDATA[<p>The show starts with a few quick followups from recent shows, a few regulatory & legal stories, and some highlights from Apple's services & original content before getting stuck into just two main stories. We start with another bad month for Apple's app store practices on both sides of the Atlantic, and then we dive into the fun stuff, this year's bumper WWDC! The show finishes with a few quick rundown of some smaller Apple-related stories that made the news in June 2025.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta142">lets-talk.ie/lta142</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sat, 05 Jul 2025 17:34:40 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta142.mp3" length="46349008" type="audio/mpeg"/>
+            <guid isPermaLink="false">4599D96F-3D0E-4D00-A365-0EB77AF5B7A2</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few quick followups from recent shows, a few regulatory &amp; legal stories, and some highlights from Apple’s services &amp; original content before getting stuck into just two main stories. We start with another bad month for Apple’s app store practices on both sides of the Atlantic, and then we dive into the fun stuff, this year’s bumper WWDC! The show finishes with a few quick rundown of some smaller Apple-related stories that made the news in June 2025.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta142.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>5757</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>142</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2025</itunes:title>
+        </item>
         <item>
             <title>LTA 141 — May 2025</title>
             <link>https://lets-talk.ie/lta141</link>
