@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 21 Jun 2025 01:24:32 +0100</pubDate>
-        <lastBuildDate>Sat, 21 Jun 2025 01:24:32 +0100</lastBuildDate>
+        <pubDate>Thu, 24 Jul 2025 16:40:49 +0100</pubDate>
+        <lastBuildDate>Thu, 24 Jul 2025 16:40:49 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 142 — Lean into Phone Camera Strengths</title>
+            <link>https://lets-talk.ie/ltp142</link>
+            <description><![CDATA[<p>This solo show is dedicated to a simple piece of advice — don't try to use a phone camera as if it's a high-end DSLR, it isn't, so let that reality guide your use of this wonderful photographic tool. Avoid the the inherent weaknesses, and lean into the inherent strengths!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp142">lets-talk.ie/ltp142</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Thu, 24 Jul 2025 16:35:06 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp142.mp3" length="19277722" type="audio/mpeg"/>
+            <guid isPermaLink="false">9463ABEA-9DB0-47EB-8762-B7D08666E32E</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>This solo show is dedicated to a simple piece of advice — don’t try to use a phone camera as if it’s a high-end DSLR, it isn’t, so let that reality guide your use of this wonderful photographic tool. Avoid the the inherent weaknesses, and lean into the inherent strengths!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp142.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2370</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>142</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Lean into Phone Camera Strengths</itunes:title>
+        </item>
         <item>
             <title>LTP 141: Alt Text, do it for You!</title>
             <link>https://lets-talk.ie/ltp141</link>
