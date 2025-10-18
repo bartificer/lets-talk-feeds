@@ -4,17 +4,17 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8(6322); Mac OS X Version 15.6.1 (Build 24G90) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.1 (Build 24G231) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 21 Sep 2025 17:26:38 +0100</pubDate>
-        <lastBuildDate>Sun, 21 Sep 2025 17:26:38 +0100</lastBuildDate>
+        <pubDate>Sat, 18 Oct 2025 20:50:07 +0100</pubDate>
+        <lastBuildDate>Sat, 18 Oct 2025 20:50:07 +0100</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
-            <link>https://media.lets-talk.ie/ltp-thumbnail.jpg</link>
+            <link>https://media.lets-talk.ie/iTunes-photography.jpg</link>
             <width>144</width>
             <height>144</height>
             <description>The Let's Talk Photo Logo</description>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 145: Back to Basics</title>
+            <link>https://lets-talk.ie/ltp145</link>
+            <description><![CDATA[<p>Fresh off presenting to a Mac Users Group, Bart shares his basic advice for getting better photos in general, being careful to pay extra attention to getting the most from phone cameras because those are the cameras most of us have with us most of the time. No matter what your experience level, you can always benefit from a refresher on some of the basics!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp145">lets-talk.ie/ltp145</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 18 Oct 2025 20:50:03 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp145.mp3" length="23093424" type="audio/mpeg"/>
+            <guid isPermaLink="false">914D98BC-C316-42A5-A623-A38FC4A3A335</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Fresh off presenting to a Mac Users Group, Bart shares his basic advice for getting better photos in general, being careful to pay extra attention to getting the most from phone cameras because those are the cameras most of us have with us most of the time. No matter what your experience level, you can always benefit from a refresher on some of the basics!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp145.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2869</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>145</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Back to Basics</itunes:title>
+        </item>
         <item>
             <title>LTP 144: Understanding Modern Smartphone Cameras</title>
             <link>https://lets-talk.ie/ltp144</link>
