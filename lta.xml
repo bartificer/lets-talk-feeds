@@ -4,12 +4,20 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8(6322); Mac OS X Version 15.7.1 (Build 24G231) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.1 (Build 24G231) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 05 Oct 2025 18:17:45 +0100</pubDate>
-        <lastBuildDate>Sun, 05 Oct 2025 18:17:45 +0100</lastBuildDate>
+        <pubDate>Sun, 02 Nov 2025 17:25:00 +0000</pubDate>
+        <lastBuildDate>Sun, 02 Nov 2025 17:25:00 +0000</lastBuildDate>
+        <image>
+            <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
+            <title>Let's Talk Apple</title>
+            <link>https://media.lets-talk.ie/lta-thumbnail.jpg</link>
+            <width>144</width>
+            <height>144</height>
+            <description>The Let's Talk Apple Logo</description>
+        </image>
         <atom:link href="https://feeds.lets-talk.ie/lta.xml" rel="self" type="application/rss+xml"/>
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
@@ -25,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 146: October 2025</title>
+            <link>https://lets-talk.ie/lta146</link>
+            <description><![CDATA[<p>The show starts with a few quick followups on stories from last month before catching up with the month's regulatory, legal, and HR news. That's followed by a quick look at Apple's services news for the month. There are just two main stories, Apple's Q4 2025 earnings, and Apple's M5 hardware refreshes. The show wraps up with a few other quick stories that made the news in October.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta146">lets-talk.ie/lta146</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 02 Nov 2025 17:23:15 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta146.mp3" length="36145510" type="audio/mpeg"/>
+            <guid isPermaLink="false">DF214B51-D5DC-4DD5-BDCA-71F33261EBA2</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few quick followups on stories from last month before catching up with the month’s regulatory, legal, and HR news. That’s followed by a quick look at Apple’s services news for the month. There are just two main stories, Apple’s Q4 2025 earnings, and Apple’s M5 hardware refreshes. The show wraps up with a few other quick stories that made the news in October.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta146.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4475</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>146</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2025</itunes:title>
+        </item>
         <item>
             <title>LTA 145: September 2025</title>
             <link>https://lets-talk.ie/lta145</link>
