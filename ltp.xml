@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.1 (Build 24G231) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 18 Oct 2025 20:50:07 +0100</pubDate>
-        <lastBuildDate>Sat, 18 Oct 2025 20:50:07 +0100</lastBuildDate>
+        <pubDate>Sun, 16 Nov 2025 02:23:27 +0000</pubDate>
+        <lastBuildDate>Sun, 16 Nov 2025 02:23:27 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 146: Two Years of Phone Camera Evolution</title>
+            <link>https://lets-talk.ie/ltp146</link>
+            <description><![CDATA[<p>Phone cameras don’t change that much year-to-year, but those changes really add up over two or three! In this solo show Bart illustrates this point with his experiences upgrading from an iPhone 15 Pro Max to a 17 Pro Max.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp146">lets-talk.ie/ltp146</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 16 Nov 2025 02:23:23 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp146.mp3" length="20435970" type="audio/mpeg"/>
+            <guid isPermaLink="false">47681218-8D79-4D6D-9309-31249E64EF70</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Phone cameras don’t change that much year-to-year, but those changes really add up over two or three! In this solo show Bart illustrates this point with his experiences upgrading from an iPhone 15 Pro Max to a 17 Pro Max.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp146.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2537</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>146</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Two Years of Phone Camera Evolution</itunes:title>
+        </item>
         <item>
             <title>LTP 145: Back to Basics</title>
             <link>https://lets-talk.ie/ltp145</link>
