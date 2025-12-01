@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.1 (Build 24G231) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sun, 02 Nov 2025 17:25:00 +0000</pubDate>
-        <lastBuildDate>Sun, 02 Nov 2025 17:25:00 +0000</lastBuildDate>
+        <pubDate>Mon, 01 Dec 2025 01:17:59 +0000</pubDate>
+        <lastBuildDate>Mon, 01 Dec 2025 01:17:59 +0000</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -22,7 +22,7 @@
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>A monthly panel show that take the big-picture look at the month that was in the world of Apple. Part of the MyMac Podcasting Network</itunes:subtitle>
         <itunes:summary>At the turn of every month Bart gathers a panel of smart people from the Apple community together to analyse the month's Apple news. There are lots of great Apple news podcasts tell you what's happening as it happens, but sometimes it's good to take a step back and look at the big picture, and that's where Let's Talk Apple comes in.</itunes:summary>
-        <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
+        <itunes:image href="https://media.lets-talk.ie/lta-iTunes.jpg"/>
         <itunes:explicit>false</itunes:explicit>
         <itunes:owner>
             <itunes:name>Let's Talk Podcasts</itunes:name>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 147: November 2025</title>
+            <link>https://lets-talk.ie/lta147</link>
+            <description><![CDATA[<p>The show starts with a few quick followups to some stories from October before moving on to some regulatory and legal stories, a few HR stories, and some services and original content highlights before moving on to the four main stories; Apple's re-negotiated deal with the MSL, digital IDs, the O26.1 updates, and a pair of unusual new accessories, before finishing up with just one other quick story that made the news in November.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta147">lets-talk.ie/lta147</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 01 Dec 2025 01:15:17 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta147.mp3" length="18043293" type="audio/mpeg"/>
+            <guid isPermaLink="false">7B71284D-D5C1-4DA1-9EF1-A437F7D4EDC0</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few quick followups to some stories from October before moving on to some regulatory and legal stories, a few HR stories, and some services and original content highlights before moving on to the four main stories; Apple’s re-negotiated deal with the MSL, digital IDs, the O26.1 updates, and a pair of unusual new accessories, before finishing up with just one other quick story that made the news in November.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta147.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>2212</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>147</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2025</itunes:title>
+        </item>
         <item>
             <title>LTA 146: October 2025</title>
             <link>https://lets-talk.ie/lta146</link>
