@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.2(6346); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sun, 16 Nov 2025 02:23:27 +0000</pubDate>
-        <lastBuildDate>Sun, 16 Nov 2025 02:23:27 +0000</lastBuildDate>
+        <pubDate>Fri, 26 Dec 2025 20:30:15 +0000</pubDate>
+        <lastBuildDate>Fri, 26 Dec 2025 20:30:15 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 147: Adversity as a Learning Opportunity</title>
+            <link>https://lets-talk.ie/ltp147</link>
+            <description><![CDATA[<p>Bart shares his experiences chasing steam trains in the run up to Christmas 2025 as an illustration of how adversity can be a learning opportunity if you approach it with the right mindset.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp147">lets-talk.ie/ltp147</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Fri, 26 Dec 2025 20:30:11 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp147.mp3" length="18076030" type="audio/mpeg"/>
+            <guid isPermaLink="false">B9ECC157-423E-4D8D-B3A5-B4B370972A37</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Bart shares his experiences chasing steam trains in the run up to Christmas 2025 as an illustration of how adversity can be a learning opportunity if you approach it with the right mindset.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp147.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2242</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>147</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Adversity as a Learning Opportunity</itunes:title>
+        </item>
         <item>
             <title>LTP 146: Two Years of Phone Camera Evolution</title>
             <link>https://lets-talk.ie/ltp146</link>
