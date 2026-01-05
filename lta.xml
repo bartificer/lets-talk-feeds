@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.1(6334); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.2(6346); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Mon, 01 Dec 2025 01:17:59 +0000</pubDate>
-        <lastBuildDate>Mon, 01 Dec 2025 01:17:59 +0000</lastBuildDate>
+        <pubDate>Mon, 05 Jan 2026 23:26:44 +0000</pubDate>
+        <lastBuildDate>Mon, 05 Jan 2026 23:26:44 +0000</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 148: December 2025</title>
+            <link>https://lets-talk.ie/lta148</link>
+            <description><![CDATA[<p>The show starts with a few followups to previously covered stories, followed by a rundown of Apple's interactions with regulators and the courts, before quickly summarising some developments in Apple's services and original content business. The three main stories are India's failed attempt to force-install a government app on all cellphones, an eventful month for apple's App Stores, and an even more eventful month for Apple's HR department. The show finishes with a quick rundown of a few other smaller stories that made the news in December.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta148">lets-talk.ie/lta148</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 05 Jan 2026 23:26:39 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta148.mp3" length="27745767" type="audio/mpeg"/>
+            <guid isPermaLink="false">E7B7ED28-47D8-4488-8A85-470B148AD340</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few followups to previously covered stories, followed by a rundown of Apple’s interactions with regulators and the courts, before quickly summarising some developments in Apple’s services and original content business. The three main stories are India’s failed attempt to force-install a government app on all cellphones, an eventful month for apple’s App Stores, and an even more eventful month for Apple’s HR department. The show finishes with a quick rundown of a few other smaller stories that made the news in December.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta148.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3425</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>148</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2025</itunes:title>
+        </item>
         <item>
             <title>LTA 147: November 2025</title>
             <link>https://lets-talk.ie/lta147</link>
