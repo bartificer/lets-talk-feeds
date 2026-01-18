@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.2(6346); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.2(6346); Mac OS X Version 26.2 (Build 25C56) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Fri, 26 Dec 2025 20:30:15 +0000</pubDate>
-        <lastBuildDate>Fri, 26 Dec 2025 20:30:15 +0000</lastBuildDate>
+        <pubDate>Sun, 18 Jan 2026 00:54:39 +0000</pubDate>
+        <lastBuildDate>Sun, 18 Jan 2026 00:54:39 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,31 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 148: Another Challenge</title>
+            <link>https://lets-talk.ie/ltp148</link>
+            <description><![CDATA[<p>Rather than resolutions, Bart starts his photographic year by setting himself a challenge. It went great in 2024, so how did it go in 2025? And what about 2026? Could this approach work for you?</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp148">lets-talk.ie/ltp148</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 18 Jan 2026 00:54:36 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp148.mp3" length="14337068" type="audio/mpeg"/>
+            <guid isPermaLink="false">C5A49697-B121-4E28-AA36-049301E31863</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>Rather than resolutions, Bart starts his photographic year by setting himself a challenge. It went great in 2024, so how did it go in 2025? And what about 2026? Could this approach work for you?
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp148.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>1775</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>148</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Another Challenge</itunes:title>
+        </item>
         <item>
             <title>LTP 147: Adversity as a Learning Opportunity</title>
             <link>https://lets-talk.ie/ltp147</link>
