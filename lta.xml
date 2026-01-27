@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.2(6346); Mac OS X Version 15.7.2 (Build 24G325) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.2(6346); Mac OS X Version 26.2 (Build 25C56) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Mon, 05 Jan 2026 23:26:44 +0000</pubDate>
-        <lastBuildDate>Mon, 05 Jan 2026 23:26:44 +0000</lastBuildDate>
+        <pubDate>Tue, 27 Jan 2026 02:46:22 +0000</pubDate>
+        <lastBuildDate>Tue, 27 Jan 2026 02:46:22 +0000</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,26 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 82: June 2020</title>
+            <link>https://lets-talk.ie/lta82</link>
+            <description><![CDATA[<p>Joining Bart this month are Charles Edge from the Mac Admins podcast and Scott Willsey from the Bubble Sport podcast.</p>
+
+<p>The show starts with a few followup stories (including the virus-shaped elephant in every room these days), one notable number, a few Apple staffing changes and acquisitions, and a quick overview of news related to Apple's original content. The four main stories are a turbulent month for the App Store, looming anti-trust on both sides of the pond, the Mac's move to Apple Silicon, and this year's OS updates. The show ends with a quick rundown of some smaller Apple-related stories that made the news in June.</p>
+]]></description>
+            <pubDate>Mon, 06 Jul 2020 13:49:00 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta82.mp3" length="45147208" type="audio/mpeg"/>
+            <guid isPermaLink="false">4D115B9E-5ECE-49C4-8044-E6D5654680F9</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:summary>Joining Bart this month are Charles Edge from the Mac Admins podcast and Scott Willsey from the Bubble Sport podcast.
+
+The show starts with a few followup stories (including the virus-shaped elephant in every room these days), one notable number, a few Apple staffing changes and acquisitions, and a quick overview of news related to Apple’s original content. The four main stories are a turbulent month for the App Store, looming anti-trust on both sides of the pond, the Mac’s move to Apple Silicon, and this year’s OS updates. The show ends with a quick rundown of some smaller Apple-related stories that made the news in June.</itunes:summary>
+            <itunes:duration>5607</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>82</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2020</itunes:title>
+        </item>
         <item>
             <title>LTP 148: December 2025</title>
             <link>https://lets-talk.ie/lta148</link>
@@ -1335,7 +1355,8 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:title>December 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2021</title>
+            <title>LTA 99: November 2021</title>
+            <link>https://lets-talk.ie/ltp99</link>
             <pubDate>Sun, 05 Dec 2021 20:00:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta99.mp3" length="42767765" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta99.mp3</guid>
@@ -1344,23 +1365,27 @@ Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/p
             <itunes:summary>
 This month Bart is joined by Charles Edge from the Mac Admins podcast.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some some Apple-related legal news, quite a bit of Apple HR news, and some highlights from Apple's original content and subscription services. The four main stories are Apple's new self service repair program, Apple's renewed focus on business and enterprise customers, Apple's suit against the NSO Group (makers of the Pegasus spyware), and the faux-scandal around Apple buying ads for apps they sell in their App Store. The show ends with a quick rundown of some smaller Apple-related stories that made the news in November.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, quite a bit of Apple HR news, and some highlights from Apple’s original content and subscription services. The four main stories are Apple’s new self service repair program, Apple’s renewed focus on business and enterprise customers, Apple’s suit against the NSO Group (makers of the Pegasus spyware), and the faux-scandal around Apple buying ads for apps they sell in their App Store. The show ends with a quick rundown of some smaller Apple-related stories that made the news in November.
 
 Detailed show notes are available at https://lets-talk.ie/lta99.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Charles Edge: https://krypted.com @cedge318
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5310</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>99</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2021</title>
+            <title>LTA 98: October 2021</title>
+            <link>https://lets-talk.ie/ltp98</link>
             <pubDate>Sun, 07 Nov 2021 01:38:00 +0000</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta98.mp3" length="49711221" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta98.mp3</guid>
@@ -1369,24 +1394,28 @@ Charles Edge: https://krypted.com @cedge318
             <itunes:summary>
 This month Bart is joined by Chuck Joiner from Mac Voices, and Lynda Gousha from the Silicon Mac Users Group (SVMUG).
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some some Apple-related legal news, and some highlights from Apple's original content and subscription services. The three main stories are Apple's 'Unleashed' event, the release of macOS Monterey, and Apple's Q4 2021 earnings call. The show ends with a quick rundown of some smaller Apple-related stories that made the news in October.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, and some highlights from Apple’s original content and subscription services. The three main stories are Apple’s ‘Unleashed’ event, the release of macOS Monterey, and Apple’s Q4 2021 earnings call. The show ends with a quick rundown of some smaller Apple-related stories that made the news in October.
 
 Detailed show notes are available at https://lets-talk.ie/lta98.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Chuck Joiner: http://www.macvoices.com @chuckjoiner
 Lynda Gousha: http://www.svmug.org @llg4cdg
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6178</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>98</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2021</title>
+            <title>LTA 97: September 2021</title>
+            <link>https://lets-talk.ie/ltp97</link>
             <pubDate>Sun, 10 Oct 2021 00:59:59 +0100</pubDate>
             <enclosure url="https://media.lets-talk.ie/lta/lta97.mp3" length="42207524" type="audio/mpeg"/>
             <guid isPermaLink="false">https://media.lets-talk.ie/lta/lta97.mp3</guid>
@@ -1395,14 +1424,14 @@ Lynda Gousha: http://www.svmug.org @llg4cdg
             <itunes:summary>
 This month Bart is joined by Allison Sheridan from the NosillaCast podcast &amp; Adam Christianson from the Mac Cast.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some some Apple-related legal news, some Apple HR news, and some highlights from Apple's original content and subscription services. The four main stories are Apple's on-going Antitrust woes, The EU's proposed USB-C mandate, Apple's 'California Streaming' event, and reflections on the decade since Steve Jobs's death. The show ends with a quick rundown of some smaller Apple-related stories that made the news in September.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some some Apple-related legal news, some Apple HR news, and some highlights from Apple’s original content and subscription services. The four main stories are Apple’s on-going Antitrust woes, The EU’s proposed USB-C mandate, Apple’s ‘California Streaming’ event, and reflections on the decade since Steve Jobs’s death. The show ends with a quick rundown of some smaller Apple-related stories that made the news in September.
 
 Detailed show notes are available at https://lets-talk.ie/lta97.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Allison Sheridan: http://www.podfeet.com @podfeet
 Adam Christianson: http://www.maccast.com @maccast
@@ -1410,50 +1439,56 @@ Adam Christianson: http://www.maccast.com @maccast
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5240</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2021</title>
+            <title>LTA 96: August 2021</title>
+            <link>https://lets-talk.ie/lta96</link>
             <pubDate>Thu, 02 Sep 2021 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP96-August2021.mp3" length="45242246" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta96.mp3" length="45242246" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP96-August2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 96 - August 2021</itunes:subtitle>
             <itunes:summary>
 This month Bart is joined by special guest Tom Merritt from DTNS.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some notable numbers, some Apple-related legal news, and some highlights from Apple's original content and subscription services. The three main stories are Apple's new child protection features, continuing pressure on the App Stores, and open discontent among Apple employees. The show ends with a quick rundown of some smaller Apple-related stories that made the news in August.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some notable numbers, some Apple-related legal news, and some highlights from Apple’s original content and subscription services. The three main stories are Apple’s new child protection features, continuing pressure on the App Stores, and open discontent among Apple employees. The show ends with a quick rundown of some smaller Apple-related stories that made the news in August.
 
 Detailed show notes are available at https://lets-talk.ie/lta96.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Tom Merritt: https://www.tommerritt.com @acedtect
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5619</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>96</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2021</title>
+            <title>LTA 95: July 2021</title>
+            <link>https://lets-talk.ie/lta95</link>
             <pubDate>Mon, 02 Aug 2021 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP95-July2021.mp3" length="44181737" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta95.mp3" length="44181737" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP95-July2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 95 - July 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Nick Riley amd Simon Parnell from the Essential Apple Podcast and Chuck Joiner from Mac Vioces.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some Apple-related legal news, some Apple HR news, and some highlights from Apple's subscription services. The four main stories are Apple's Q3 earnings call, the NSO Group and their Pegasus spyware, Apple's new MagSafe battery pack, and Windows365 and the future of Window on the Mac. The show ends with a quick rundown of some smaller Apple-related stories that made the news in July.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some Apple-related legal news, some Apple HR news, and some highlights from Apple’s subscription services. The four main stories are Apple’s Q3 earnings call, the NSO Group and their Pegasus spyware, Apple’s new MagSafe battery pack, and Windows365 and the future of Window on the Mac. The show ends with a quick rundown of some smaller Apple-related stories that made the news in July.
 
 Detailed show notes are available at https://lets-talk.ie/lta95.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Nick Riley: http://www.essentialapple.com @spligosh
 Simon Parnell: http://www.essentialapple.com @serenak
@@ -1461,77 +1496,89 @@ Chuck Joiner: http://www.macvoices.com @chuckjoiner
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5487</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>95</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - June 2021</title>
+            <title>LTA 94: June 2021</title>
+            <link>https://lets-talk.ie/lta94</link>
             <pubDate>Sun, 04 Jul 2021 13:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP94-June2021.mp3" length="34775273" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta94.mp3" length="34775273" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP94-June2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 94 - June 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month is special guest Steve Harris from Reinvented Software.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some Apple HR news, and some highlights from Apple's subscription services. The three main stories are scrutiny from regulators and law makers on both sides of the Atlantic, WWDC, and Windows 11. The show ends with a quick rundown of some smaller Apple-related stories that made the news in June.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some Apple HR news, and some highlights from Apple’s subscription services. The three main stories are scrutiny from regulators and law makers on both sides of the Atlantic, WWDC, and Windows 11. The show ends with a quick rundown of some smaller Apple-related stories that made the news in June.
 
 Detailed show notes are available at https://lets-talk.ie/lta94.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Steve Harris: https://reinventedsoftware.com @steveharris
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4311</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>94</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2021</title>
+            <title>LTA 93: May 2021</title>
+            <link>https://lets-talk.ie/lta93</link>
             <pubDate>Sat, 05 Jun 2021 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP93-May2021.mp3" length="38662729" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta93.mp3" length="38662729" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP93-May2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 93 - May 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Simon Parnell and Mark Chappell from the Essential Apple Podcast.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by some Apple HR news, and some highlights from Apple's original content. The four main stories are the Apple -v- Epic trial, Apple Music going lossless, the Matter smart home standard, and Apple's pre-announcement of some new accessibility features. The show ends with a quick rundown of some smaller Apple-related stories that made the news in May.
+The show starts with the usual followups and updates on long-running stories. That’s followed by some Apple HR news, and some highlights from Apple’s original content. The four main stories are the Apple -v- Epic trial, Apple Music going lossless, the Matter smart home standard, and Apple’s pre-announcement of some new accessibility features. The show ends with a quick rundown of some smaller Apple-related stories that made the news in May.
 
 Detailed show notes are available at https://lets-talk.ie/lta93.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Simon Parnell: http://www.essentialapple.com @serenak
 Mark Chappell: http://www.essentialapple.com @oceanspeed
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4797</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>93</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2021</title>
+            <title>LTA 92: April 2021</title>
+            <link>https://lets-talk.ie/lta92</link>
             <pubDate>Tue, 04 May 2021 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP92-April2021.mp3" length="50806995" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta92.mp3" length="50806995" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP92-April2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 92 - April 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Lynda Gousha from the SVMUG, Chuck Joiner from Mac Voices, and Kelly Guimont from The Mac Observer.
 
-The show starts with the usual followups and updates on long-running stories. That's followed by a few quick legal stories, some Apple HR news, and some updates to Apple's various services. The four main stories are Earth Day 2021, Apple opening it's Find My network to third parties, Apple's Q2 2021 earnings call, and Apple's bumper Spring Loaded event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in April.
+The show starts with the usual followups and updates on long-running stories. That’s followed by a few quick legal stories, some Apple HR news, and some updates to Apple’s various services. The four main stories are Earth Day 2021, Apple opening it’s Find My network to third parties, Apple’s Q2 2021 earnings call, and Apple’s bumper Spring Loaded event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in April.
 
 Detailed show notes are available at https://lets-talk.ie/lta92.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Lynda Gousha: http://www.svmug.org @llg4cdg
 Chuck Joiner: http://www.macvoices.com @chuckjoiner
@@ -1539,26 +1586,30 @@ Kelly Guimont: http://www.appcamp4girls.com @verso
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6315</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>92</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2021</title>
+            <title>LTA 91: March 2021</title>
+            <link>https://lets-talk.ie/lta91</link>
             <pubDate>Mon, 05 Apr 2021 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP91-March2021.mp3" length="48911204" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta91.mp3" length="48911204" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP91-March2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 91 - March 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Charles Edge from the Mac Admins Podcast, Simon Parnell and Nick Riley from the Essential Apple podcast, and GazMaz from the MyMac Podcast.
 
-The show starts with a the usual followups and updates on long-running stories. That's followed by a few quick legal stories, some Apple HR news, and some highlights from Apple's push into original content. The three main stories are Apple discontinuing the iMac Pro, some other iMacs and the HomePod, Intel's very mixed messaging towards Apple, and the compromise Apple managed to strike with Russia over their App Pre-installation law. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.
+The show starts with a the usual followups and updates on long-running stories. That’s followed by a few quick legal stories, some Apple HR news, and some highlights from Apple’s push into original content. The three main stories are Apple discontinuing the iMac Pro, some other iMacs and the HomePod, Intel’s very mixed messaging towards Apple, and the compromise Apple managed to strike with Russia over their App Pre-installation law. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.
 
 Detailed show notes are available at https://lets-talk.ie/lta91.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Charles Edge: https://krypted.com @cedge318
 Simon Parnell: http://www.essentialapple.com @serenak
@@ -1567,154 +1618,178 @@ Gazmaz: http://www.mymac.com @gazmaz
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6078</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>91</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2021</title>
+            <title>LTA 90: February 2021</title>
+            <link>https://lets-talk.ie/lta90</link>
             <pubDate>Sat, 06 Mar 2021 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP90-February2021.mp3" length="43684337" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta90.mp3" length="43684337" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP90-February2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 90 - February 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Chuck Joiner from MacVoices and Allison Sheridan from the NosillaCast.
 
-The show starts with a the usual followups and updates on long-running stories. That's followed by a few notable numbers, some Apple HR news, and some highlights from Apple's push into original content. The three main stories are how well Apple TV+ is doing this awards season, a dramatic escalation in Epic's attacks on Apple, and an interesting hearing study run via Apple Health. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.
+The show starts with a the usual followups and updates on long-running stories. That’s followed by a few notable numbers, some Apple HR news, and some highlights from Apple’s push into original content. The three main stories are how well Apple TV+ is doing this awards season, a dramatic escalation in Epic’s attacks on Apple, and an interesting hearing study run via Apple Health. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.
 
 Detailed show notes are available at https://lets-talk.ie/lta90.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Chuck Joiner: http://www.macvoices.com @chuckjoiner
 Allison Sheridan: http://www.podfeet.com @podfeet
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5425</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>90</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2021</title>
+            <title>LTA 89: January 2021</title>
+            <link>https://lets-talk.ie/lta89</link>
             <pubDate>Wed, 03 Feb 2021 01:30:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP89-January2021.mp3" length="40470364" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta89.mp3" length="40470364" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP89-January2021.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 89 - January 2021</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month is Lynda Gousha from the Silicon Valley Mac Users Group.
 
-The show starts with a the usual followups and updates on long-running stories. That's followed by a few quick updates on some Apple-related legal cases, some Apple HR news, an overview of developments in Apple's various service offerings, and the highlights from Apple's push into original content. The four main stories are Apple's Q1 2021 earnings, the rumoured Apple Car, A privacy push, and a racial equity push. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.
+The show starts with a the usual followups and updates on long-running stories. That’s followed by a few quick updates on some Apple-related legal cases, some Apple HR news, an overview of developments in Apple’s various service offerings, and the highlights from Apple’s push into original content. The four main stories are Apple’s Q1 2021 earnings, the rumoured Apple Car, A privacy push, and a racial equity push. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.
 
 Detailed show notes are available at https://lets-talk.ie/lta89.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Ken Ray: https://macosken.squarespace.com @macosken
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5023</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>89</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2021</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2020</title>
+            <title>LTA 88: December 2020</title>
+            <link>https://lets-talk.ie/lta88</link>
             <pubDate>Sun, 03 Jan 2021 00:30:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP88-December2020.mp3" length="40344261" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta88.mp3" length="40344261" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP88-December2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 88 - December 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month is Ken Ray from Mac OS Ken.
 
-The show starts with a the usual followups and updates on long-running stories, including a deeper than normal dive into the regulation question. That's followed by a few quick updates on some Apple-related legal cases, some Apple HR news, and an overview of developments in Apple's various service offerings. The four main stories are Facebook's anti-anti-tracking crusade, Apple's new AirPods Max, the launch of Fitness+, and the arrival of ProRAW. The show ends with a quick rundown of some smaller Apple-related stories that made the news in December.
+The show starts with a the usual followups and updates on long-running stories, including a deeper than normal dive into the regulation question. That’s followed by a few quick updates on some Apple-related legal cases, some Apple HR news, and an overview of developments in Apple’s various service offerings. The four main stories are Facebook’s anti-anti-tracking crusade, Apple’s new AirPods Max, the launch of Fitness+, and the arrival of ProRAW. The show ends with a quick rundown of some smaller Apple-related stories that made the news in December.
 
 Detailed show notes are available at https://lets-talk.ie/lta88.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Ken Ray: https://macosken.squarespace.com @macosken
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5007</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>88</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2020</title>
+            <title>LTA 87: November 2020</title>
+            <link>https://lets-talk.ie/lta87</link>
             <pubDate>Sun, 06 Dec 2020 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP87-November2020.mp3" length="40837630" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta87.mp3" length="40837630" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP87-November2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 87 - November 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Allison Sheridan from the NosillaCast, and Nick Riley from the Essential Apple Podcast.
 
-The show starts with a few followup stories, updates on some Apple-related legal cases, some Apple HR news, and a quick(ish) overview of news related to Apple's content offerings. The three main stories are more App Store Developments, the release of macOS Big Sur, and Apple's new M1 Macs. The show ends with a quick rundown of some smaller Apple-related stories that made the news in November.
+The show starts with a few followup stories, updates on some Apple-related legal cases, some Apple HR news, and a quick(ish) overview of news related to Apple’s content offerings. The three main stories are more App Store Developments, the release of macOS Big Sur, and Apple’s new M1 Macs. The show ends with a quick rundown of some smaller Apple-related stories that made the news in November.
 
 Detailed show notes are available at https://lets-talk.ie/lta87.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Allison Sheridan: http://www.podfeet.com @podfeet
 Nick Riley: http://www.essentialapple.com @spligosh
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5069</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>87</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2020</title>
+            <title>LTA 86: October 2020</title>
+            <link>https://lets-talk.ie/lta86</link>
             <pubDate>Sun, 01 Nov 2020 21:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP86-October2020.mp3" length="54618112" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta86.mp3" length="54618112" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP86-October2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 86 - October 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Mikah Sargent from the Clockwise podcast and TWiT network, and SimonParnell from the Essential Apple Podcast.
 
-The show starts with a few followup stories, updates on some Apple-related legal cases, one acquisition, and a quick(ish) overview of news related to Apple's original content. The three main stories are Apple's Q4 2020 earnings call, the on-going anti-trust kerfuffle, and Apple's 'Hi, Speed' event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in October.
+The show starts with a few followup stories, updates on some Apple-related legal cases, one acquisition, and a quick(ish) overview of news related to Apple’s original content. The three main stories are Apple’s Q4 2020 earnings call, the on-going anti-trust kerfuffle, and Apple’s ‘Hi, Speed’ event. The show ends with a quick rundown of some smaller Apple-related stories that made the news in October.
 
 Detailed show notes are available at https://lets-talk.ie/lta86.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Mikah Sargent: http://chihuahua.coffee @mikahsargent
 Simon Parnell: http://www.essentialapple.com @serenak
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6791</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>86</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2020</title>
+            <title>LTA 85: September 2020</title>
+            <link>https://lets-talk.ie/lta85</link>
             <pubDate>Wed, 07 Oct 2020 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP85-September2020.mp3" length="50473660" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta85.mp3" length="50473660" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP85-September2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 85 - September 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Charlotte Henry; Kelly Guimont from the Mac Observer, and Nick Riley from the Essential Apple Podcast.
 
-The show starts with a few followup stories (including the virus-shaped elephant in every room these days), some hires and acquisitions, and a quick overview of news related to Apple's original content. The three main stories are more App-Store-related developments, Apple's 'Time Flies' event, and the release of iOS  14, watchOS 7, etc.. The show ends with a quick rundown of some smaller Apple-related stories that made the news in September.
+The show starts with a few followup stories (including the virus-shaped elephant in every room these days), some hires and acquisitions, and a quick overview of news related to Apple’s original content. The three main stories are more App-Store-related developments, Apple’s ‘Time Flies’ event, and the release of iOS  14, watchOS 7, etc.. The show ends with a quick rundown of some smaller Apple-related stories that made the news in September.
 
 Detailed show notes are available at https://lets-talk.ie/lta85.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Charlotte Henry: https://www.macobserver.com/author/charlotte-henry/ @charlotteahenry
 Kelly Guimont: http://www.appcamp4girls.com @verso
@@ -1722,90 +1797,106 @@ Nick Riley: http://www.essentialapple.com @spligosh
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6273</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>85</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2020</title>
+            <title>LTA 84: August 2020</title>
+            <link>https://lets-talk.ie/lta84</link>
             <pubDate>Sat, 05 Sep 2020 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP84-August2020.mp3" length="60825227" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta84.mp3" length="60825227" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP84-August2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 84 - August 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Adam Christianson from the MacCast, and Simon Parnell from the Essential Apple Podcast.
 
-The show starts with a few followup stories (including the virus-shaped elephant in every room these days), a few legal stories, some acquisitions, and a quick overview of news related to Apple's original content. The four main stories are Phill Schiller's transition to Apple Fellow, update iMacs, Microsoft's Surface Duo, and Apple's App Store problems (there's much more going on than just the Epic saga!). The show ends with a quick rundown of some smaller Apple-related stories that made the news in August.
+The show starts with a few followup stories (including the virus-shaped elephant in every room these days), a few legal stories, some acquisitions, and a quick overview of news related to Apple’s original content. The four main stories are Phill Schiller’s transition to Apple Fellow, update iMacs, Microsoft’s Surface Duo, and Apple’s App Store problems (there’s much more going on than just the Epic saga!). The show ends with a quick rundown of some smaller Apple-related stories that made the news in August.
 
 Detailed show notes are available at https://lets-talk.ie/lta84.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Adam Christianson: http://www.maccast.com @maccast
 Simon Parnell: http://www.essentialapple.com @serenak
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>7567</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>84</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2020</title>
+            <title>LTA 83: July 2020</title>
+            <link>https://lets-talk.ie/lta83</link>
             <pubDate>Tue, 04 Aug 2020 00:30:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP83-July2020.mp3" length="41316942" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta83.mp3" length="41316942" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP83-July2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 83 - July 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Lynda Gousha from the SVMUG, and Gazmaz from the MyMac Podcast.
 
-The show starts with a few followup stories (including the virus-shaped elephant in every room these days), one acquisition, and a quick overview of news related to Apple's original content. The five main stories are Apple's Q3 earnings, Apple's plan to be carbon neutral by 2030, the ECJ tax judgement in favour of Apple and Ireland, antitrust pressure on Apple, and Apple TV+ at the Emmys. The show ends with a quick rundown of some smaller Apple-related stories that made the news in July.
+The show starts with a few followup stories (including the virus-shaped elephant in every room these days), one acquisition, and a quick overview of news related to Apple’s original content. The five main stories are Apple’s Q3 earnings, Apple’s plan to be carbon neutral by 2030, the ECJ tax judgement in favour of Apple and Ireland, antitrust pressure on Apple, and Apple TV+ at the Emmys. The show ends with a quick rundown of some smaller Apple-related stories that made the news in July.
 
 Detailed show notes are available at https://lets-talk.ie/lta83.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Lynda Gousha: http://www.svmug.org @llg4cdg
 Gazmaz: http://www.mymac.com @gazmaz
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5129</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>83</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2020</title>
+            <title>LTA 81: May 2020</title>
+            <link>https://lets-talk.ie/lta81</link>
             <pubDate>Sat, 06 Jun 2020 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP81-May2020.mp3" length="35886645" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta81.mp3" length="35886645" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP81-May2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 81 - May 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Kelly Guimont from The Mac Observer, and Allison Sheridan from the NosillaCast.
 
-The show starts with a few followup stories (including the virus-shaped elephant in every room these days), one notable number, a few quick legal stories, a few Apple staffing changes and acquisitions, and a quick overview of news related to Apple's original content. The four main stories are the launch of Apple &amp; Google's Exposure Notification API, the George Floyd protests affect on Apple, the US government's latest attack on Apple over encryption, and the Unc0ver Jailbreak. The show ends with a quick rundown of some smaller Apple-related stories that made the news in May.
+The show starts with a few followup stories (including the virus-shaped elephant in every room these days), one notable number, a few quick legal stories, a few Apple staffing changes and acquisitions, and a quick overview of news related to Apple’s original content. The four main stories are the launch of Apple &amp; Google’s Exposure Notification API, the George Floyd protests affect on Apple, the US government’s latest attack on Apple over encryption, and the Unc0ver Jailbreak. The show ends with a quick rundown of some smaller Apple-related stories that made the news in May.
 
 Detailed show notes are available at https://lets-talk.ie/lta81.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Kelly Guimont: http://www.appcamp4girls.com @verso
 Allison Sheridan: http://www.podfeet.com @podfeet
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4450</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>81</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2020</title>
+            <title>LTA 80: April 2020</title>
+            <link>https://lets-talk.ie/lta80</link>
             <pubDate>Mon, 04 May 2020 20:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP80-April2020.mp3" length="40300757" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta80.mp3" length="40300757" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP80-April2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 80 - April 2020</itunes:subtitle>
@@ -1815,89 +1906,105 @@ Joining Bart this month are Chuck Joiner from Mac Voices, Gazmaz from the My Mac
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5002</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>80</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2020</title>
+            <title>LTA 79: March 2020</title>
+            <link>https://lets-talk.ie/lta79</link>
             <pubDate>Fri, 03 Apr 2020 02:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP79-March2020.mp3" length="48039834" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta79.mp3" length="48039834" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP79-March2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 79 March 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month is Simon Parnell the Essential Apple Podcast.
 
-The show starts with a few followup stories (including the virus-shaped elephant in every room these days), two notable numbers, one legal story, a few Apple staffing changes and acquisitions (including Darkskies), and a quick overview of news related to Apple's original content. The four main stories are forced Uyghur Labour labour in Apple's supply chain, new hardware, iOS 13.4 with its trackpad support, and Apple and Amazon's compromise enabling in-app purchases in the Amazon Prime Video apps. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.
+The show starts with a few followup stories (including the virus-shaped elephant in every room these days), two notable numbers, one legal story, a few Apple staffing changes and acquisitions (including Darkskies), and a quick overview of news related to Apple’s original content. The four main stories are forced Uyghur Labour labour in Apple’s supply chain, new hardware, iOS 13.4 with its trackpad support, and Apple and Amazon’s compromise enabling in-app purchases in the Amazon Prime Video apps. The show ends with a quick rundown of some smaller Apple-related stories that made the news in March.
 
 Detailed show notes are available at https://lets-talk.ie/lta79.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Simon Parnell: http://www.essentialapple.com @serenak
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5969</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>79</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2020</title>
+            <title>LTA 78: February 2020</title>
+            <link>https://lets-talk.ie/lta78</link>
             <pubDate>Sun, 01 Mar 2020 14:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP78-February2020.mp3" length="38153352" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta78.mp3" length="38153352" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP78-February2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 78 February 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Nick Riley from the Essential Apple Podcast and Lynda Gousha from the Silicon Valley Mac Users Group.
 
-The show starts with a few followup stories, two notable numbers, a few legal stories, a few Apple staffing changes, and a quick overview of news related to Apple's original content. The four main stories are the Corona virus, a kerfuffle setoff by some creating maths from AV vendor Malware Bytes, some over-hyped reporting on AFib detection with Apple Watch, and a collection of stories around HomeKit. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.
+The show starts with a few followup stories, two notable numbers, a few legal stories, a few Apple staffing changes, and a quick overview of news related to Apple’s original content. The four main stories are the Corona virus, a kerfuffle setoff by some creating maths from AV vendor Malware Bytes, some over-hyped reporting on AFib detection with Apple Watch, and a collection of stories around HomeKit. The show ends with a quick rundown of some smaller Apple-related stories that made the news in February.
 
 Detailed show notes are available at https://lets-talk.ie/lta78.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Nick Riley: http://www.essentialapple.com @spligosh
 Lynda Gousha: http://www.svmug.org @llg4cdg
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4733</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>78</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2020</title>
+            <title>LTA 77: January 2020</title>
+            <link>https://lets-talk.ie/lta77</link>
             <pubDate>Tue, 04 Feb 2020 20:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP77-January2020.mp3" length="42193281" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta77.mp3" length="42193281" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP77-January2020.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 77 January 2020</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Gazmaz from the My Mac Podcast and Simon Parnell from the Essential Apple Podcast.
 
-The show starts with a few followup stories, one notable number, a few legal stories, one acquisitions, and a quick overview of news related to Apple's original content. The four main stories are round 2 of the Apple -v- US DOJ back-door battle, iCloud encryption, Apple's Q1 2020 earnings, and two trade wars &amp; a virus. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.
+The show starts with a few followup stories, one notable number, a few legal stories, one acquisitions, and a quick overview of news related to Apple’s original content. The four main stories are round 2 of the Apple -v- US DOJ back-door battle, iCloud encryption, Apple’s Q1 2020 earnings, and two trade wars &amp; a virus. The show ends with a quick rundown of some smaller Apple-related stories that made the news in January.
 
 Detailed show notes are available at https://lets-talk.ie/lta77.
 
 Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 
 Links:
-Let's Talk Apple: http://www.lets-talk.ie/apple @LTPod
+Let’s Talk Apple: http://www.lets-talk.ie/apple @LTPod
 Bart Busschots: http://www.bartb.ie @bbusschots
 Gazmaz: http://www.mymac.com @gazmaz
 Simon Parnell: http://www.essentialapple.com @serenak
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5238</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>77</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2020</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2019</title>
+            <title>LTA 76: December 2019</title>
+            <link>https://lets-talk.ie/lta76</link>
             <pubDate>Sun, 05 Jan 2020 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP76-December2019.mp3" length="44043627" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta76.mp3" length="44043627" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP76-December2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 76 December 2019</itunes:subtitle>
@@ -1912,17 +2019,21 @@ Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5470</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>76</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2019</title>
+            <title>LTA 75: November 2019</title>
+            <link>https://lets-talk.ie/lta75</link>
             <pubDate>Sun, 08 Dec 2019 23:30:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP75-November2019.mp3" length="38888374" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta75.mp3" length="38888374" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP75-November2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 75 November 2019</itunes:subtitle>
             <itunes:summary>
-Joining Bart this month are Simon Parnell, Nick Riley from the Essential Apple Podcast. The show starts with a look at some followups to stories from previous months before jumping into some notable numbers released in November. Next is a single legal story and three HR stories. The five main stories are an alleged gender bias in AppleCard credit limits, the removal of Vaping apps from the App Store, Apple's Russian woes, the new 16" MacBook Pros, and Apple's complicated relationship with US President Donald Trump. The show finishes with a quick rundown of some other Apple-related stories that made the news in November.
+Joining Bart this month are Simon Parnell, Nick Riley from the Essential Apple Podcast. The show starts with a look at some followups to stories from previous months before jumping into some notable numbers released in November. Next is a single legal story and three HR stories. The five main stories are an alleged gender bias in AppleCard credit limits, the removal of Vaping apps from the App Store, Apple’s Russian woes, the new 16” MacBook Pros, and Apple’s complicated relationship with US President Donald Trump. The show finishes with a quick rundown of some other Apple-related stories that made the news in November.
 
 Detailed show notes are available at https://lets-talk.ie/lta75.
 
@@ -1930,17 +2041,21 @@ Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4825</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>75</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2019</title>
+            <title>LTA 74: October 2019</title>
+            <link>https://lets-talk.ie/lta74</link>
             <pubDate>Mon, 04 Nov 2019 23:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP74-October2019.mp3" length="53732020" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta74.mp3" length="53732020" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP74-October2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 74 October 2019</itunes:subtitle>
             <itunes:summary>
-Joining Bart this month are Simon Parnell from the Essential Apple Podcast, and Lynda Gousha from the Silicon Valley Mac User Group. The show starts with a look at some followups to previous stories followed by some notable numbers, one quick legal star and two small Apple HR stories. The five main stories are Apple's China problem, Apple's flood of buggy software released and patches, Apple's new headphones, the launch of Apple TV+, and Apple's Q4 2019 earnings call. The show finishes with a quick rundown of some other Apple-related stories that made the news in October.
+Joining Bart this month are Simon Parnell from the Essential Apple Podcast, and Lynda Gousha from the Silicon Valley Mac User Group. The show starts with a look at some followups to previous stories followed by some notable numbers, one quick legal star and two small Apple HR stories. The five main stories are Apple’s China problem, Apple’s flood of buggy software released and patches, Apple’s new headphones, the launch of Apple TV+, and Apple’s Q4 2019 earnings call. The show finishes with a quick rundown of some other Apple-related stories that made the news in October.
 
 Detailed show notes are available at https://lets-talk.ie/lta74.
 
@@ -1948,12 +2063,16 @@ Please consider supporting the show on Patreon at https://patreon.com/ltpod.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6681</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>74</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2019</title>
+            <title>LTA 73: September 2019</title>
+            <link>https://lets-talk.ie/lta73</link>
             <pubDate>Sun, 06 Oct 2019 20:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP73-September2019.mp3" length="44940986" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta73.mp3" length="44940986" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP73-September2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 73 September 2019</itunes:subtitle>
@@ -1966,17 +2085,21 @@ Please consider supporting the show on Patreon: https://patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5522</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>73</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2019</title>
+            <title>LTA 72: August 2019</title>
+            <link>https://lets-talk.ie/lta72</link>
             <pubDate>Sun, 01 Sep 2019 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP72-August2019.mp3" length="47867374" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta72.mp3" length="47867374" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP72-August2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 72 August 2019</itunes:subtitle>
             <itunes:summary>
-This month Bart is joined by Simon Parnell from the Essential Apple Podcast and Nick Rilley. The show starts with four followup stories from previous month — Spotify getting Siri integration, AppleCard's US launch, the on-going US-China trade war, and a positive end to the Siri Grading kerfuffle. Next are a few notable numbers and some HR news. The three main stories are a mixed month for Apple and security, a mixed month for Apple's complex relationship with indie repair shops, and Tim Cook and 180 other CEOs committing to a broader view of corporate responsibility. The show ends with some quick Apple-related stories that made the news during August.
+This month Bart is joined by Simon Parnell from the Essential Apple Podcast and Nick Rilley. The show starts with four followup stories from previous month — Spotify getting Siri integration, AppleCard’s US launch, the on-going US-China trade war, and a positive end to the Siri Grading kerfuffle. Next are a few notable numbers and some HR news. The three main stories are a mixed month for Apple and security, a mixed month for Apple’s complex relationship with indie repair shops, and Tim Cook and 180 other CEOs committing to a broader view of corporate responsibility. The show ends with some quick Apple-related stories that made the news during August.
 
 For detailed show notes visit https://lets-talk.ie/lta72
 
@@ -1984,17 +2107,21 @@ Please consider supporting the show on Patreon: https://patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5947</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>72</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2019</title>
+            <title>LTA 71: July 2019</title>
+            <link>https://lets-talk.ie/lta71</link>
             <pubDate>Mon, 05 Aug 2019 20:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP71-July2019.mp3" length="39046004" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta71.mp3" length="39046004" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP71-July2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 71 July 2019</itunes:subtitle>
             <itunes:summary>
-Joining Bart this month are GazMaz from the MyMac Podcast, Simon Parnell from the Essential Apple Podcast, and Scott Wellsey. The show starts with a little followup from previous stories before moving on to one notable number, one legal story, and a handful of Apple HR stories. The four main stories for July are Apple's updates to the Mac hardware line, Apple's acquisition of Intel's smartphone modem business, some Siri privacy issues, and Apple's Q3 2019 earnings call. The show finishes with a quick rundown of some quick stories that made the news in July 2019.
+Joining Bart this month are GazMaz from the MyMac Podcast, Simon Parnell from the Essential Apple Podcast, and Scott Wellsey. The show starts with a little followup from previous stories before moving on to one notable number, one legal story, and a handful of Apple HR stories. The four main stories for July are Apple’s updates to the Mac hardware line, Apple’s acquisition of Intel’s smartphone modem business, some Siri privacy issues, and Apple’s Q3 2019 earnings call. The show finishes with a quick rundown of some quick stories that made the news in July 2019.
 
 For detailed show notes visit https://lets-talk.ie/lta71
 
@@ -2002,24 +2129,32 @@ Please consider supporting the show on Patreon: https://patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4845</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>71</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - June 2019</title>
+            <title>LTA 70: June 2019</title>
+            <link>https://lets-talk.ie/lta70</link>
             <pubDate>Mon, 08 Jul 2019 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP70-June2019.mp3" length="38621191" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta70.mp3" length="38621191" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP70-June2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 70 June 2019</itunes:subtitle>
-            <itunes:summary>Joining Bart this month are Guy Serle form the MyMac podcast, and Simon Parnell from the Essential Apple podcast. The show starts with a few quick followups to last month's news before moving on to a few notable numbers and one important acquisition. The three main stories are WWDC 2019, Apple's hiring of ARM's Lead CPU Architect, and Jony Ive's departure from Apple. The show ends with a rundown of a few quick stories that also made the news in June.</itunes:summary>
+            <itunes:summary>Joining Bart this month are Guy Serle form the MyMac podcast, and Simon Parnell from the Essential Apple podcast. The show starts with a few quick followups to last month’s news before moving on to a few notable numbers and one important acquisition. The three main stories are WWDC 2019, Apple’s hiring of ARM’s Lead CPU Architect, and Jony Ive’s departure from Apple. The show ends with a rundown of a few quick stories that also made the news in June.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4792</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>70</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2019</title>
+            <title>LTA 69: May 2019</title>
+            <link>https://lets-talk.ie/lta69</link>
             <pubDate>Mon, 03 Jun 2019 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP69-May2019.mp3" length="33414260" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta69.mp3" length="33414260" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP69-May2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 69 May 2019</itunes:subtitle>
@@ -2034,19 +2169,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4141</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>69</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2019</title>
+            <title>LTA 68: April 2019</title>
+            <link>https://lets-talk.ie/lta68</link>
             <pubDate>Tue, 07 May 2019 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP68-April2019.mp3" length="38751778" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta68.mp3" length="38751778" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP68-April2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 68 April 2019</itunes:subtitle>
             <itunes:summary>
 Bart is joined this month by Lynda Gousha from the Silicon Valley Mac Users Group, and Ewen Rankin from the British Tech Network.
 
-The show starts with some followup on stories from previous months before getting stuck into some notable numbers and Apple HR changes that made the news in April. The five main stories are Apple's settlement with Qualcomm, Apple's Q2 2019 earnings call, the controversy over Apple cracking down on parental control apps abusing MDM, the failure of the Galaxy Fold, and the rapidly evolving world of streaming music and video services. The show ends with a quick rundown of some other Apple-related stories that made the news in April.
+The show starts with some followup on stories from previous months before getting stuck into some notable numbers and Apple HR changes that made the news in April. The five main stories are Apple’s settlement with Qualcomm, Apple’s Q2 2019 earnings call, the controversy over Apple cracking down on parental control apps abusing MDM, the failure of the Galaxy Fold, and the rapidly evolving world of streaming music and video services. The show ends with a quick rundown of some other Apple-related stories that made the news in April.
 
 For detailed show notes visit https://lets-talk.ie/lta68
 
@@ -2054,19 +2193,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4808</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>68</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2019</title>
+            <title>LTA 67: March 2019</title>
+            <link>https://lets-talk.ie/lta667</link>
             <pubDate>Sun, 31 Mar 2019 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP67-March2019.mp3" length="47269686" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta67.mp3" length="47269686" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP67-March2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 67 March 2019</itunes:subtitle>
             <itunes:summary>
 This month Bart is joined by Guy Serle from the My Mac Podcast, and Nick Riley. 
 
-The show starts with a few quick followup stories before moving on to look at some notable Apple-related numbers, some Apple-related legal stories, some Apple HR news, and a few Apple Acquisitions that made the news in March. The five main stories are Apple's Annual Shareholders Meeting, the new legal battle that's kicked-off between Spotify and Apple, the new hardware Apple unexpectedly announced in the run-up to the March event, the services announced at the March event, and the resurrection of 'keyboard gate' as Apple's 3rd generation butterfly keyboards continue to fail for some users. The show finishes with a quick rundown of some other smaller Apple-related stories that made the news in March.
+The show starts with a few quick followup stories before moving on to look at some notable Apple-related numbers, some Apple-related legal stories, some Apple HR news, and a few Apple Acquisitions that made the news in March. The five main stories are Apple’s Annual Shareholders Meeting, the new legal battle that’s kicked-off between Spotify and Apple, the new hardware Apple unexpectedly announced in the run-up to the March event, the services announced at the March event, and the resurrection of ‘keyboard gate’ as Apple’s 3rd generation butterfly keyboards continue to fail for some users. The show finishes with a quick rundown of some other smaller Apple-related stories that made the news in March.
 
 For detailed show notes visit https://lets-talk.ie/lta67
 
@@ -2074,19 +2217,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5873</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>67</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2019</title>
+            <title>LTA 66: February 2019</title>
+            <link>https://lets-talk.ie/lta66</link>
             <pubDate>Sat, 02 Mar 2019 20:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP66-February2019.mp3" length="44024736" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta66.mp3" length="44024736" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP66-February2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 66 February 2019</itunes:subtitle>
             <itunes:summary>
 This month Bart is joined by Simon Parnell from the Essential Apple podcast, and Nick Riley.
 
-The show starts with some followups to stories from last month's show including the FaceTime bug, the abuses of Apple's Enterprise Developer certificates, and the Project Titan Layoffs. That's followed by a look at two legal stories, some notable numbers that made the news in February, and some Apple staffing changes including Angela Ahrendts' departure. The three main stories are the Cellebrite iPhone hacking tools found for sale on eBay for $100, a bad month for privacy on Apple's App Stores, and foldable phones. The show finishes with a quick run-down of some other Apple-related stories that made the news in February.
+The show starts with some followups to stories from last month’s show including the FaceTime bug, the abuses of Apple’s Enterprise Developer certificates, and the Project Titan Layoffs. That’s followed by a look at two legal stories, some notable numbers that made the news in February, and some Apple staffing changes including Angela Ahrendts’ departure. The three main stories are the Cellebrite iPhone hacking tools found for sale on eBay for $100, a bad month for privacy on Apple’s App Stores, and foldable phones. The show finishes with a quick run-down of some other Apple-related stories that made the news in February.
 
 For detailed show notes visit https://lets-talk.ie/lta66
 
@@ -2094,19 +2241,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5467</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>66</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2019</title>
+            <title>LTA 65: January 2019</title>
+            <link>https://lets-talk.ie/lta65</link>
             <pubDate>Sun, 03 Feb 2019 20:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP65-January2019.mp3" length="41922747" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta65.mp3" length="41922747" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP65-January2019.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 65 January 2019</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Lynda Goucha from the Silicon Valley Mac Users Group and Nick Riley.
 
-The show starts with a quick run-down of developments in some of the major legal cases involving Apple, then moves on to some notable numbers and some Apple HR News. The five main stories are Apple's Q1 2019 earnings, a good CES for Apple, the FaceTime bug, Facebook and Google breaking the rules of Apple's Enterprise program and briefly losing their internal apps, and some encryption and privacy news. The show finishes with a quick rundown of some smaller Apple-related stories that made the news in January.
+The show starts with a quick run-down of developments in some of the major legal cases involving Apple, then moves on to some notable numbers and some Apple HR News. The five main stories are Apple’s Q1 2019 earnings, a good CES for Apple, the FaceTime bug, Facebook and Google breaking the rules of Apple’s Enterprise program and briefly losing their internal apps, and some encryption and privacy news. The show finishes with a quick rundown of some smaller Apple-related stories that made the news in January.
 
 For detailed show notes visit https://lets-talk.ie/lta65
 
@@ -2114,19 +2265,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5201</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>65</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2019</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2018</title>
+            <title>LTA 64: December 2018</title>
+            <link>https://lets-talk.ie/lta64</link>
             <pubDate>Wed, 02 Jan 2019 20:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP64-December2018.mp3" length="39355565" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta64.mp3" length="39355565" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP64-December2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 64 December 2018</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Gazmaz from the MyMac Podcast, Kelly Guimont from The Mac Observer, Chuck Joiner from Mac Voices, and Simon Parnell from the Essential Apple podcast.
 
-The show starts with a few quick followups from last month's show, followed by a quick look at some notable numbers that made the news in December, some Apple HR news stories, and a look at two Apple-related court cases including Apple -v- Qualcomm. The three main stories for the month are some new types of fraud that were briefly active on the iOS App Store, the on-going fight for privacy, and bent iPad Pros. The show finishes with a quick rundown of some other stories that made the news in December.
+The show starts with a few quick followups from last month’s show, followed by a quick look at some notable numbers that made the news in December, some Apple HR news stories, and a look at two Apple-related court cases including Apple -v- Qualcomm. The three main stories for the month are some new types of fraud that were briefly active on the iOS App Store, the on-going fight for privacy, and bent iPad Pros. The show finishes with a quick rundown of some other stories that made the news in December.
 
 For detailed show notes visit https://lets-talk.ie/lta64.
 
@@ -2134,19 +2289,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4884</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>64</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2018</title>
+            <title>LTA 63: November 2018</title>
+            <link>https://lets-talk.ie/lta63</link>
             <pubDate>Sun, 02 Dec 2018 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP63-November2018.mp3" length="28316112" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta63.mp3" length="28316112" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP63-November2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 63 November 2018</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Allison Sheridan from the NosillaCast Podcast, and Nick Riley.
 
-The show starts with a few quick follow up stories, followed by some Apple HR news that broke in November. The three main stories for the month are some repairability trade-offs introduced by the advanced security provided by Apple's new T2 chip, oral arguments in US Supreme Court case regarding a class action anti-trust case brought against Apple regarding the App Store, and Apple's new relationship with Amazon. The show finishes with a quick rundown of some smaller Apple-related stories that made the news in November.
+The show starts with a few quick follow up stories, followed by some Apple HR news that broke in November. The three main stories for the month are some repairability trade-offs introduced by the advanced security provided by Apple’s new T2 chip, oral arguments in US Supreme Court case regarding a class action anti-trust case brought against Apple regarding the App Store, and Apple’s new relationship with Amazon. The show finishes with a quick rundown of some smaller Apple-related stories that made the news in November.
 
 For detailed show notes visit https://lets-talk.ie/lta63.
 
@@ -2154,19 +2313,23 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>3504</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>63</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2018</title>
+            <title>LTA 62: October 2018</title>
+            <link>https://lets-talk.ie/lta62</link>
             <pubDate>Tue, 06 Nov 2018 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP62-October2018.mp3" length="54357179" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta62.mp3" length="54357179" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP62-October2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 62 October 2018</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Lynda Gousha from the Silicon Valley Mac Users Group, and Dermot Daly from app-maker Tapadoo.
 
-The show starts with some quick followups to stories discussed on previous shows before moving on for a quick look at some notable numbers and some hirings, firings, acquisitions that made the news in October. The four main stories are Bloomberg's 'The Big Hack' story, Adobe's announcement that 'real' Photoshop is coming to the iPad in 2019, Apple's "There's more in the making" event, and Apple's Q4 2018 earnings call. The show finishes with a quick look at a few other Apple-related stories that made the news in October.
+The show starts with some quick followups to stories discussed on previous shows before moving on for a quick look at some notable numbers and some hirings, firings, acquisitions that made the news in October. The four main stories are Bloomberg’s ‘The Big Hack’ story, Adobe’s announcement that ‘real’ Photoshop is coming to the iPad in 2019, Apple’s “There’s more in the making” event, and Apple’s Q4 2018 earnings call. The show finishes with a quick look at a few other Apple-related stories that made the news in October.
 
 For detailed show notes visit https://lets-talk.ie/lta62.
 
@@ -2174,31 +2337,39 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6759</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>62</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2018</title>
+            <title>LTA 61: September 2018</title>
+            <link>https://lets-talk.ie/lta61</link>
             <pubDate>Wed, 03 Oct 2018 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP61-September2018.mp3" length="48331952" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta61.mp3" length="48331952" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP61-September2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 61 September 2018</itunes:subtitle>
             <itunes:summary>Joining Bart this month are GazMaz from the MyMac Podcast, and Mark Chappell; Simon Parnell from the Essential Apple podcast.The show starts with a few quick followup stories, some updates regarding two on-going legal cases, and a quick look at some Apple HR-related news that broke in September. The three main stories are the new OSes Apple released in September, the new hardware announced at the Gather Round media event, and the mysterious disappearance of AirPower. The show finishes with a few other quick stories that made the news in September.For detailed show notes visit https://lets-talk.ie/lta61.Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6006</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>61</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2018</title>
+            <title>LTA 60: August 2018</title>
+            <link>https://lets-talk.ie/lta60</link>
             <pubDate>Wed, 05 Sep 2018 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP60-August2018.mp3" length="38524608" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta60.mp3" length="38524608" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP60-August2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 60 August 2018</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Adam Christianson from the Mac Cast, Mark Chappell from the Essential Apple podcast, and Allison Sheridan from the NosillaCast.
 
-Because it's the so-called silly-season in news the show has a bit of an unusual format. The show starts off with the usual followups, a few notable numbers, and then some Apple HR News. The first main story is not a single story, but a medley of medium-sized stories. The second main story is Apple's censorship of conspiracy theorist Alex Jones and his Infowars publication, and the final main story is the end of Back to My Mac. The show finishes with a quick roundup of some other smaller stories that made the news in August.
+Because it’s the so-called silly-season in news the show has a bit of an unusual format. The show starts off with the usual followups, a few notable numbers, and then some Apple HR News. The first main story is not a single story, but a medley of medium-sized stories. The second main story is Apple’s censorship of conspiracy theorist Alex Jones and his Infowars publication, and the final main story is the end of Back to My Mac. The show finishes with a quick roundup of some other smaller stories that made the news in August.
 
 For detailed show notes visit http://lets-talk.ie/lta60
 
@@ -2206,128 +2377,160 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4780</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>60</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2018</title>
+            <title>LTA 59: July 2018</title>
+            <link>https://lets-talk.ie/lta59</link>
             <pubDate>Tue, 07 Aug 2018 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP59-July2018.mp3" length="44656617" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta59.mp3" length="44656617" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP59-July2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 59 July 2018</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Adam Christianson from the Mac Cast, Lynda Gousha, and Nick Riley.
 
-The show starts with some followup on Google Duplex, before moving on to look at just one legal story for the month — the EU fining Google over Android. Next up are two staffing changes at Apple, and then come the three main stories for July — the new MacBook Pros, Apple's Q3 2018 earnings call, and Apple's market capitalisation crossing the $1Bn milestone. The show finishes with a quick look at some other Apple-related stories that made the news in July.
+The show starts with some followup on Google Duplex, before moving on to look at just one legal story for the month — the EU fining Google over Android. Next up are two staffing changes at Apple, and then come the three main stories for July — the new MacBook Pros, Apple’s Q3 2018 earnings call, and Apple’s market capitalisation crossing the $1Bn milestone. The show finishes with a quick look at some other Apple-related stories that made the news in July.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5546</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>59</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - June 2018</title>
+            <title>LTA 58: June 2018</title>
+            <link>https://lets-talk.ie/lta58</link>
             <pubDate>Mon, 02 Jul 2018 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP58-June2018.mp3" length="42917953" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta58.mp3" length="42917953" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP58-June2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 58 June 2018</itunes:subtitle>
             <itunes:summary>
 his month Bart is joined by Kelly Guimont from App Camp for Girls and Nick Riley.
 
-The show starts with a few followup items before moving on to look at some Apple-related legal stories that broke in June, including the end of the epic Apple -v- Samsung case. Next up is a quick look at some new hires at Apple, and then the show moves on to the three main stories. By far the biggest story is WWDC 2018, the second main story is Apple's deals with Opera and Sesame Street, and the final main story is the US Supreme Court's ruling on cellphone location data. The show finishes with a quick rundown of a few smaller Apple-related stories that made the news in June.
+The show starts with a few followup items before moving on to look at some Apple-related legal stories that broke in June, including the end of the epic Apple -v- Samsung case. Next up is a quick look at some new hires at Apple, and then the show moves on to the three main stories. By far the biggest story is WWDC 2018, the second main story is Apple’s deals with Opera and Sesame Street, and the final main story is the US Supreme Court’s ruling on cellphone location data. The show finishes with a quick rundown of a few smaller Apple-related stories that made the news in June.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5329</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>58</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2018</title>
+            <title>LTA 57: May 2018</title>
+            <link>https://lets-talk.ie/lta57</link>
             <pubDate>Mon, 04 Jun 2018 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP57-May2018.mp3" length="50547710" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta57.mp3" length="50547710" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP57-May2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 57 (May 2018)</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Simon Parnell from the Essential Apple Podcast, and Allister Jenks.
 
-The show starts with a quick update on the eternal Apple -v- Samsung trial before moving on to the five main stories for the month. First a collection of App Store related stories including government censorship, a developer's union, a whole kerfuffle around the Steam iOS app, and a challenge to Apple's pricing model from Microsoft. Second, the on-going controversy over Apple's so-called Butterfly Keyboards. Third, the release of two long-awaited products, AirPlay 2, and iCloud messages. Fourth, Microsoft's Hub 2. And finally, Google's Duplex 'demo'. The show finishes with a quick rundown of a few other Apple related stories that made the news in May.
+The show starts with a quick update on the eternal Apple -v- Samsung trial before moving on to the five main stories for the month. First a collection of App Store related stories including government censorship, a developer’s union, a whole kerfuffle around the Steam iOS app, and a challenge to Apple’s pricing model from Microsoft. Second, the on-going controversy over Apple’s so-called Butterfly Keyboards. Third, the release of two long-awaited products, AirPlay 2, and iCloud messages. Fourth, Microsoft’s Hub 2. And finally, Google’s Duplex ‘demo’. The show finishes with a quick rundown of a few other Apple related stories that made the news in May.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6283</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>57</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2018</title>
+            <title>LTA 56: April 2018</title>
+            <link>https://lets-talk.ie/lta56</link>
             <pubDate>Sun, 06 May 2018 18:30:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP56-April2018.mp3" length="38532232" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta56.mp3" length="38532232" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP56-April2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 56 (April 2018)</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Kelly Guimont from App Camp for Girls, Adam Christianson from the Mac Cast, Victor Cajiao, and Nick Riley.
 
-The show starts with a few notable numbers and hires that made the news in April before moving on to the five main stories — Bloomberg's report that Apple will switch the Mac to their own ARM processors, Apple's continued Environmental push, the end of the line for the AirPort, the Q2 2018 earnings call, and the iMac turning 20. The show finishes with a quick rundown of a few other Apple related stories that made the news in April.
+The show starts with a few notable numbers and hires that made the news in April before moving on to the five main stories — Bloomberg’s report that Apple will switch the Mac to their own ARM processors, Apple’s continued Environmental push, the end of the line for the AirPort, the Q2 2018 earnings call, and the iMac turning 20. The show finishes with a quick rundown of a few other Apple related stories that made the news in April.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4781</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>56</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2018</title>
+            <title>LTA 55: March 2018</title>
+            <link>https://lets-talk.ie/lta55</link>
             <pubDate>Tue, 03 Apr 2018 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP55-March2018.mp3" length="42001426" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta55.mp3" length="42001426" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP55-March2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 55 (March 2018)</itunes:subtitle>
             <itunes:summary>
 Bart is joined by Nick Riley, Lynda Gousha from the Silicon Valley MUG, and Gazmaz from the MyMac podcast.
 
-The show starts with a few notable numbers and one notable staffing change before moving into the three main stories for March — Apple's Education event, updates for all Apple's OSes, and the on-going debate around security and privacy. The show finishes with a quick rundown of some smaller stories that made the news in March.
+The show starts with a few notable numbers and one notable staffing change before moving into the three main stories for March — Apple’s Education event, updates for all Apple’s OSes, and the on-going debate around security and privacy. The show finishes with a quick rundown of some smaller stories that made the news in March.
 
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5214</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>55</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2018</title>
+            <title>LTA 54: February 2018</title>
+            <link>https://lets-talk.ie/lta54</link>
             <pubDate>Fri, 02 Mar 2018 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP54-February2018.mp3" length="40334109" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta54.mp3" length="40334109" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP54-February2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 54 (Febvruary 2018)</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Gazmaz from the MyMac Podcast and Simon Parnell from the Essential Apple Podcast.
 
-The show starts with a quick follow-up on 'Throttle Gate' before moving on to the three main stories of the month, the arrival of HomePods in people's homes, Apple's moves to source their Cobalt directly from mines, and the on-going war on privacy. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in February.
+The show starts with a quick follow-up on ‘Throttle Gate’ before moving on to the three main stories of the month, the arrival of HomePods in people’s homes, Apple’s moves to source their Cobalt directly from mines, and the on-going war on privacy. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in February.
 
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5006</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>54</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2018</title>
+            <title>LTA 53: January 2018</title>
+            <link>https://lets-talk.ie/lta53</link>
             <pubDate>Tue, 06 Feb 2018 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP53-January2018.mp3" length="24917331" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta53.mp3" length="24917331" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP53-January2018.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 53 (January 2018)</itunes:subtitle>
             <itunes:summary>
 Joining Bart this month are Dermot Daly from Tapadoo, Chuck Joiner from Mac Voices, and Lynda Gousha from the Silicon Valley Mac User Group.
 
-The show starts with some quick follow-up stories, some Apple-related notable numbers, one Apple-related legal stories, and some staffing changes at Apple that made the news in January. The five main stories for the month are the launch of the HomePod, Apple's repatriation of billions of dollars to the US, Apple's Q1 2018 results, the on-going war on privacy, and Apple's preview of up-coming changes to macOSServer and iOS. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in January.
+The show starts with some quick follow-up stories, some Apple-related notable numbers, one Apple-related legal stories, and some staffing changes at Apple that made the news in January. The five main stories for the month are the launch of the HomePod, Apple’s repatriation of billions of dollars to the US, Apple’s Q1 2018 results, the on-going war on privacy, and Apple’s preview of up-coming changes to macOSServer and iOS. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in January.
 
 
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4950</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>53</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2018</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2017</title>
+            <title>LTA 52: December 2017</title>
+            <link>https://lets-talk.ie/lta52</link>
             <pubDate>Thu, 04 Jan 2018 00:00:01 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP52-December2017.mp3" length="29298947" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta52.mp3" length="29298947" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP52-December2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 52 (December 2017)</itunes:subtitle>
@@ -2341,30 +2544,38 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5802</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>52</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2017</title>
+            <title>LTA 51: November 2017</title>
+            <link>https://lets-talk.ie/lta51</link>
             <pubDate>Sat, 02 Dec 2017 19:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP51-November2017.mp3" length="23548317" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta51.mp3" length="23548317" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP51-November2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 51 (November 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Elaine Giles from MacBites, Simon Parnell from the Essential Apple podcast, and Guy Serle from the MyMac Podcast.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4671</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>51</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2017</title>
+            <title>LTA 50: October 2017</title>
+            <link>https://lets-talk.ie/lta50</link>
             <pubDate>Sat, 04 Nov 2017 01:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP50-October2017.mp3" length="32254065" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta50.mp3" length="32254065" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP50-October2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 50 (October 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Chuck Joiner from Mac Voices, Mark Chappell from the Essential Apple podcast, Nick Riley, and Allister Jenks.
 
-The show starts with some Apple-related legal stories that made the news in October before moving on to look at some interesting Apple-related statistics and staffing changes. The four main stories for the month are Apple's Q4 earnings call, the release of the iPhone X, the end of Windows Phone, and a bad month for Google. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in October.
+The show starts with some Apple-related legal stories that made the news in October before moving on to look at some interesting Apple-related statistics and staffing changes. The four main stories for the month are Apple’s Q4 earnings call, the release of the iPhone X, the end of Windows Phone, and a bad month for Google. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in October.
 
 For detailed show notes visit http://lets-talk.ie/lta50
 
@@ -2372,18 +2583,22 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6495</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>50</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2017</title>
+            <title>LTA 49: September 2017</title>
+            <link>https://lets-talk.ie/lta49</link>
             <pubDate>Sat, 07 Oct 2017 17:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP49-September2017.mp3" length="36865637" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta49.mp3" length="36865637" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP49-September2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 49 (September 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Adam Christianson from the MacCast, Patrick Beja from French Spin, Simon Parnell from the Essential Apple podcast, and the Tech Doctor Dr. Robert Carter.
 
-The show starts with some quick followup before moving on to look at a few staffing changes at Apple that made the news in September. The four main stories for the month were Apple's new hardware, Apple's new software, the controversy around Safari's new privacy features, and the hardware released by Sonos, Amazon, and Google. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in September.
+The show starts with some quick followup before moving on to look at a few staffing changes at Apple that made the news in September. The four main stories for the month were Apple’s new hardware, Apple’s new software, the controversy around Safari’s new privacy features, and the hardware released by Sonos, Amazon, and Google. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in September.
 
 For detailed show notes visit http://lets-talk.ie/lta49
 
@@ -2391,18 +2606,22 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>7072</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>49</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2017</title>
+            <title>LTA 48: August 2017</title>
+            <link>https://lets-talk.ie/lta48</link>
             <pubDate>Tue, 05 Sep 2017 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP48-August2017.mp3" length="25658619" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta48.mp3" length="25658619" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP48-August2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 48 (August 2017)</itunes:subtitle>
             <itunes:summary>JJoining Bart this month are Dermot Daly from Tapadoo, Gazmaz from the MyMac Podcast, and Adam Christianson from the MacCast.
 
-The show starts with some quick followup before moving on to look at a few staffing changes at Apple that made the news in August. The five main stories for the month were Apple's continued political engagement, Apple's continuing push into Education, some privacy-related stories, some AR developments, and FitBit's release of their Ionic smart watch. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in August.
+The show starts with some quick followup before moving on to look at a few staffing changes at Apple that made the news in August. The five main stories for the month were Apple’s continued political engagement, Apple’s continuing push into Education, some privacy-related stories, some AR developments, and FitBit’s release of their Ionic smart watch. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in August.
 
 For detailed show notes visit http://lets-talk.ie/lta48
 
@@ -2410,162 +2629,202 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5029</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>48</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2017</title>
+            <title>LTA 47: July 2017</title>
+            <link>https://lets-talk.ie/lta47</link>
             <pubDate>Mon, 07 Aug 2017 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP47-July2017.mp3" length="26512786" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta47.mp3" length="26512786" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP47-July2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 47 (July 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Nick Riley, Lynda Gousha, Scott Willsey from the Don’t Nihongo it Alone podcast, and Gazmaz from the MyMac podcast.
 
-The show starts with some quick followup stories before moving on to look at some Apple-related notable numbers, legal news, and staff changes that made the news in July. The four main stories for the month were Apple's Q3 earnings call, the death of the traditional iPod, the continuing battle against encryption, and the leaking of some information about the up-coming iPhone through an accidentally released software update for the HomePod. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in July.
+The show starts with some quick followup stories before moving on to look at some Apple-related notable numbers, legal news, and staff changes that made the news in July. The four main stories for the month were Apple’s Q3 earnings call, the death of the traditional iPod, the continuing battle against encryption, and the leaking of some information about the up-coming iPhone through an accidentally released software update for the HomePod. The show finishes with a quick rundown of some shorter Apple-related stories that made the news in July.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5223</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>47</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - June 2017</title>
+            <title>LTA 46: June 2017</title>
+            <link>https://lets-talk.ie/lta46</link>
             <pubDate>Tue, 04 Jul 2017 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP46-June2017.mp3" length="26397816" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta46.mp3" length="26397816" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP46-June2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 46 (June 2017)</itunes:subtitle>
             <itunes:summary>JJoining Bart this month are Dermot Daly from Tapadoo, Lynda Gousha, and Nick Riley.
 
-The show starts with some quick followup stories before moving on to look at some Apple-related notable numbers and staff changes that made the news in June. There are just two main stories this month, but they're big ones - WWDC 2017, and the iPhone's 10 year anniversary. The show finishes with a quick rundown of some other quick Apple-related stories that made the news in June.
+The show starts with some quick followup stories before moving on to look at some Apple-related notable numbers and staff changes that made the news in June. There are just two main stories this month, but they’re big ones - WWDC 2017, and the iPhone’s 10 year anniversary. The show finishes with a quick rundown of some other quick Apple-related stories that made the news in June.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5326</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>46</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2017</title>
+            <title>LTA 45: May 2017</title>
+            <link>https://lets-talk.ie/lta45</link>
             <pubDate>Fri, 02 Jun 2017 01:00:01 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP45-May2017.mp3" length="29240943" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta45.mp3" length="29240943" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP45-May2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 45 (May 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Chuck Joiner from Mac Voices, Lynda Gousha, and Nick Riley.
 
-The show starts with some quick followup stories before moving on to look at some Apple-related notable numbers and legal stories that made the news in May. The four main stories are Science -v- fitness trackers, Apple's $1Bn investment in advanced manufacturing in the US, the noticeable up-tick in malware targeting the Mac, and developments in AI virtual assistants announced in May. The show finishes with a quick rundown of some companies Apple have acquired, some staffing changes at Apple, and some other quick Apple-related stories that made the news in May.
+The show starts with some quick followup stories before moving on to look at some Apple-related notable numbers and legal stories that made the news in May. The four main stories are Science -v- fitness trackers, Apple’s $1Bn investment in advanced manufacturing in the US, the noticeable up-tick in malware targeting the Mac, and developments in AI virtual assistants announced in May. The show finishes with a quick rundown of some companies Apple have acquired, some staffing changes at Apple, and some other quick Apple-related stories that made the news in May.
 
 For detailed show notes visit http://lets-talk.ie/lta45
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5890</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>45</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2017</title>
+            <title>LTA 44: April 2017</title>
+            <link>https://lets-talk.ie/lta44</link>
             <pubDate>Wed, 03 May 2017 21:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP44-April2017.mp3" length="22878478" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta44.mp3" length="22878478" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP44-April2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 44 (April 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Gazmaz from the MyMac Podcast, and Lynda Gousha.
 
-The show starts with a quick look at some Apple-related legal stories that made the news in April before moving on to look at the month's notable Apple hirings. The four main stories are Apple's Q2 2017 earnings call, Earth Day 2017, reports that Apple are working on an optical blood-glucose sensor, and Microsoft's announcement of Windows 10 S and new Surface Laptop. The show finishes with a quick rundown of some other, shorter, Apple-related stories that made the news in April.
+The show starts with a quick look at some Apple-related legal stories that made the news in April before moving on to look at the month’s notable Apple hirings. The four main stories are Apple’s Q2 2017 earnings call, Earth Day 2017, reports that Apple are working on an optical blood-glucose sensor, and Microsoft’s announcement of Windows 10 S and new Surface Laptop. The show finishes with a quick rundown of some other, shorter, Apple-related stories that made the news in April.
 
 For detailed show notes visit http://lets-talk.ie/lta44
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4584</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>44</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2017</title>
+            <title>LTA 43: March 2017</title>
+            <link>https://lets-talk.ie/lta43</link>
             <pubDate>Fri, 07 Apr 2017 00:30:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP43-March2017.mp3" length="30438294" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta43.mp3" length="30438294" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP43-March2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 43 (March 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Allison Sheridan from the NosillaCast, Gazmaz from the MyMac Podcast, and Nick Riley.</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6262</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>43</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2017</title>
+            <title>LTA 42: February 2017</title>
+            <link>https://lets-talk.ie/lta42</link>
             <pubDate>Sun, 05 Mar 2017 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP42-February2017.mp3" length="26003468" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta42.mp3" length="26003468" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP42-February2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 42 (February 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are the Tech Doctor Robert Carter, and Dermot Daly from Tapadoo.
 
-The show starts with some quick followups to stories from last month, before moving on to look at a few notable numbers and Apple-related legal stories that made the news in February. The three main stories are reports of more connector changes for Apple, Apple's 2017 annual shareholder meeting, and Apple's response to roll-backs of protections for trans kids by the Trump administration. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in February.
+The show starts with some quick followups to stories from last month, before moving on to look at a few notable numbers and Apple-related legal stories that made the news in February. The three main stories are reports of more connector changes for Apple, Apple’s 2017 annual shareholder meeting, and Apple’s response to roll-backs of protections for trans kids by the Trump administration. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in February.
 
 For detailed show notes visit http://lets-talk.ie/lta42
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5135</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>42</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2017</title>
+            <title>LTA 41: January 2017</title>
+            <link>https://lets-talk.ie/lta41</link>
             <pubDate>Mon, 06 Feb 2017 10:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP41-January2017.mp3" length="29173039" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta41.mp3" length="29173039" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP41-January2017.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 41 (January 2017)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Chuck Joiner from Mac Voice, Guy Serle from the My Mac Podcast, and Nick Riley.
 
-The show starts with some quick followups to stories from last month, before moving on to look at a few notable numbers that and Apple-related legal stories that made the news in January. The four main stories are the tech world's response to President Trump's immigration and refugee ban, Apple's Q1 2017 earnings call, changes to the App Store reviews API, and whether or not we should worry about the apparent rise in high-profile departures from Apple over the past weeks. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in January.
+The show starts with some quick followups to stories from last month, before moving on to look at a few notable numbers that and Apple-related legal stories that made the news in January. The four main stories are the tech world’s response to President Trump’s immigration and refugee ban, Apple’s Q1 2017 earnings call, changes to the App Store reviews API, and whether or not we should worry about the apparent rise in high-profile departures from Apple over the past weeks. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in January.
 
 For detailed show notes visit http://lets-talk.ie/lta41
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5827</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>41</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2017</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2016</title>
+            <title>LTA 40: December 2016</title>
+            <link>https://lets-talk.ie/lta40</link>
             <pubDate>Mon, 02 Jan 2017 21:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP40-December2016.mp3" length="19695118" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta40.mp3" length="19695118" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP40-December2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 40 (December 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Nick Riley, and Guy &amp; Gaz from the My Mac Podcast.
 
-The show starts with some not-so-quick followups to stories from previous months, before moving on to look at just one notable number - iPhones appear to have been gifted twice as often as Samsung Galaxies this holiday season. Next, the panel discuss some of the Apple-related legal stories that broke in December - including the never-ending Apple -v- Samsung saga. The four main stories are the decline of the rest of the smart watch market while the Apple Watch continues to prosper, Apple's move to start publishing academic papers in the AI field, the release of the Air Pods, and battery controversy for the new MacBook Pros. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in December.
+The show starts with some not-so-quick followups to stories from previous months, before moving on to look at just one notable number - iPhones appear to have been gifted twice as often as Samsung Galaxies this holiday season. Next, the panel discuss some of the Apple-related legal stories that broke in December - including the never-ending Apple -v- Samsung saga. The four main stories are the decline of the rest of the smart watch market while the Apple Watch continues to prosper, Apple’s move to start publishing academic papers in the AI field, the release of the Air Pods, and battery controversy for the new MacBook Pros. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in December.
 
 For detailed show notes visit http://lets-talk.ie/lta40
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>3931</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>40</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2016</title>
+            <title>LTA 39: November 2016</title>
+            <link>https://lets-talk.ie/lta39</link>
             <pubDate>Sat, 03 Dec 2016 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP39-November2016.mp3" length="26719664" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta39.mp3" length="26719664" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP39-November2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 39 (November 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Gaz from the My Mac Podcast, Victor Cajiao from the 3 Nerd Things podcast, Adam Christianson from the MacCast, and the Tech Doctor Dr. Robert Carter.
 
-The show starts with some not-so-quick followups to stories from previous months, then moves on to look at just one notable number - Apple's share of smartphone profits. For the first time in the show's history, there is no legal news to talk about. The four main stories are the possible effect of Donald Trump's election on Apple, Apple's firing of Automation chief Sal Soghoian, the end of Apple's router team, and three repair programs launched by Apple this November. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in November.
+The show starts with some not-so-quick followups to stories from previous months, then moves on to look at just one notable number - Apple’s share of smartphone profits. For the first time in the show’s history, there is no legal news to talk about. The four main stories are the possible effect of Donald Trump’s election on Apple, Apple’s firing of Automation chief Sal Soghoian, the end of Apple’s router team, and three repair programs launched by Apple this November. The show finishes with a quick rundown of some other shorter Apple-related stories that made the news in November.
 
 For detailed show notes visit http://lets-talk.ie/lta39
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5155</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>39</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2016</title>
+            <title>LTA 38: October 2016</title>
+            <link>https://lets-talk.ie/lta38</link>
             <pubDate>Wed, 02 Nov 2016 20:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP38-October2016.mp3" length="31177215" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta38.mp3" length="31177215" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP38-October2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episode 38 (October 2016)</itunes:subtitle>
@@ -2578,253 +2837,313 @@ For detailed show notes visit http://lets-talk.ie/lta38
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6227</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>38</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2016</title>
+            <title>LTA 37: September 2016</title>
+            <link>https://lets-talk.ie/lta37</link>
             <pubDate>Fri, 07 Oct 2016 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP37-September2016.mp3" length="28051412" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta37.mp3" length="28051412" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP37-September2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 37 (September 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Gaz from the My Mac Podcast, Chuck Joiner from Mac Voices, and Nick Riley.
 
-The show starts with a quick look at some Apple-related legal stories which broke in September. The four main stories are Apple's new hardware (iPhone 7 &amp; 7Plus, AirPods &amp; Apple Watch Series 1 &amp; 2), Apple's new OSes (iOS 10, watchOS 3 &amp; macOS Sierra), some more developments in the privacy war, and two new corporate deals for Apple. The show finishes with a quick rundown of some other shorter stories that made the news in September.
+The show starts with a quick look at some Apple-related legal stories which broke in September. The four main stories are Apple’s new hardware (iPhone 7 &amp; 7Plus, AirPods &amp; Apple Watch Series 1 &amp; 2), Apple’s new OSes (iOS 10, watchOS 3 &amp; macOS Sierra), some more developments in the privacy war, and two new corporate deals for Apple. The show finishes with a quick rundown of some other shorter stories that made the news in September.
 
 For detailed show notes visit http://lets-talk.ie/lta37
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5577</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>37</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2016</title>
+            <title>LTA 36: August 2016</title>
+            <link>https://lets-talk.ie/lta36</link>
             <pubDate>Tue, 06 Sep 2016 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP36-August2016.mp3" length="32538423" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta36.mp3" length="32538423" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP36-August2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 36 (August 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Gaz from the My Mac Podcast, Elaine Giles from Mac Bites Learning, and Nick Riley.
 
-The show starts with a quick look at some notable numbers and Apple-related legal stories which broke in August. The three main stories are the EU's fight with Ireland and Apple, Samsung's Galaxy Note 7 recall, and some changes to the App Store. The show finishes with a quick rundown of some other shorter stories that made the news in August.
+The show starts with a quick look at some notable numbers and Apple-related legal stories which broke in August. The three main stories are the EU’s fight with Ireland and Apple, Samsung’s Galaxy Note 7 recall, and some changes to the App Store. The show finishes with a quick rundown of some other shorter stories that made the news in August.
 
 For detailed show notes visit http://lets-talk.ie/lta36
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4032</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>36</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2016</title>
+            <title>LTA 35: July 2016</title>
+            <link>https://lets-talk.ie/lta35</link>
             <pubDate>Mon, 01 Aug 2016 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP35-July2016.mp3" length="40309118" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta35.mp3" length="40309118" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP35-July2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 35 (July 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Gaz from the My Mac Podcast, Lynda Gousha, and Nick Riley.
 
-The show starts with a few follow-ups to some stories from June, before having a quick look at some notable numbers and Apple-related legal stories which broke in July. The four main stories are Apple's Q3 2016 earnings call, Apple Watch's place at the top of the J. D. Power Smart Watch Satisfaction survey, some staffing changes at Project Titan, and the sale of ARM to SoftBank. The show finishes with a quick rundown of some other shorter stories that made the news in July. </itunes:summary>
+The show starts with a few follow-ups to some stories from June, before having a quick look at some notable numbers and Apple-related legal stories which broke in July. The four main stories are Apple’s Q3 2016 earnings call, Apple Watch’s place at the top of the J. D. Power Smart Watch Satisfaction survey, some staffing changes at Project Titan, and the sale of ARM to SoftBank. The show finishes with a quick rundown of some other shorter stories that made the news in July. </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5003</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>35</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - June 2016</title>
+            <title>LTA 34: June 2016</title>
+            <link>https://lets-talk.ie/lta4</link>
             <pubDate>Mon, 04 Jul 2016 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP34-June2016.mp3" length="52114793" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta34.mp3" length="52114793" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP34-June2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 34 (June 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Guy from the My Mac Podcast, Robert Carter the Tech Doctor, Ewen Rankin form the British Tech Network, and Nick Riley.
 
-The show starts with a few followups to some stories from May, before having a quick look at two Apple-related legal stories which broke in June. The five main stories are changes to the App store announced before WWDC, WWDC itself, the probable removal of the headphone jack from the next iPhone, Apple's withdrawal from the Republican National Convention in protest at Donald Trump, and Senator Warren's criticism of Apple and other tech companies for practices that make it hard for competition to thrive. The show finishes with a quick rundown of some other shorter stories that made the news in June.
+The show starts with a few followups to some stories from May, before having a quick look at two Apple-related legal stories which broke in June. The five main stories are changes to the App store announced before WWDC, WWDC itself, the probable removal of the headphone jack from the next iPhone, Apple’s withdrawal from the Republican National Convention in protest at Donald Trump, and Senator Warren’s criticism of Apple and other tech companies for practices that make it hard for competition to thrive. The show finishes with a quick rundown of some other shorter stories that made the news in June.
 
 For detailed show notes visit http://lets-talk.ie/lta34
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6479</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>34</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2016</title>
+            <title>LTA 33: May 2016</title>
+            <link>https://lets-talk.ie/lta33</link>
             <pubDate>Mon, 06 Jun 2016 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP33-May2016.mp3" length="35923053" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta33.mp3" length="35923053" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP33-May2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 33 (May 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Chuck Joiner from Mac Voices, Allister Jenks, and Gazmaz from the My Mac Podcast.
 
-The show starts with a quick look at some notable numbers that were released in May, followed by a look at some Apple-related legal stories. The four main stories for the month are: Tim Cook's visit to India and China, CurrentC gets postponed again, Google's IO Conference, and Microsoft's streamlining of their phone business. The show finishes with a quick rundown of some other shorter stories that made the news in May.
+The show starts with a quick look at some notable numbers that were released in May, followed by a look at some Apple-related legal stories. The four main stories for the month are: Tim Cook’s visit to India and China, CurrentC gets postponed again, Google’s IO Conference, and Microsoft’s streamlining of their phone business. The show finishes with a quick rundown of some other shorter stories that made the news in May.
 
 For detailed show notes visit http://lets-talk.ie/lta33
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4455</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>33</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2016</title>
+            <title>LTA 32: April 2016</title>
+            <link>https://lets-talk.ie/lta32</link>
             <pubDate>Fri, 06 May 2016 01:00:15 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP32-April2016.mp3" length="39863156" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta32.mp3" length="39863156" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP32-April2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 32 April 2016</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Chuck Joiner from Mac Voices, Nick Riley, and Lynda Gousha.
 
-The show starts with a quick look at some notable numbers that were released in April. The five main stories for the month are: the on-going encryption wars, Apple's Q2 2016 earnings call, the update to the 12" MacBook, Apple's battles in China and India, and TIME declaring the iPhone the most influential gadget of all time. The show finishes with a quick rundown of some other shorter stories that made the news in April.
+The show starts with a quick look at some notable numbers that were released in April. The five main stories for the month are: the on-going encryption wars, Apple’s Q2 2016 earnings call, the update to the 12” MacBook, Apple’s battles in China and India, and TIME declaring the iPhone the most influential gadget of all time. The show finishes with a quick rundown of some other shorter stories that made the news in April.
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4947</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>32</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2016</title>
+            <title>LTA 31: March 2016</title>
+            <link>https://lets-talk.ie/lta31</link>
             <pubDate>Mon, 04 Apr 2016 01:01:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP31-March2016.mp3" length="52523976" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta31.mp3" length="52523976" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP31-March2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 31 (March 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Adam Christianson from the MacCast, Allister Jenks, and Nick Riley.
 
-There were no notable numbers month, so the show starts with a quick review of the month's legal news. The six main stories for the month are: Apple's legal battle with the FBI, Apple's March special event, 40 years of Apple and 15 years of OS X, North Carolina's LGBT discrimination law, and some new on Apple News. The show finishes with a quick rundown of some other shorter stories that made the news in March. </itunes:summary>
+There were no notable numbers month, so the show starts with a quick review of the month’s legal news. The six main stories for the month are: Apple’s legal battle with the FBI, Apple’s March special event, 40 years of Apple and 15 years of OS X, North Carolina’s LGBT discrimination law, and some new on Apple News. The show finishes with a quick rundown of some other shorter stories that made the news in March. </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6530</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>31</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2016</title>
+            <title>LTA 30: February 2016</title>
+            <link>https://lets-talk.ie/lta30</link>
             <pubDate>Sat, 05 Mar 2016 23:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP30-February2016.mp3" length="32596715" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta30.mp3" length="32596715" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP30-February2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 30 (February 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Guy from the My Mac Podcast, Dr. Robert Carter from Tech Doctor Podcast, and Nick Riley.
 
-The show starts with a quick look at some interesting Apple-related numbers released in February before moving on to a quick review of the month's legal news. The three main stories for the month are: Apple's legal battle with the FBI, Error 53, and Apple Pay's launch in China. The show finishes with a quick rundown of some other shorter stories that made the news in February.
+The show starts with a quick look at some interesting Apple-related numbers released in February before moving on to a quick review of the month’s legal news. The three main stories for the month are: Apple’s legal battle with the FBI, Error 53, and Apple Pay’s launch in China. The show finishes with a quick rundown of some other shorter stories that made the news in February.
 
 For detailed show notes visit http://lets-talk.ie/lta30
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4039</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>30</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2016</title>
+            <title>LTA 29: January 2016</title>
+            <link>https://lets-talk.ie/lta29</link>
             <pubDate>Mon, 01 Feb 2016 23:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP29-January2016.mp3" length="42576517" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta29.mp3" length="42576517" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP29-January2016.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 29 (January 2016)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Gaz from the My Mac Podcast, Linda Gousha, and Scott Willsey.
 
-The show starts with a quick look at some interesting Apple-related numbers released in January before moving on to a quick review of the month's legal news. The six main stories for the month were: Apple's Q1 2016 earnings call, the rumoured demise of the 3.5mm jack, Donald Trump's comments on Apple, developments in the on-going encryption/privacy war, the partial demise of iAd, and Amnesty International's report on child labour in Apple, Samsung; Sony's supply chain. The show finishes with a quick rundown of some other shorter stories that made the news in January.
+The show starts with a quick look at some interesting Apple-related numbers released in January before moving on to a quick review of the month’s legal news. The six main stories for the month were: Apple’s Q1 2016 earnings call, the rumoured demise of the 3.5mm jack, Donald Trump’s comments on Apple, developments in the on-going encryption/privacy war, the partial demise of iAd, and Amnesty International’s report on child labour in Apple, Samsung; Sony’s supply chain. The show finishes with a quick rundown of some other shorter stories that made the news in January.
 
 For detailed show notes visit http://lets-talk.ie/lta29
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5287</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>29</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2016</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2015</title>
+            <title>LTA 28: December 2015</title>
+            <link>https://lets-talk.ie/lta28</link>
             <pubDate>Sat, 02 Jan 2016 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP28-December2015.mp3" length="39747176" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta28.mp3" length="39747176" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP28-December2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 28 (December 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Guy &amp; Gaz from the My Mac Podcast, Nick Riley, and Victor Cajiao from the TerraTech Podcast.
 
-The show starts with a quick look at some interesting Apple-related numbers released in December before moving on to a quick review of the month's legal news. The five main stories for the month were: the fight over encryption, executive team changes at Apple, the Apple iPhone battery case, some mobile payment developments, and the abandonment of Apple's talks with the TV networks. The show finishes with a quick rundown of some other shorter stories that made the news in December.
+The show starts with a quick look at some interesting Apple-related numbers released in December before moving on to a quick review of the month’s legal news. The five main stories for the month were: the fight over encryption, executive team changes at Apple, the Apple iPhone battery case, some mobile payment developments, and the abandonment of Apple’s talks with the TV networks. The show finishes with a quick rundown of some other shorter stories that made the news in December.
 
 For detailed show notes visit http://lets-talk.ie/lta28
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4933</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>28</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - November 2015</title>
+            <title>LTA 27: November 2015</title>
+            <link>https://lets-talk.ie/lta27</link>
             <pubDate>Fri, 04 Dec 2015 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP27-November2015.mp3" length="43126376" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta27.mp3" length="43126376" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP27-November2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 27 (November 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Allister Jenks, Robert Carter from the Tech Doctor Podcast, and Tim Robertson from the Tech Fan Podcast (and the Stoplight Network).
 
-The show starts with a quick look at some interesting Apple-related numbers released in November before moving on to a quick review of the month's legal news. The five main stories for the month were: The iPad Pro, a good month for Apple Pay, Amazon coming to the new Apple TV, Adobe's moves away from Flash, and finally Tim Cook's comments that Apple will not merge iOS and OS X. The show finishes with a quick rundown of some other shorter stories that made the news in November.
+The show starts with a quick look at some interesting Apple-related numbers released in November before moving on to a quick review of the month’s legal news. The five main stories for the month were: The iPad Pro, a good month for Apple Pay, Amazon coming to the new Apple TV, Adobe’s moves away from Flash, and finally Tim Cook’s comments that Apple will not merge iOS and OS X. The show finishes with a quick rundown of some other shorter stories that made the news in November.
 
 For detailed show notes visit http://lets-talk.ie/lta27
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5355</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>27</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>November 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - October 2015</title>
+            <title>LTA 26: October 2015</title>
+            <link>https://lets-talk.ie/lta26</link>
             <pubDate>Fri, 06 Nov 2015 23:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP26-October2015.mp3" length="38017869" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta26.mp3" length="38017869" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP26-October2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 26 (October 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Nick Riley, Gazmaz from the My Mac Podcast, and Chuck Joiner from Mac Voices.
 
-The show starts with a quick look at some interesting numbers and a quick review of the month's legal news before getting stuck into the five main stories of the month: 'chip gate', Apple's Q4 earnings call, new desktop hardware from Apple (iMacs, keyboards, trackpads &amp; mice), the new Apple TV, and a collection of security-related stories. The show finishes with a quick rundown of some other shorter stories that made the news in October.
+The show starts with a quick look at some interesting numbers and a quick review of the month’s legal news before getting stuck into the five main stories of the month: ‘chip gate’, Apple’s Q4 earnings call, new desktop hardware from Apple (iMacs, keyboards, trackpads &amp; mice), the new Apple TV, and a collection of security-related stories. The show finishes with a quick rundown of some other shorter stories that made the news in October.
 
 For detailed show notes visit http://lets-talk.ie/lta26
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4717</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>26</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>October 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - September 2015</title>
+            <title>LTA 25: September 2015</title>
+            <link>https://lets-talk.ie/lta25</link>
             <pubDate>Tue, 06 Oct 2015 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP25-September2015.mp3" length="45556600" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta25.mp3" length="45556600" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP25-September2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 25 (September 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month are Nick Riley, Gazmaz from the My Mac Podcast, and Allison Sheridan from the NosillaCast Mac Podcast.
 
-The show starts with a quick look at some interesting numbers and a quick review of the month's legal news before getting stuck into the six main stories of the month: the XcodeGhost malware, the September keynote, the release of iOS 9, Watch OS 2, &amp; Mac OS X 10.11 El Capitan, and Apple's new human-friendly privacy policy. The show finishes with a quick rundown of some other shorter stories that made the news in September.
+The show starts with a quick look at some interesting numbers and a quick review of the month’s legal news before getting stuck into the six main stories of the month: the XcodeGhost malware, the September keynote, the release of iOS 9, Watch OS 2, &amp; Mac OS X 10.11 El Capitan, and Apple’s new human-friendly privacy policy. The show finishes with a quick rundown of some other shorter stories that made the news in September.
 
 For detailed show notes visit http://lets-talk.ie/lta25
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>5659</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>25</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>September 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - August 2015</title>
+            <title>LTA 24: August 2015</title>
+            <link>https://lets-talk.ie/lta24</link>
             <pubDate>Sat, 05 Sep 2015 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP24-August2015.mp3" length="33569110" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta24.mp3" length="33569110" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP24-August2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 24 (August 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart for this month is Nick Riley, Gazmaz from the My Mac Podcast, and Dr. Robert Carter from the Tech Doctor Podcast.
 
-The show starts with a quick look at some interesting numbers and a quick review of the month's legal news before getting stuck into the six main stories of the month: Apple's Deal with Cisco, Google's transformation into Alphabet, some developments in mobile payments, some developments in smart watches, Tim Cook's somewhat controversial email to Jim Cramer, and the Galaxy Note 5's flawed stylus. The show finishes with a quick rundown of some other shorter stories that made the news in August, including the demise of the Amazon Fire Phone.
+The show starts with a quick look at some interesting numbers and a quick review of the month’s legal news before getting stuck into the six main stories of the month: Apple’s Deal with Cisco, Google’s transformation into Alphabet, some developments in mobile payments, some developments in smart watches, Tim Cook’s somewhat controversial email to Jim Cramer, and the Galaxy Note 5’s flawed stylus. The show finishes with a quick rundown of some other shorter stories that made the news in August, including the demise of the Amazon Fire Phone.
 
 For detailed show notes visit http://lets-talk.ie/lta24
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4161</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>24</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - Special 1</title>
+            <title>LTA 23a: Special 1</title>
+            <link>https://lets-talk.ie/lta23a</link>
             <pubDate>Sat, 22 Aug 2015 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP23a-Special1.mp3" length="27454178" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta23a.mp3" length="27454178" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP23a-Special1.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 23a (Special 1 - Analysts Explained)</itunes:subtitle>
@@ -2838,35 +3157,41 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</it
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>3396</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Special 1</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - July 2015</title>
+            <title>LTA 23: July 2015</title>
+            <link>https://lets-talk.ie/lta23</link>
             <pubDate>Tue, 04 Aug 2015 22:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP23-July2015.mp3" length="27029928" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta23.mp3" length="27029928" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP23-July2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 23 (July 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Victor Cajiao from the Artechulate podcast, and Bren Finan from BrendanFinan.net. 
 
-The show starts with a look at some interesting Apple-related numbers and statistics released during July before moving on to the legal news and some followups from last month's show (mainly Apple Music related). The three main stories for the month are Apple's 3rd quarter earnings, the new iPod Touch, and a collection of security-related stories. The show finishes with a quick roundup of some other short Apple-related stories that broke in July.
+The show starts with a look at some interesting Apple-related numbers and statistics released during July before moving on to the legal news and some followups from last month’s show (mainly Apple Music related). The three main stories for the month are Apple’s 3rd quarter earnings, the new iPod Touch, and a collection of security-related stories. The show finishes with a quick roundup of some other short Apple-related stories that broke in July.
 
 For detailed show notes visit http://lets-talk.ie/lta23
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>3343</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>23</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - June 2015</title>
+            <title>LTA 22: June 2015</title>
+            <link>https://lets-talk.ie/lta22</link>
             <pubDate>Sat, 04 Jul 2015 00:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP22-June2015.mp3" length="49743293" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta22.mp3" length="49743293" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP22-June2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 22 (June 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Nick Riley, Steve Stanger from the Mac Round Table, and Victor Cajiao from the Artechulate podcast. 
 
-The show starts with a quick roundup of some of the court-related Apple news for June 2015, before jumping into the main stores of the month. First, some Home Kit News, then the news from Apple's World Wide Developer Conference, then the 'confederate flag' kerfuffle in the App Store, and finally a collection of privacy-related stories including the EFF's 'who has your back' report.
+The show starts with a quick roundup of some of the court-related Apple news for June 2015, before jumping into the main stores of the month. First, some Home Kit News, then the news from Apple’s World Wide Developer Conference, then the ‘confederate flag’ kerfuffle in the App Store, and finally a collection of privacy-related stories including the EFF’s ‘who has your back’ report.
 
 The show finishes with a quick roundup of some other important Apple-related news that broke in June, including some staffing changes at Apple, a recall of Beats speakers, and a replacement program for 3TB iMac hard drives.
 
@@ -2875,12 +3200,16 @@ For detailed show notes visit http://lets-talk.ie/lta22
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6182</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>22</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - May 2015</title>
+            <title>LTA 21: May 2015</title>
+            <link>https://lets-talk.ie/lta21</link>
             <pubDate>Mon, 01 Jun 2015 23:00:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP21-May2015.mp3" length="35393081" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta21.mp3" length="35393081" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP21-May2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 21 (May 2015)</itunes:subtitle>
@@ -2888,35 +3217,43 @@ Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</it
 
 The show starts with a quick roundup of some of the court-related Apple news for May 2015, before jumping into the main stores of the month. First, a promotion for Jony Ive, then a roundup of the some of the news around Apple Watch, then the demise of the perennial Apple TV rumour, and finally, the banishment of the much maligned discoveryd, and the return of mDNSResponder.
 
-The show finishes with a quick roundup of some other important Apple-related news that broke in May, including some small tweaks to the Mac line, some more big US retailers moving towards Apple Pay, and Microsoft's announcement of plans to bring Cortana to iOS.
+The show finishes with a quick roundup of some other important Apple-related news that broke in May, including some small tweaks to the Mac line, some more big US retailers moving towards Apple Pay, and Microsoft’s announcement of plans to bring Cortana to iOS.
 
 </itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4389</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>21</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - April 2015</title>
+            <title>LTA 20: April 2015</title>
+            <link>https://lets-talk.ie/lta20</link>
             <pubDate>Mon, 04 May 2015 01:30:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP20-April2015.mp3" length="50419969" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta20.mp3" length="50419969" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP20-April2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 20 (April 2015)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Allison Sheridan from the NosillaCast Mac Podcast, Chuck Joiner from the Mac Voices Podcast, and Gazmaz from the MyMac Podcast. 
 
-It was a busy month in Apple news so the show jumps straight into the main stories, starting with some first-hand experiences with the Apple Watch, then moving on to Photos, then the Q2 earnings call, and then quickly finishing up with some Apple Pay news and some news from Microsoft's Build conference.
+It was a busy month in Apple news so the show jumps straight into the main stories, starting with some first-hand experiences with the Apple Watch, then moving on to Photos, then the Q2 earnings call, and then quickly finishing up with some Apple Pay news and some news from Microsoft’s Build conference.
 
 For detailed show notes visit http://lets-talk.ie/lta20
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>6267</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>20</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - March 2015</title>
+            <title>LTA 19: March 2015</title>
+            <link>https://lets-talk.ie/lta19</link>
             <pubDate>Sat, 04 Apr 2015 23:30:00 +0100</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP19-March2015.mp3" length="37002644" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta19.mp3" length="37002644" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP19-March2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 19 (March 2015)</itunes:subtitle>
@@ -2929,12 +3266,16 @@ For detailed show notes visit http://lets-talk.ie/lta19
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4590</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>19</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - February 2015</title>
+            <title>LTA 18: February 2015</title>
+            <link>https://lets-talk.ie/lta18</link>
             <pubDate>Thu, 05 Mar 2015 22:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP18-February2015.mp3" length="33468592" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta18.mp3" length="33468592" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP18-February2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 18 (February 2015)</itunes:subtitle>
@@ -2947,43 +3288,54 @@ For detailed show notes visit http://lets-talk.ie/lta18
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4148</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>18</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>February 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - January 2015</title>
+            <title>LTA 17: January 2015</title>
+            <link>https://lets-talk.ie/lta17</link>
             <pubDate>Tue, 03 Feb 2015 21:00:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP17-January2015.mp3" length="36413532" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta17.mp3" length="36413532" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP17-January2015.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 17 (January 2014)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Adam Christianson from the Mac Cast, Gazmaz from the MyMac Podcast, and Nick Riley. 
 
-The show starts with a quick correction from last month's show, then moves on to look at some of the many numbers and statistics released in January before moving on to a quick rundown of some Apple-related legal stories. The big stories for the month were Apple's spectacular first quarter, David Cameron's attack on secure messaging apps, the Thunderstrike vulnerability, Microsoft's preview of Windows 10, and some staff changes at Apple. The show finishes with a quick rundown of some other Apple related stories that made the news in January.
+The show starts with a quick correction from last month’s show, then moves on to look at some of the many numbers and statistics released in January before moving on to a quick rundown of some Apple-related legal stories. The big stories for the month were Apple’s spectacular first quarter, David Cameron’s attack on secure messaging apps, the Thunderstrike vulnerability, Microsoft’s preview of Windows 10, and some staff changes at Apple. The show finishes with a quick rundown of some other Apple related stories that made the news in January.
 
 For detailed show notes visit http://lets-talk.ie/lta17
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4516</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>17</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2015</itunes:title>
         </item>
         <item>
-            <title>Let's Talk Apple - December 2014</title>
+            <title>LTA 16: December 2014</title>
+            <link>https://lets-talk.ie/lta16</link>
             <pubDate>Sat, 03 Jan 2015 22:30:00 +0000</pubDate>
-            <enclosure url="http://www.mymac.com/podcast/lta/LetsTalkApple-EP16-December2014.mp3" length="35346252" type="audio/mpeg"/>
+            <enclosure url="https://media.lets-talk.ie/lta/lta16.mp3" length="35346252" type="audio/mpeg"/>
             <guid isPermaLink="false">http://www.mymac.com/podcast/lta/LetsTalkApple-EP16-December2014.mp3</guid>
             <itunes:author>Bart Busschots</itunes:author>
             <itunes:subtitle>Let's Talk Apple - Episide 16 (December 2014)</itunes:subtitle>
             <itunes:summary>Joining Bart this month are Victor Cajiao from the Artechulate podcast, Allister Jenks, and Guy Serle from the MyMac Podcast. 
 
-The show starts with a quick update on some stories from November, a run-down of some Apple-related numbers released in December, and an update on some of the legal cases Apple is involved in. The five main topics for the show are the BBC Horizon documentary on Apple's supply chain, Apple &amp; IBM releasing their first apps together, a 14-day trial period for app purchase in the EU, on-going Apple Pay momentum, and the business orld's honouring of Tim Cook. The show finishes with a quick rundown of some other Apple related stories that made the news in December.
+The show starts with a quick update on some stories from November, a run-down of some Apple-related numbers released in December, and an update on some of the legal cases Apple is involved in. The five main topics for the show are the BBC Horizon documentary on Apple’s supply chain, Apple &amp; IBM releasing their first apps together, a 14-day trial period for app purchase in the EU, on-going Apple Pay momentum, and the business orld’s honouring of Tim Cook. The show finishes with a quick rundown of some other Apple related stories that made the news in December.
 
 For detailed show notes visit http://lets-talk.ie/lta16
 
 Please consider supporting the show on Patreon: http://www.patreon.com/ltpod</itunes:summary>
             <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkApple-iTunesAlbumArt.jpg"/>
             <itunes:duration>4383</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>16</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>December 2014</itunes:title>
         </item>
         <item>
             <title>LTA 15: November 2014</title>
