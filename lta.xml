@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Tue, 27 Jan 2026 02:46:22 +0000</pubDate>
-        <lastBuildDate>Tue, 27 Jan 2026 02:46:22 +0000</lastBuildDate>
+        <pubDate>Sat, 31 Jan 2026 17:36:10 +0000</pubDate>
+        <lastBuildDate>Sat, 31 Jan 2026 17:36:10 +0000</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 149: January 2026</title>
+            <link>https://lets-talk.ie/lta149</link>
+            <description><![CDATA[<p>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple HR and acquisition news, before diving into an unusually eventful month for Apple services and original content. The first of the four main stories is a rare editorial critiquing Apple's responses to recent events, and the remaining main stories are regular news stories, specifically, the new Creator Studio subscription bundle, Apple's AI deal with Google, and Apple's Q1 2026 earnings call. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in January 2026.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta149">lets-talk.ie/lta149</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sat, 31 Jan 2026 17:36:05 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta149.mp3" length="32536366" type="audio/mpeg"/>
+            <guid isPermaLink="false">9E2FCB5B-72FD-4683-B737-10683598A2C7</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple HR and acquisition news, before diving into an unusually eventful month for Apple services and original content. The first of the four main stories is a rare editorial critiquing Apple’s responses to recent events, and the remaining main stories are regular news stories, specifically, the new Creator Studio subscription bundle, Apple’s AI deal with Google, and Apple’s Q1 2026 earnings call. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in January 2026.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta149.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4024</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>149</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>January 2026</itunes:title>
+        </item>
         <item>
             <title>LTA 82: June 2020</title>
             <link>https://lets-talk.ie/lta82</link>
