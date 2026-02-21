@@ -4,17 +4,17 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.2(6346); Mac OS X Version 26.2 (Build 25C56) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.2(6346); Mac OS X Version 26.3 (Build 25D125) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
-        <copyright>2022 Bartificer Creations</copyright>
+        <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Tue, 27 Jan 2026 01:41:22 +0000</pubDate>
-        <lastBuildDate>Tue, 27 Jan 2026 01:41:22 +0000</lastBuildDate>
+        <pubDate>Sat, 21 Feb 2026 15:17:39 +0000</pubDate>
+        <lastBuildDate>Sat, 21 Feb 2026 15:17:39 +0000</lastBuildDate>
         <image>
             <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
             <title>Let's Talk Photography</title>
-            <link>https://media.lets-talk.ie/iTunes-photography.jpg</link>
+            <link>https://media.lets-talk.ie/ltp-thumbnail.jpg</link>
             <width>144</width>
             <height>144</height>
             <description>The Let's Talk Photo Logo</description>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>Sliders go Both Ways!</title>
+            <link>https://lets-talk.ie/ltp149</link>
+            <description><![CDATA[<p>In this solo show Bart reminds you that the sliders in your editing app go both ways, even those you reflexively always slide in the same direction!</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp149">lets-talk.ie/ltp149</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 21 Feb 2026 15:17:35 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp149.mp3" length="9649376" type="audio/mpeg"/>
+            <guid isPermaLink="false">08B1A682-ACE0-41E2-8E9E-6BAEF599602F</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart reminds you that the sliders in your editing app go both ways, even those you reflexively always slide in the same direction!
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp149.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1189</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>149</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>LTP 149: Sliders go Both Ways!</itunes:title>
+        </item>
         <item>
             <title>LTP 148: Another Challenge</title>
             <link>https://lets-talk.ie/ltp148</link>
