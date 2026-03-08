@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.2(6346); Mac OS X Version 26.2 (Build 25C56) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.3.1 (Build 25D2128) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
-        <copyright>2022 Bartificer Creations</copyright>
-        <pubDate>Sat, 31 Jan 2026 17:36:10 +0000</pubDate>
-        <lastBuildDate>Sat, 31 Jan 2026 17:36:10 +0000</lastBuildDate>
+        <copyright>2026 Bartificer Creations</copyright>
+        <pubDate>Sun, 08 Mar 2026 15:41:21 +0000</pubDate>
+        <lastBuildDate>Sun, 08 Mar 2026 15:41:21 +0000</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>February 2026</title>
+            <link>https://lets-talk.ie/lta150</link>
+            <description><![CDATA[<p>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple acquisitions before diving into quite a bit of Apple services and original content news. The first of the three main stories is the major setback for the Trump Tariffs, that's followed by a related story on US manufacturing. The third, and biggest, main story is the parade of new products Apple unveiled in it's 'experience', culminating in the new MacBook Neo. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in February 2026.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta150">lets-talk.ie/lta150</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 08 Mar 2026 15:41:17 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta150.mp3" length="32169153" type="audio/mpeg"/>
+            <guid isPermaLink="false">9FFDB9AA-BADF-4B57-ACC8-5E104B535A0E</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple acquisitions before diving into quite a bit of Apple services and original content news. The first of the three main stories is the major setback for the Trump Tariffs, that’s followed by a related story on US manufacturing. The third, and biggest, main story is the parade of new products Apple unveiled in it’s ‘experience’, culminating in the new MacBook Neo. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in February 2026.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta150.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3978</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>150</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>LTA 150: February 2026</itunes:title>
+        </item>
         <item>
             <title>LTA 149: January 2026</title>
             <link>https://lets-talk.ie/lta149</link>
