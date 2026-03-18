@@ -4,15 +4,15 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.2(6346); Mac OS X Version 26.3 (Build 25D125) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.3.1 (Build 25D2128) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 21 Feb 2026 15:17:39 +0000</pubDate>
-        <lastBuildDate>Sat, 21 Feb 2026 15:17:39 +0000</lastBuildDate>
+        <pubDate>Wed, 18 Mar 2026 00:51:06 +0000</pubDate>
+        <lastBuildDate>Wed, 18 Mar 2026 00:51:06 +0000</lastBuildDate>
         <image>
-            <url>http://www.lets-talk.ie/iTunes-2021-photography-72px.png</url>
+            <url>https://media.lets-talk.ie/ltp-thumbnail.jpg</url>
             <title>Let's Talk Photography</title>
             <link>https://media.lets-talk.ie/ltp-thumbnail.jpg</link>
             <width>144</width>
@@ -23,7 +23,7 @@
         <itunes:author>Bart Busschots</itunes:author>
         <itunes:subtitle>Monthly Musings on the Art &amp; Craft of Photography</itunes:subtitle>
         <itunes:summary>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</itunes:summary>
-        <itunes:image href="http://www.lets-talk.ie/resources/LetsTalkPhotography-iTunesAlbumArt.jpg"/>
+        <itunes:image href="https://media.lets-talk.ie/ltp-iTunes.jpg"/>
         <itunes:explicit>false</itunes:explicit>
         <itunes:owner>
             <itunes:name>Let's Talk Podcasts</itunes:name>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 150: Learning Through Photography</title>
+            <link>https://lets-talk.ie/ltp150</link>
+            <description><![CDATA[<p>In this solo show Bart shares and anecdote that reminded him of just how rewarding it can be to combine your curiosity with your photography.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp150">lets-talk.ie/ltp150</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Wed, 18 Mar 2026 00:50:58 +0000</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp150.mp3" length="8640201" type="audio/mpeg"/>
+            <guid isPermaLink="false">3AFB0CD0-AF53-472B-B52A-04BA638CB869</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares and anecdote that reminded him of just how rewarding it can be to combine your curiosity with your photography.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp150.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1063</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>150</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Learning Through Photography</itunes:title>
+        </item>
         <item>
             <title>Sliders go Both Ways!</title>
             <link>https://lets-talk.ie/ltp149</link>
