@@ -8,8 +8,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
-        <pubDate>Sun, 08 Mar 2026 15:41:21 +0000</pubDate>
-        <lastBuildDate>Sun, 08 Mar 2026 15:41:21 +0000</lastBuildDate>
+        <pubDate>Sun, 05 Apr 2026 17:27:53 +0100</pubDate>
+        <lastBuildDate>Sun, 05 Apr 2026 17:27:53 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,26 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 151: March 2026</title>
+            <link>https://lets-talk.ie/lta151</link>
+            <description><![CDATA[<p>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple acquisition and HR news before diving into some Apple services and original content highlights. The first of the four main stories is Apple's 26.4 OS updates, the second is a small hardware release in the form of updated AirPods Max, and the third is a new services for business customers. The big final story is Apple's 50th birthday! The show wraps up with a quick look at a few smaller Apple-related stories that made the news in March 2026.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta151">lets-talk.ie/lta151</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 05 Apr 2026 17:27:50 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta151.mp3" length="20706392" type="audio/mpeg"/>
+            <guid isPermaLink="false">212F34AE-E461-4BDF-9F3A-D16BE76A9A1A</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:duration>2545</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>151</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>March 2026</itunes:title>
+        </item>
         <item>
             <title>February 2026</title>
             <link>https://lets-talk.ie/lta150</link>
