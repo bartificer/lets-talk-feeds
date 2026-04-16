@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.3.1 (Build 25D2128) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.4.1 (Build 25E253) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Wed, 18 Mar 2026 00:51:06 +0000</pubDate>
-        <lastBuildDate>Wed, 18 Mar 2026 00:51:06 +0000</lastBuildDate>
+        <pubDate>Thu, 16 Apr 2026 23:13:29 +0100</pubDate>
+        <lastBuildDate>Thu, 16 Apr 2026 23:13:29 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/ltp-thumbnail.jpg</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 151: My ‘Forest Flowers’ Series</title>
+            <link>https://lets-talk.ie/ltp151</link>
+            <description><![CDATA[<p>In this solo show Bart shares the story of a series he recently shot of spring flowers along the woodland trails in Carton House Estate near Maynooth in the east of Ireland. Bart focuses on the artistic choices he made before setting out, and how they helped him produce a nicer set of images. The idea is not to inspire you to make the same choices before your next shoot, but to inspire you to take the time to make your own choices.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp151">lets-talk.ie/ltp151</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Thu, 16 Apr 2026 23:13:24 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp151.mp3" length="12525260" type="audio/mpeg"/>
+            <guid isPermaLink="false">F1A9D6BB-2F2D-49CF-9131-3841DB6054A5</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart shares the story of a series he recently shot of spring flowers along the woodland trails in Carton House Estate near Maynooth in the east of Ireland. Bart focuses on the artistic choices he made before setting out, and how they helped him produce a nicer set of images. The idea is not to inspire you to make the same choices before your next shoot, but to inspire you to take the time to make your own choices.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp151.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1548</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>151</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>My ‘Forest Flowers’ Series</itunes:title>
+        </item>
         <item>
             <title>LTP 150: Learning Through Photography</title>
             <link>https://lets-talk.ie/ltp150</link>
