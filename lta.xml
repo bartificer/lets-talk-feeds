@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.3.1 (Build 25D2128) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.4.1 (Build 25E253) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
-        <pubDate>Sun, 05 Apr 2026 17:27:53 +0100</pubDate>
-        <lastBuildDate>Sun, 05 Apr 2026 17:27:53 +0100</lastBuildDate>
+        <pubDate>Mon, 04 May 2026 02:10:08 +0100</pubDate>
+        <lastBuildDate>Mon, 04 May 2026 02:10:08 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -34,6 +34,31 @@
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
         <item>
+            <title>LTA 152: April 2026</title>
+            <link>https://lets-talk.ie/lta152</link>
+            <description><![CDATA[<p>The show starts with a few followups from recent shows, a handful of legal stories, and just one Apple HR story before diving into some Apple services and original content highlights. There are just two main stories, Apple's CEO transition from Time Cook to John Ternus, and their first earnings call together, for Apple's 2026 Q2. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in April 2026.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta152">lets-talk.ie/lta152</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 04 May 2026 02:09:59 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta152.mp3" length="27409546" type="audio/mpeg"/>
+            <guid isPermaLink="false">006EBBBE-7F8A-44F1-B2E6-F183D2C1AD64</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>The show starts with a few followups from recent shows, a handful of legal stories, and just one Apple HR story before diving into some Apple services and original content highlights. There are just two main stories, Apple’s CEO transition from Time Cook to John Ternus, and their first earnings call together, for Apple’s 2026 Q2. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in April 2026.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta152.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3383</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>152</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>April 2026</itunes:title>
+        </item>
+        <item>
             <title>LTA 151: March 2026</title>
             <link>https://lets-talk.ie/lta151</link>
             <description><![CDATA[<p>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple acquisition and HR news before diving into some Apple services and original content highlights. The first of the four main stories is Apple's 26.4 OS updates, the second is a small hardware release in the form of updated AirPods Max, and the third is a new services for business customers. The big final story is Apple's 50th birthday! The show wraps up with a quick look at a few smaller Apple-related stories that made the news in March 2026.</p>
@@ -54,7 +79,7 @@
             <itunes:title>March 2026</itunes:title>
         </item>
         <item>
-            <title>February 2026</title>
+            <title>LTA 150: February 2026</title>
             <link>https://lets-talk.ie/lta150</link>
             <description><![CDATA[<p>The show starts with a few followups from recent shows, a handful of regulatory and legal stories, and some Apple acquisitions before diving into quite a bit of Apple services and original content news. The first of the three main stories is the major setback for the Trump Tariffs, that's followed by a related story on US manufacturing. The third, and biggest, main story is the parade of new products Apple unveiled in it's 'experience', culminating in the new MacBook Neo. The show wraps up with a quick look at a few smaller Apple-related stories that made the news in February 2026.</p>
 
@@ -76,7 +101,7 @@ This show is ad-free because of the generosity of listeners like you. Please con
             <itunes:season>0</itunes:season>
             <itunes:episode>150</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>LTA 150: February 2026</itunes:title>
+            <itunes:title>February 2026</itunes:title>
         </item>
         <item>
             <title>LTA 149: January 2026</title>
