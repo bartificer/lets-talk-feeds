@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Thu, 16 Apr 2026 23:13:29 +0100</pubDate>
-        <lastBuildDate>Thu, 16 Apr 2026 23:13:29 +0100</lastBuildDate>
+        <pubDate>Sat, 16 May 2026 16:44:27 +0100</pubDate>
+        <lastBuildDate>Sat, 16 May 2026 16:44:27 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/ltp-thumbnail.jpg</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 152: Travel Photography with Ron &amp; Allison</title>
+            <link>https://lets-talk.ie/ltp152</link>
+            <description><![CDATA[<p>In this rare panel show Bart and Allison Sheridan chat with Ron Burch, a long-time friend of Allison's who spends his retirement travelling the world while indulging in his love of photography. Ron has mastered both the craft of shooting while travelling, and the art of editing his work down to well curated collections which he prints as photo books.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp152">lets-talk.ie/ltp152</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 16 May 2026 16:44:16 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp152.mp3" length="23795531" type="audio/mpeg"/>
+            <guid isPermaLink="false">629C4F2A-EA4C-4286-976C-F5E53D421785</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A panel discussion with Bart Busschots, Allison Sheridan &amp; Ron Burch.</itunes:subtitle>
+            <itunes:summary>In this rare panel show Bart and Allison Sheridan chat with Ron Burch, a long-time friend of Allison’s who spends his retirement travelling the world while indulging in his love of photography. Ron has mastered both the craft of shooting while travelling, and the art of editing his work down to well curated collections which he prints as photo books.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp152.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>2971</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>152</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Travel Photography with Ron &amp; Allison</itunes:title>
+        </item>
         <item>
             <title>LTP 151: My ‘Forest Flowers’ Series</title>
             <link>https://lets-talk.ie/ltp151</link>
