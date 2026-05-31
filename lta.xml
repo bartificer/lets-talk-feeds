@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.4.1 (Build 25E253) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5 (Build 25F71) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
-        <pubDate>Mon, 04 May 2026 02:10:08 +0100</pubDate>
-        <lastBuildDate>Mon, 04 May 2026 02:10:08 +0100</lastBuildDate>
+        <pubDate>Sun, 31 May 2026 17:39:16 +0100</pubDate>
+        <lastBuildDate>Sun, 31 May 2026 17:39:16 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 153: May 2026</title>
+            <link>https://lets-talk.ie/lta153</link>
+            <description><![CDATA[<p>Unsurprisingly, the month leading up to WWDC has been relatively quiet, but there's still plenty to discuss. The show starts with the usual few follow-up, some legal and regulatory updates, some HR & acquisition news, and some updates to Apple services & original content. There are just three main stories — an unexpected turn in the Apple -v- Epic case, a reported deal between Apple & Intel, and Apple's annual accessibility announcements. The show finishes with a rundown of some smaller Apple-related stories that made the news in May.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta153">lets-talk.ie/lta153</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sun, 31 May 2026 17:39:12 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta153.mp3" length="27253980" type="audio/mpeg"/>
+            <guid isPermaLink="false">812568F5-348A-4FDB-878A-FBCCF2F4AEFC</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>Bart's overview of the May 2026 Apple News</itunes:subtitle>
+            <itunes:summary>Unsurprisingly, the month leading up to WWDC has been relatively quiet, but there’s still plenty to discuss. The show starts with the usual few follow-up, some legal and regulatory updates, some HR &amp; acquisition news, and some updates to Apple services &amp; original content. There are just three main stories — an unexpected turn in the Apple -v- Epic case, a reported deal between Apple &amp; Intel, and Apple’s annual accessibility announcements. The show finishes with a rundown of some smaller Apple-related stories that made the news in May.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta153.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3364</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>153</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>May 2026</itunes:title>
+        </item>
         <item>
             <title>LTA 152: April 2026</title>
             <link>https://lets-talk.ie/lta152</link>
