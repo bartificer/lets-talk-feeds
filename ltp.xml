@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.3(6352); Mac OS X Version 26.4.1 (Build 25E253) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5.1 (Build 25F80) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Sat, 16 May 2026 16:44:27 +0100</pubDate>
-        <lastBuildDate>Sat, 16 May 2026 16:44:27 +0100</lastBuildDate>
+        <pubDate>Sat, 13 Jun 2026 17:57:36 +0100</pubDate>
+        <lastBuildDate>Sat, 13 Jun 2026 17:57:36 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/ltp-thumbnail.jpg</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 153: Principles and Guidelines</title>
+            <link>https://lets-talk.ie/ltp153</link>
+            <description><![CDATA[<p>The fine folks at the Naples Mac Friends invited Bart back to give another photography presentation, and this time, asked him to focus on the art rather than the craft. Much of that presentation was very visual, and not well suited to a podcast, but the concepts are very relevant, so this instalment is a re-telling of the presentation's underlying narrative, adapted to one of Bart's popular monologues.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp153">lets-talk.ie/ltp153</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sat, 13 Jun 2026 17:57:31 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp153.mp3" length="33113155" type="audio/mpeg"/>
+            <guid isPermaLink="false">4D934433-FAFE-4F5E-A533-959FF9191F15</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>The fine folks at the Naples Mac Friends invited Bart back to give another photography presentation, and this time, asked him to focus on the art rather than the craft. Much of that presentation was very visual, and not well suited to a podcast, but the concepts are very relevant, so this instalment is a re-telling of the presentation’s underlying narrative, adapted to one of Bart’s popular monologues.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp153.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>4123</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>153</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Principles and Guidelines</itunes:title>
+        </item>
         <item>
             <title>LTP 152: Travel Photography with Ron &amp; Allison</title>
             <link>https://lets-talk.ie/ltp152</link>
