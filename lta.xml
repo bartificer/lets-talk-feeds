@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5 (Build 25F71) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5.1 (Build 25F80) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
-        <pubDate>Sun, 31 May 2026 17:39:16 +0100</pubDate>
-        <lastBuildDate>Sun, 31 May 2026 17:39:16 +0100</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2026 13:15:49 +0100</pubDate>
+        <lastBuildDate>Sat, 04 Jul 2026 13:15:49 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 154: June 2026</title>
+            <link>https://lets-talk.ie/lta154</link>
+            <description><![CDATA[<p>Despite there only being two main stories, this is marathon show! The show starts with just one pieces of followup, then rushes through some regulatory, legal, and HR news before featuring just a few highlights in Apple's services and original content. All to make as much room as possible for the main stories. The first is the mega-sized WWDC 2026 news, and the second is Apple's hardware price increases. The show finishes with just a few smaller Apple-related stories that made the news in June.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta154">lets-talk.ie/lta154</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Sat, 04 Jul 2026 13:15:45 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta154.mp3" length="47615890" type="audio/mpeg"/>
+            <guid isPermaLink="false">D25AC28D-0E26-4A95-B1DB-03CB6ABAC0DC</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>Despite there only being two main stories, this is marathon show! The show starts with just one pieces of followup, then rushes through some regulatory, legal, and HR news before featuring just a few highlights in Apple’s services and original content. All to make as much room as possible for the main stories. The first is the mega-sized WWDC 2026 news, and the second is Apple’s hardware price increases. The show finishes with just a few smaller Apple-related stories that made the news in June.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta154.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>5909</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>154</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>June 2026</itunes:title>
+        </item>
         <item>
             <title>LTA 153: May 2026</title>
             <link>https://lets-talk.ie/lta153</link>
