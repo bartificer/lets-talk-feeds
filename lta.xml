@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5.1 (Build 25F80) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5.2 (Build 25F84) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
-        <pubDate>Sat, 04 Jul 2026 13:15:49 +0100</pubDate>
-        <lastBuildDate>Sat, 04 Jul 2026 13:15:49 +0100</lastBuildDate>
+        <pubDate>Mon, 03 Aug 2026 20:06:11 +0100</pubDate>
+        <lastBuildDate>Mon, 03 Aug 2026 20:06:11 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,31 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 155: July 2026</title>
+            <link>https://lets-talk.ie/lta155</link>
+            <description><![CDATA[<p>Despite July being a traditionally quiet summer month, there's actually quite a bit of Apple news to digest! The show starts with the usual few follow-up, some legal and regulatory updates, some acquisition news, and some updates to Apple services & original content. There are three main stories — Apple's trade secrets suit against OpenAI, the new US Apple Upgrade Plan, and Apple's Q3 2026 earnings. The show finishes with a rundown of some smaller Apple-related stories that made the news in July.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta155">lets-talk.ie/lta155</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Mon, 03 Aug 2026 20:06:08 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta155.mp3" length="28826350" type="audio/mpeg"/>
+            <guid isPermaLink="false">654BD14E-3249-473A-B9DA-89443937E4EE</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>Despite July being a traditionally quiet summer month, there’s actually quite a bit of Apple news to digest! The show starts with the usual few follow-up, some legal and regulatory updates, some acquisition news, and some updates to Apple services &amp; original content. There are three main stories — Apple’s trade secrets suit against OpenAI, the new US Apple Upgrade Plan, and Apple’s Q3 2026 earnings. The show finishes with a rundown of some smaller Apple-related stories that made the news in July.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta155.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>3560</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>155</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>July 2026</itunes:title>
+        </item>
         <item>
             <title>LTA 154: June 2026</title>
             <link>https://lets-talk.ie/lta154</link>
