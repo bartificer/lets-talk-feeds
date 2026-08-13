@@ -9,8 +9,8 @@
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Mon, 13 Jul 2026 16:34:53 +0100</pubDate>
-        <lastBuildDate>Mon, 13 Jul 2026 16:34:53 +0100</lastBuildDate>
+        <pubDate>Thu, 13 Aug 2026 18:42:13 +0100</pubDate>
+        <lastBuildDate>Thu, 13 Aug 2026 18:42:13 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/ltp-thumbnail.jpg</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 155: Provenance not AI Detectors</title>
+            <link>https://lets-talk.ie/ltp155</link>
+            <description><![CDATA[<p>In this solo show Bart argues in favour digital provenance over AI detectors, and specifically, in favour of the Content Credentials standard from the C2PA. Rather than trying to detect AI fakes, we should learn from the antiques and collectibles world, and reverse our starting assumption and the burden of proof.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp155">lets-talk.ie/ltp155</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Thu, 13 Aug 2026 18:42:08 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp155.mp3" length="14420641" type="audio/mpeg"/>
+            <guid isPermaLink="false">0ADFB612-75D9-461C-AD8A-6195FFA05DFC</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart.</itunes:subtitle>
+            <itunes:summary>In this solo show Bart argues in favour digital provenance over AI detectors, and specifically, in favour of the Content Credentials standard from the C2PA. Rather than trying to detect AI fakes, we should learn from the antiques and collectibles world, and reverse our starting assumption and the burden of proof.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp155.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>1785</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>155</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Provenance not AI Detectors</itunes:title>
+        </item>
         <item>
             <title>LTP 154: Great Photographs Created with iPhones</title>
             <link>https://lets-talk.ie/ltp154</link>
