@@ -4,12 +4,12 @@
         <title>Let's Talk Apple</title>
         <link>http://www.lets-talk.ie</link>
         <description>A monthly panel show that takes a big-picture look at the previous month's Apple-related new. Part of the MyMac Podcasting Network</description>
-        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5.2 (Build 25F84) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.6.2 (Build 25G83) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
-        <pubDate>Mon, 03 Aug 2026 20:06:11 +0100</pubDate>
-        <lastBuildDate>Mon, 03 Aug 2026 20:06:11 +0100</lastBuildDate>
+        <pubDate>Thu, 03 Sep 2026 00:56:17 +0100</pubDate>
+        <lastBuildDate>Thu, 03 Sep 2026 00:56:17 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/lta-thumbnail.jpg</url>
             <title>Let's Talk Apple</title>
@@ -33,6 +33,35 @@
         <itunes:category text="Technology"/>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTA 156: August 2026</title>
+            <link>https://lets-talk.ie/lta156</link>
+            <description><![CDATA[<p>August may be the news silly season, but there's still plenty of Apple news to digest! The show starts with the usual few follow-up, some legal and regulatory updates, some HR news, and some updates to Apple services & original content. There are three main stories — the end of the Tim Cook era and the start of the John Ternus era, final agreement between Apple and the European Commission over the App Stores, and some new Mac hardware. The show finishes with a rundown of some smaller Apple-related stories that made the news in August.</p>
+
+<p>The show was recorded on the 2nd of September 2026.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/lta156">lets-talk.ie/lta156</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+]]></description>
+            <pubDate>Thu, 03 Sep 2026 00:56:13 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/lta/lta156.mp3" length="32768919" type="audio/mpeg"/>
+            <guid isPermaLink="false">F10057C0-3A5B-4A1A-84E2-0F7D1EEABC97</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A solo show with just Bart</itunes:subtitle>
+            <itunes:summary>August may be the news silly season, but there’s still plenty of Apple news to digest! The show starts with the usual few follow-up, some legal and regulatory updates, some HR news, and some updates to Apple services &amp; original content. There are three main stories — the end of the Tim Cook era and the start of the John Ternus era, final agreement between Apple and the European Commission over the App Stores, and some new Mac hardware. The show finishes with a rundown of some smaller Apple-related stories that made the news in August.
+
+The show was recorded on the 2nd of September 2026.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/lta156.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).</itunes:summary>
+            <itunes:duration>4053</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>156</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>August 2026</itunes:title>
+        </item>
         <item>
             <title>LTA 155: July 2026</title>
             <link>https://lets-talk.ie/lta155</link>
