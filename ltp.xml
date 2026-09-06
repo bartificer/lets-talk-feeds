@@ -4,13 +4,13 @@
         <title>Let's Talk Photography</title>
         <link>https://www.lets-talk.ie/photo</link>
         <description>A monthly show of no fixed format focusing on the art and craft of photography. Sometimes it’s a panel show, sometimes it’s an interview show, and sometimes it’s just the host, Bart Busschots, pontificating on his own.</description>
-        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.5.2 (Build 25F84) https://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 4.8.4(6362); Mac OS X Version 26.6.2 (Build 25G83) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-ie</language>
         <copyright>2026 Bartificer Creations</copyright>
         <managingEditor>podcasting@bartificer.net</managingEditor>
-        <pubDate>Thu, 13 Aug 2026 18:42:13 +0100</pubDate>
-        <lastBuildDate>Thu, 13 Aug 2026 18:42:13 +0100</lastBuildDate>
+        <pubDate>Sun, 06 Sep 2026 11:30:14 +0100</pubDate>
+        <lastBuildDate>Sun, 06 Sep 2026 11:30:14 +0100</lastBuildDate>
         <image>
             <url>https://media.lets-talk.ie/ltp-thumbnail.jpg</url>
             <title>Let's Talk Photography</title>
@@ -36,6 +36,35 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:locked>no</podcast:locked>
+        <item>
+            <title>LTP 156: "Success" with Allister Jenks</title>
+            <link>https://lets-talk.ie/ltp156</link>
+            <description><![CDATA[<p>Allister Jenks returns to share his advice for becoming a successful photographer. Allister's advice is not intended to help us make money from photography, but to help us create fulfilling photographs.</p>
+
+<p>Listen, subscribe, and get the show notes at <a href="https://lets-talk.ie/ltp156">lets-talk.ie/ltp156</a>.</p>
+
+<p>This show is ad-free because of the generosity of listeners like you. Please considering <a rel="payment" href="https://patreon.com/ltpod">supporting the show on Patreon</a>.</p>
+
+<p>Reminder - you can submit questions for future Q &amp; A shows at <a. href="https://lets-talk.ie/photoq">lets-talk.ie/photoq</a>.</p>
+]]></description>
+            <pubDate>Sun, 06 Sep 2026 11:30:10 +0100</pubDate>
+            <enclosure url="https://media.lets-talk.ie/ltp/ltp156.mp3" length="50123789" type="audio/mpeg"/>
+            <guid isPermaLink="false">7CF86C0C-78EB-4DE9-8998-C4430E2FD41C</guid>
+            <itunes:author>Bart Busschots</itunes:author>
+            <itunes:subtitle>A conversation between Bart Busschots and Allister Jenks</itunes:subtitle>
+            <itunes:summary>Allister Jenks returns to share his advice for becoming a successful photographer. Allister’s advice is not intended to help us make money from photography, but to help us create fulfilling photographs.
+
+Listen, subscribe, and get the show notes at lets-talk.ie/ltp156.
+
+This show is ad-free because of the generosity of listeners like you. Please considering supporting the show on Patreon (https://patreon.com/ltpod).
+
+Reminder - you can submit questions for future Q &amp; A shows at lets-talk.ie/photoq.</itunes:summary>
+            <itunes:duration>6248</itunes:duration>
+            <itunes:season>0</itunes:season>
+            <itunes:episode>156</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>"Success" with Allister Jenks</itunes:title>
+        </item>
         <item>
             <title>LTP 155: Provenance not AI Detectors</title>
             <link>https://lets-talk.ie/ltp155</link>
